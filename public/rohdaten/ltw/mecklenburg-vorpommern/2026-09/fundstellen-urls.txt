@@ -1,0 +1,44 @@
+Fundstellen, gesichert am 05.10.2026. Die Bytes der CSV und der Bekanntmachung liegen daneben. Die übernommenen Stimmzeilen bleiben das vorläufige Ergebnis vom 21.09.2026, 00:01:10 Uhr.
+
+Landeswahlleiter, endgültig, Berechnungsdatum 29.09.2026 12:11:18. Dieselbe Adresse lieferte vorher die vorläufige Fassung. Die Wahlleitung überschreibt den Dateinamen.
+https://wahlen.mvnet.de/dateien/ergebnisse.2026/landtagswahl/csv/l_wahlbezirke.csv
+sha256 5c8cbd3d2874b927747d72d7701ff6e8549c1529417a8ef95b5263db83becda0  1805445 Bytes
+https://wahlen.mvnet.de/dateien/ergebnisse.2026/landtagswahl/csv/l_gemeinden.csv
+sha256 2af186a7ee970d7445f58646e89f0633184d80e2ef02de7275d62b938521d536  560632 Bytes
+https://wahlen.mvnet.de/dateien/ergebnisse.2026/landtagswahl/csv/l_wahlkreise.csv
+sha256 808b699932e798a7c7fae5c4566dddf36077e75f90aa7326fe04ba37bada58b3  23426 Bytes
+https://wahlen.mvnet.de/dateien/ergebnisse.2026/landtagswahl/csv/l_mandate.csv
+sha256 7b80fb3526ba8ddc673bcdbc7fa0231979702ba00f3dd588f133541cabd26f4e  5684 Bytes
+https://www.laiv-mv.de/static/LAIV/Wahlen/L-Bekanntmachungen/LTW%202026/LTW%202026%20Endgültiges%20Ergebnis%20-%20Bekanntmachung%20Amtsblatt.pdf
+sha256 e9493dfaad418c56c8a059dee9c5ba6b3aaa7c977707e5b739fe80df6d1b35ad  400783 Bytes
+https://www.laiv-mv.de/Wahlen/Landtagswahlen/2026/
+Wahlkreis-HTML: https://wahlen.mvnet.de/dateien/ergebnisse.2026/landtagswahl/html/l_01.html bis l_36.html. l_10.html wurde gelesen.
+
+Dasselbe Adressmuster, erste Bytes gelesen, nicht hierher kopiert:
+https://wahlen.mvnet.de/dateien/ergebnisse.2025/bundestagswahl/csv/b_wahlbezirke.csv
+https://wahlen.mvnet.de/dateien/ergebnisse.2025/bundestagswahl/csv/b_wahlkreise.csv
+https://wahlen.mvnet.de/dateien/ergebnisse.2021/landtagswahl/csv/l_wahlkreise.csv
+https://wahlen.mvnet.de/dateien/ergebnisse.2024/europawahl/csv/e_wahlkreise.csv
+Die Europawahl-Datei nennt in der Überschrift die Landkreise und kreisfreien Städte, nicht die Wahlkreise.
+
+Nordwestmecklenburg, Seite: https://www.nordwestmecklenburg.de/de/landtagswahl-2026.html
+Die PDF-Bytes kamen am 05.10.2026 nicht an. Am selben Tag wurden die Dateien nachgereicht und liegen unter nordwestmecklenburg/.
+Die drei Wahlkreisbekanntmachungen sind mit der vorläufigen Wahlkreiszeile verglichen. Die amtliche Zahl bleibt.
+Anzeigen 210997 und Download 210998 sind dieselben Bytes (1148690) und nicht ein zweites Mal gerechnet. Die Seite nannte die Datei Wahllokale; sie enthält die Wahlkreissummen, keine Bezirke.
+Die Niederschriften nennen dieselben Summen. Anlage 22.1 ist erwähnt und liegt nicht in der Datei.
+Die Nachzählung Dragun 1 ist eine Anordnung vom 22.09.2026 ohne Stimmenzahlen.
+
+https://www.nordwestmecklenburg.de/de/datei/anzeigen/id/210947,1105/bekanntmachung_des_endgueltigen_ergebnisses_der_landtagswahl_2026_wahlkreis_10.pdf
+sha256 837f6ad84fa3dc069c6c357c00cfd05d08684e207c0af0e88bc12370b9ff9051  nordwestmecklenburg/endgueltig_wk_10.pdf
+https://www.nordwestmecklenburg.de/de/datei/anzeigen/id/210949,1105/bekanntmachung_des_endgueltigen_ergebnisses_der_landtagswahl_2026_wahlkreis_27.pdf
+sha256 b374a65397b89742a2350b9b490a1da5df1760390008ee525018cf3728f4035c  nordwestmecklenburg/endgueltig_wk_27.pdf
+https://www.nordwestmecklenburg.de/de/datei/anzeigen/id/210951,1105/bekanntmachung_des_endgueltigen_ergebnisses_der_landtagswahl_2026_wahlkreis_28.pdf
+sha256 795a61b80cb430a47b9be43ffe2eb4c50dd849eeadfc2228282fa2189ea2eab4  nordwestmecklenburg/endgueltig_wk_28.pdf
+https://www.nordwestmecklenburg.de/de/datei/anzeigen/id/210997,1105/bekanntmachung_des_endgueltigen_ergebnisses_der_landtagswahl_2026.pdf
+sha256 0556c1e081c7138820c98f4ab5bd3f275d7126efbdada38ae8ebd5ecc7370606  nordwestmecklenburg/endgueltig_wahlkreise_10_27_28.pdf
+https://www.nordwestmecklenburg.de/de/datei/download/id/210998,1105/bekanntmachung_des_endg_ltigen_ergebnisses_der_landtagswahl_2026.pdf
+gleiche Bytes wie anzeigen 210997
+https://www.nordwestmecklenburg.de/de/datei/download/id/211051,1105/landtagswahl_niederschriften_wahlkreise10_27_28.pdf
+sha256 0c35d758355f2e2e16606da456ddc984d1e9c9b53c88b6d5fb99b44adfa47fed  nordwestmecklenburg/niederschriften_wk_10_27_28.pdf
+https://www.nordwestmecklenburg.de/de/datei/download/id/210701,1105/nachz_hlung_der_landtagswahl_am_20.09.2026_.pdf
+sha256 60dc96b6688ead2c6d9a441ed3fb616f440d2e7a02eada29a72f2bd01e8d1933  nordwestmecklenburg/nachzaehlung_dragun_1.pdf

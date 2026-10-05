@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:jaxb="http://java.sun.com/xml/ns/jaxb" jaxb:version="2.1">
+  <xs:annotation>
+    <xs:documentation xml:lang="de">
+      Schema für den Dateiexport im Auskunftsdialog der Stimmkreise für die Landtagswahl in Bayern.
+      Copyright 2017 Bay. Landesamt für Statistik. All rights reserved.
+    </xs:documentation>
+  </xs:annotation>
+  <xs:element name="Ergebnisse">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="Regionaleinheit" maxOccurs="unbounded" minOccurs="0">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="Allgemeine_Angaben">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element type="xs:int" name="Schluesselnummer"/>
+                  <xs:element type="xs:string" name="Name_der_Regionaleinheit"/>
+                  <xs:element type="xs:date" name="Stand_Tagesdatum"/>
+                  <xs:element type="xs:time" name="Stand_Uhrzeit"/>
+                  <xs:element type="xs:integer" name="Stimmberechtigte"/>
+                  <xs:element type="xs:integer" name="Waehler"/>
+                  <xs:element type="xs:decimal" name="Wahlbeteiligung"/>
+                  <xs:element type="xs:decimal" name="Veraenderung_der_Wahlbeteiligung_gegenueber_der_Vergleichswahl"/>
+                  <xs:element type="xs:integer" name="abgegebene_Erststimmen_insgesamt_der_aktuellen_Wahl"/>
+                  <xs:element type="xs:integer" name="abgegebene_Erststimmen_insgesamt_der_Vergleichswahl"/>
+                  <xs:element type="xs:integer" name="gueltige_Erststimmen_insgesamt_der_aktuellen_Wahl"/>
+                  <xs:element type="xs:integer" name="gueltige_Erststimmen_insgesamt_der_Vergleichswahl"/>
+                  <xs:element type="xs:integer" name="ungueltige_Erststimmen_der_aktuellen_Wahl"/>
+                  <xs:element type="xs:integer" name="ungueltige_Erststimmen_der_Vergleichswahl"/>
+                  <xs:element type="xs:integer" name="abgegebene_Zweitstimmen_insgesamt_der_aktuellen_Wahl"/>
+                  <xs:element type="xs:integer" name="abgegebene_Zweitstimmen_insgesamt_der_Vergleichswahl"/>
+                  <xs:element type="xs:integer" name="gueltige_Zweitstimmen_insgesamt_der_aktuellen_Wahl"/>
+                  <xs:element type="xs:integer" name="gueltige_Zweitstimmen_insgesamt_der_Vergleichswahl"/>
+                  <xs:element type="xs:integer" name="ungueltige_Zweitstimmen_der_aktuellen_Wahl"/>
+                  <xs:element type="xs:integer" name="ungueltige_Zweitstimmen_der_Vergleichswahl"/>
+                  <xs:element type="xs:integer" name="abgegebene_Gesamtstimmen_insgesamt_der_aktuellen_Wahl"/>
+                  <xs:element type="xs:integer" name="abgegebene_Gesamtstimmen_insgesamt_der_Vergleichswahl"/>
+                  <xs:element type="xs:integer" name="gueltige_Gesamtstimmen_insgesamt_der_aktuellen_Wahl"/>
+                  <xs:element type="xs:integer" name="gueltige_Gesamtstimmen_insgesamt_der_Vergleichswahl"/>
+                  <xs:element type="xs:integer" name="ungueltige_Gesamtstimmen_der_aktuellen_Wahl"/>
+                  <xs:element type="xs:integer" name="ungueltige_Gesamtstimmen_der_Vergleichswahl"/>
+                  <xs:element minOccurs="0" maxOccurs="1" type="xs:string" name="Partei_mit_Erststimmenmehrheit"/> <!-- optional, da nicht kummulierbar -->
+                  <xs:element minOccurs="0" maxOccurs="1" type="xs:string" name="Bewerber_mit_Erststimmenmehrheit"/> <!-- optional, da nicht kummulierbar -->
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Wahlvorschläge">              
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Wahlvorschlag" maxOccurs="unbounded" minOccurs="0">
+                    <xs:complexType>
+                      <xs:sequence>
+                        <xs:element type="xs:string" name="Name"/>
+                        <xs:element minOccurs="0" maxOccurs="1" type="xs:string" name="Bewerber"/>
+                        <xs:element minOccurs="0" maxOccurs="1" type="xs:integer" name="Erststimmen_der_aktuellen_Wahl"/> <!-- optional, falls keinen Kandidaten aufgestellt -->
+                        <xs:element minOccurs="0" maxOccurs="1" type="xs:integer" name="Erststimmen_der_Vergleichswahl"/> <!-- optional, falls nicht angetreten -->
+                        <xs:element minOccurs="0" maxOccurs="1" type="xs:integer" name="Zweitstimmen_der_aktuellen_Wahl"/> <!-- optional, falls nicht Übrige -->
+                        <xs:element minOccurs="0" maxOccurs="1" type="xs:integer" name="Zweitstimmen_der_Vergleichswahl"/> <!-- optional, falls nicht angetreten -->
+                        <xs:element minOccurs="0" maxOccurs="1" type="xs:integer" name="Gesamtstimmen_der_aktuellen_Wahl"/> <!-- optional, falls nicht Übrige -->
+                        <xs:element minOccurs="0" maxOccurs="1" type="xs:integer" name="Gesamtstimmen_der_Vergleichswahl"/> <!-- optional, falls nicht angetreten -->
+                      </xs:sequence>
+                    </xs:complexType>                  
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>                  
+            </xs:element>
+            <xs:element minOccurs="0" maxOccurs="1" name="Zahl_der_Stimmkreise"> <!-- optional, nur wenn aggregiert -->
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element type="xs:int" name="Ausgewertet"/>
+                  <xs:element type="xs:int" name="Insgesamt"/>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  </xs:element>
+</xs:schema>

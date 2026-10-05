@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Sitzverteilung>
+    <WahlMetadaten>
+        <File Ursprungsname="sitze_02.xml" Erstellungszeit="2024-07-03T11:54:41.980+02:00" ErstellungszeitMillis="1720000481980" FileVersion="2"/>
+        <Wahl Wahlart="EUROPAWAHL_BUND" Wahltermin="2024-06-09+02:00" WahlterminVorp="2019-05-26+02:00" WahlId="EU_BUND 24" GebietsartAuswertungseinheit="KREIS" GebietsartWahleinheit="KREIS" GebietsartFExport="KREIS" GebietsartBestaetigung="LAND"/>
+        <Lauf Startzeit="1970-02-11T23:45:57.082+01:00">
+            <Daten Eingabe="ENDGUELTIG" Vergleich="VORPERIODE" Qualitaet="PRODUKTION" Status="ENDGUELTIG" ZustSeqNr="0"/>
+            <Allgemein>
+                <Besonderheit Art="BESONDERHEIT" Bemerkung="Kreis 05 3 34: Inklusive des Ergebnisses der kreisfreien Stadt Aachen." Details="-" Gebietsart="KREIS" Gebietsnummer="5334"/>
+            </Allgemein>
+            <Stimmeingabe>
+                <Eingabestand AuswertungseinheitenEingegangen="400" AuswertungseinheitenGesamt="400" LetzteAuswertungseinheit="9780" Eingang="2024-06-26T12:52:51.000+02:00"/>
+            </Stimmeingabe>
+        </Lauf>
+    </WahlMetadaten>
+    <Gebiet Gebietsart="BUND" Gebietsnummer="99" ListenstimmenGesamt="39810489" SitzeGesamt="96">
+        <SitzeGruppe Gruppe="1" Gesamt="23" GesamtVgl="23" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="8" Prozent="34.782609" GesamtVgl="5" ProzentVgl="21.739130"/>
+            <SainteLague SitzeUngerundetEnde="23.070015" SitzeUngerundetZaehler="2358909" SitzeUngerundetNenner="102250" SitzeUngerundetGanze="23" SitzeUngerundetRest="7159" SitzeGerundetEnde="23" VerteilungVorab="false" Sitze="23" Listenstimmen="9435636">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="22.753327" SitzeUngerundetZaehler="301940352" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="22" SitzeUngerundetRest="9996766" SitzeGerundet="23" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="23.5" Divisorkandidat="401516.425532" DivisorkandidatZaehler="18871272" DivisorkandidatNenner="47" DivisorkandidatGanze="401516" DivisorkandidatRest="20" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="24.5" Divisorkandidat="385128.000000" DivisorkandidatZaehler="385128" DivisorkandidatNenner="1" DivisorkandidatGanze="385128" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="22.902029" SitzeUngerundetZaehler="2358909" SitzeUngerundetNenner="103000" SitzeUngerundetGanze="22" SitzeUngerundetRest="92909" SitzeGerundet="23" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="23.5" Divisorkandidat="401516.425532" DivisorkandidatZaehler="18871272" DivisorkandidatNenner="47" DivisorkandidatGanze="401516" DivisorkandidatRest="20" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="24.5" Divisorkandidat="385128.000000" DivisorkandidatZaehler="385128" DivisorkandidatNenner="1" DivisorkandidatGanze="385128" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="23.013746" SitzeUngerundetZaehler="2358909" SitzeUngerundetNenner="102500" SitzeUngerundetGanze="23" SitzeUngerundetRest="1409" SitzeGerundet="23" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="23.5" Divisorkandidat="401516.425532" DivisorkandidatZaehler="18871272" DivisorkandidatNenner="47" DivisorkandidatGanze="401516" DivisorkandidatRest="20" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="24.5" Divisorkandidat="385128.000000" DivisorkandidatZaehler="385128" DivisorkandidatNenner="1" DivisorkandidatGanze="385128" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="23.070015" SitzeUngerundetZaehler="2358909" SitzeUngerundetNenner="102250" SitzeUngerundetGanze="23" SitzeUngerundetRest="7159" SitzeGerundet="23" SummeSitzeGerundet="96"/>
+                </Rechengang>
+                <Berechnungsparameter VerteilungVorab="false" SitzeGesamt="23" ListenstimmenGesamt="9435636">
+                    <SainteLagueStartParameter DivisorAnfang="410245.043478"/>
+                    <SainteLagueEndParameter DivisorEnde="400000" SummeSitzeGerundetEnde="23"/>
+                </Berechnungsparameter>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="3" Gesamt="12" GesamtVgl="21" DifferenzGesamt="-9" ListeErschoepft="0">
+            <Frauen Gesamt="6" Prozent="50.000000" GesamtVgl="11" ProzentVgl="52.380952"/>
+            <SainteLague SitzeUngerundetEnde="11.584907" SitzeUngerundetZaehler="4738227" SitzeUngerundetNenner="409000" SitzeUngerundetGanze="11" SitzeUngerundetRest="239227" SitzeGerundetEnde="12" VerteilungVorab="false" Sitze="12" Listenstimmen="4738227">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="11.425878" SitzeUngerundetZaehler="151623264" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="11" SitzeUngerundetRest="5651471" SitzeGerundet="11" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="11.5" Divisorkandidat="412019.739130" DivisorkandidatZaehler="9476454" DivisorkandidatNenner="23" DivisorkandidatGanze="412019" DivisorkandidatRest="17" MinMax="max"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="12.5" Divisorkandidat="379058.160000" DivisorkandidatZaehler="9476454" DivisorkandidatNenner="25" DivisorkandidatGanze="379058" DivisorkandidatRest="4" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="11.500551" SitzeUngerundetZaehler="4738227" SitzeUngerundetNenner="412000" SitzeUngerundetGanze="11" SitzeUngerundetRest="206227" SitzeGerundet="12" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="12.5" Divisorkandidat="379058.160000" DivisorkandidatZaehler="9476454" DivisorkandidatNenner="25" DivisorkandidatGanze="379058" DivisorkandidatRest="4" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="13.5" Divisorkandidat="350979.777778" DivisorkandidatZaehler="3158818" DivisorkandidatNenner="9" DivisorkandidatGanze="350979" DivisorkandidatRest="7" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="11.556651" SitzeUngerundetZaehler="4738227" SitzeUngerundetNenner="410000" SitzeUngerundetGanze="11" SitzeUngerundetRest="228227" SitzeGerundet="12" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="12.5" Divisorkandidat="379058.160000" DivisorkandidatZaehler="9476454" DivisorkandidatNenner="25" DivisorkandidatGanze="379058" DivisorkandidatRest="4" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="13.5" Divisorkandidat="350979.777778" DivisorkandidatZaehler="3158818" DivisorkandidatNenner="9" DivisorkandidatGanze="350979" DivisorkandidatRest="7" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="11.584907" SitzeUngerundetZaehler="4738227" SitzeUngerundetNenner="409000" SitzeUngerundetGanze="11" SitzeUngerundetRest="239227" SitzeGerundet="12" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="2" Gesamt="14" GesamtVgl="16" DifferenzGesamt="-2" ListeErschoepft="0">
+            <Frauen Gesamt="7" Prozent="50.000000" GesamtVgl="8" ProzentVgl="50.000000"/>
+            <SainteLague SitzeUngerundetEnde="13.573460" SitzeUngerundetZaehler="1110309" SitzeUngerundetNenner="81800" SitzeUngerundetGanze="13" SitzeUngerundetRest="46909" SitzeGerundetEnde="14" VerteilungVorab="false" Sitze="14" Listenstimmen="5551545">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="13.387133" SitzeUngerundetZaehler="177649440" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="13" SitzeUngerundetRest="5137321" SitzeGerundet="13" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="13.5" Divisorkandidat="411225.555556" DivisorkandidatZaehler="3701030" DivisorkandidatNenner="9" DivisorkandidatGanze="411225" DivisorkandidatRest="5" MinMax="min"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="14.5" Divisorkandidat="382865.172414" DivisorkandidatZaehler="11103090" DivisorkandidatNenner="29" DivisorkandidatGanze="382865" DivisorkandidatRest="5" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="13.474624" SitzeUngerundetZaehler="1110309" SitzeUngerundetNenner="82400" SitzeUngerundetGanze="13" SitzeUngerundetRest="39109" SitzeGerundet="13" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="13.5" Divisorkandidat="411225.555556" DivisorkandidatZaehler="3701030" DivisorkandidatNenner="9" DivisorkandidatGanze="411225" DivisorkandidatRest="5" MinMax="max"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="14.5" Divisorkandidat="382865.172414" DivisorkandidatZaehler="11103090" DivisorkandidatNenner="29" DivisorkandidatGanze="382865" DivisorkandidatRest="5" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="13.540354" SitzeUngerundetZaehler="1110309" SitzeUngerundetNenner="82000" SitzeUngerundetGanze="13" SitzeUngerundetRest="44309" SitzeGerundet="14" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="14.5" Divisorkandidat="382865.172414" DivisorkandidatZaehler="11103090" DivisorkandidatNenner="29" DivisorkandidatGanze="382865" DivisorkandidatRest="5" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="15.5" Divisorkandidat="358164.193548" DivisorkandidatZaehler="11103090" DivisorkandidatNenner="31" DivisorkandidatGanze="358164" DivisorkandidatRest="6" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="13.573460" SitzeUngerundetZaehler="1110309" SitzeUngerundetNenner="81800" SitzeUngerundetGanze="13" SitzeUngerundetRest="46909" SitzeGerundet="14" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="5" Gesamt="15" GesamtVgl="11" DifferenzGesamt="4" ListeErschoepft="0">
+            <Frauen Gesamt="4" Prozent="26.666667" GesamtVgl="2" ProzentVgl="18.181818"/>
+            <SainteLague SitzeUngerundetEnde="15.466724" SitzeUngerundetZaehler="632589" SitzeUngerundetNenner="40900" SitzeUngerundetGanze="15" SitzeUngerundetRest="19089" SitzeGerundetEnde="15" VerteilungVorab="false" Sitze="15" Listenstimmen="6325890">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="15.254408" SitzeUngerundetZaehler="202428480" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="15" SitzeUngerundetRest="3376035" SitzeGerundet="15" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="15.5" Divisorkandidat="408121.935484" DivisorkandidatZaehler="12651780" DivisorkandidatNenner="31" DivisorkandidatGanze="408121" DivisorkandidatRest="29" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="16.5" Divisorkandidat="383387.272727" DivisorkandidatZaehler="4217260" DivisorkandidatNenner="11" DivisorkandidatGanze="383387" DivisorkandidatRest="3" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="15.354102" SitzeUngerundetZaehler="632589" SitzeUngerundetNenner="41200" SitzeUngerundetGanze="15" SitzeUngerundetRest="14589" SitzeGerundet="15" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="15.5" Divisorkandidat="408121.935484" DivisorkandidatZaehler="12651780" DivisorkandidatNenner="31" DivisorkandidatGanze="408121" DivisorkandidatRest="29" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="16.5" Divisorkandidat="383387.272727" DivisorkandidatZaehler="4217260" DivisorkandidatNenner="11" DivisorkandidatGanze="383387" DivisorkandidatRest="3" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="15.429000" SitzeUngerundetZaehler="15429" SitzeUngerundetNenner="1000" SitzeUngerundetGanze="15" SitzeUngerundetRest="429" SitzeGerundet="15" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="15.5" Divisorkandidat="408121.935484" DivisorkandidatZaehler="12651780" DivisorkandidatNenner="31" DivisorkandidatGanze="408121" DivisorkandidatRest="29" MinMax="min"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="16.5" Divisorkandidat="383387.272727" DivisorkandidatZaehler="4217260" DivisorkandidatNenner="11" DivisorkandidatGanze="383387" DivisorkandidatRest="3" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="15.466724" SitzeUngerundetZaehler="632589" SitzeUngerundetNenner="40900" SitzeUngerundetGanze="15" SitzeUngerundetRest="19089" SitzeGerundet="15" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="6" Gesamt="6" GesamtVgl="6" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="2" Prozent="33.333333" GesamtVgl="3" ProzentVgl="50.000000"/>
+            <SainteLague SitzeUngerundetEnde="6.145430" SitzeUngerundetZaehler="2513481" SitzeUngerundetNenner="409000" SitzeUngerundetGanze="6" SitzeUngerundetRest="59481" SitzeGerundetEnde="6" VerteilungVorab="false" Sitze="6" Listenstimmen="2513481">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="6.061070" SitzeUngerundetZaehler="80431392" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="6" SitzeUngerundetRest="810414" SitzeGerundet="6" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="6.5" Divisorkandidat="386689.384615" DivisorkandidatZaehler="5026962" DivisorkandidatNenner="13" DivisorkandidatGanze="386689" DivisorkandidatRest="5" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="7.5" Divisorkandidat="335130.800000" DivisorkandidatZaehler="1675654" DivisorkandidatNenner="5" DivisorkandidatGanze="335130" DivisorkandidatRest="4" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="6.100682" SitzeUngerundetZaehler="2513481" SitzeUngerundetNenner="412000" SitzeUngerundetGanze="6" SitzeUngerundetRest="41481" SitzeGerundet="6" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="6.5" Divisorkandidat="386689.384615" DivisorkandidatZaehler="5026962" DivisorkandidatNenner="13" DivisorkandidatGanze="386689" DivisorkandidatRest="5" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="7.5" Divisorkandidat="335130.800000" DivisorkandidatZaehler="1675654" DivisorkandidatNenner="5" DivisorkandidatGanze="335130" DivisorkandidatRest="4" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="6.130441" SitzeUngerundetZaehler="2513481" SitzeUngerundetNenner="410000" SitzeUngerundetGanze="6" SitzeUngerundetRest="53481" SitzeGerundet="6" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="6.5" Divisorkandidat="386689.384615" DivisorkandidatZaehler="5026962" DivisorkandidatNenner="13" DivisorkandidatGanze="386689" DivisorkandidatRest="5" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="7.5" Divisorkandidat="335130.800000" DivisorkandidatZaehler="1675654" DivisorkandidatNenner="5" DivisorkandidatGanze="335130" DivisorkandidatRest="4" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="6.145430" SitzeUngerundetZaehler="2513481" SitzeUngerundetNenner="409000" SitzeUngerundetGanze="6" SitzeUngerundetRest="59481" SitzeGerundet="6" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="4" Gesamt="3" GesamtVgl="5" DifferenzGesamt="-2" ListeErschoepft="0">
+            <Frauen Gesamt="2" Prozent="66.666667" GesamtVgl="3" ProzentVgl="60.000000"/>
+            <SainteLague SitzeUngerundetEnde="2.668914" SitzeUngerundetZaehler="545793" SitzeUngerundetNenner="204500" SitzeUngerundetGanze="2" SitzeUngerundetRest="136793" SitzeGerundetEnde="3" VerteilungVorab="false" Sitze="3" Listenstimmen="1091586">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="2.632278" SitzeUngerundetZaehler="34930752" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="2" SitzeUngerundetRest="8390426" SitzeGerundet="3" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="3.5" Divisorkandidat="311881.714286" DivisorkandidatZaehler="2183172" DivisorkandidatNenner="7" DivisorkandidatGanze="311881" DivisorkandidatRest="5" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="4.5" Divisorkandidat="242574.666667" DivisorkandidatZaehler="727724" DivisorkandidatNenner="3" DivisorkandidatGanze="242574" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="2.649481" SitzeUngerundetZaehler="545793" SitzeUngerundetNenner="206000" SitzeUngerundetGanze="2" SitzeUngerundetRest="133793" SitzeGerundet="3" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="3.5" Divisorkandidat="311881.714286" DivisorkandidatZaehler="2183172" DivisorkandidatNenner="7" DivisorkandidatGanze="311881" DivisorkandidatRest="5" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="4.5" Divisorkandidat="242574.666667" DivisorkandidatZaehler="727724" DivisorkandidatNenner="3" DivisorkandidatGanze="242574" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="2.662405" SitzeUngerundetZaehler="545793" SitzeUngerundetNenner="205000" SitzeUngerundetGanze="2" SitzeUngerundetRest="135793" SitzeGerundet="3" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="3.5" Divisorkandidat="311881.714286" DivisorkandidatZaehler="2183172" DivisorkandidatNenner="7" DivisorkandidatGanze="311881" DivisorkandidatRest="5" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="4.5" Divisorkandidat="242574.666667" DivisorkandidatZaehler="727724" DivisorkandidatNenner="3" DivisorkandidatGanze="242574" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="2.668914" SitzeUngerundetZaehler="545793" SitzeUngerundetNenner="204500" SitzeUngerundetGanze="2" SitzeUngerundetRest="136793" SitzeGerundet="3" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="7" Gesamt="5" GesamtVgl="5" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="2" Prozent="40.000000" GesamtVgl="2" ProzentVgl="40.000000"/>
+            <SainteLague SitzeUngerundetEnde="5.039936" SitzeUngerundetZaehler="1030667" SitzeUngerundetNenner="204500" SitzeUngerundetGanze="5" SitzeUngerundetRest="8167" SitzeGerundetEnde="5" VerteilungVorab="false" Sitze="5" Listenstimmen="2061334">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="4.970752" SitzeUngerundetZaehler="65962688" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="4" SitzeUngerundetRest="12882036" SitzeGerundet="5" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="5.5" Divisorkandidat="374788.000000" DivisorkandidatZaehler="374788" DivisorkandidatNenner="1" DivisorkandidatGanze="374788" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="6.5" Divisorkandidat="317128.307692" DivisorkandidatZaehler="4122668" DivisorkandidatNenner="13" DivisorkandidatGanze="317128" DivisorkandidatRest="4" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="5.003238" SitzeUngerundetZaehler="1030667" SitzeUngerundetNenner="206000" SitzeUngerundetGanze="5" SitzeUngerundetRest="667" SitzeGerundet="5" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="5.5" Divisorkandidat="374788.000000" DivisorkandidatZaehler="374788" DivisorkandidatNenner="1" DivisorkandidatGanze="374788" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="6.5" Divisorkandidat="317128.307692" DivisorkandidatZaehler="4122668" DivisorkandidatNenner="13" DivisorkandidatGanze="317128" DivisorkandidatRest="4" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="5.027644" SitzeUngerundetZaehler="1030667" SitzeUngerundetNenner="205000" SitzeUngerundetGanze="5" SitzeUngerundetRest="5667" SitzeGerundet="5" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="5.5" Divisorkandidat="374788.000000" DivisorkandidatZaehler="374788" DivisorkandidatNenner="1" DivisorkandidatGanze="374788" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="6.5" Divisorkandidat="317128.307692" DivisorkandidatZaehler="4122668" DivisorkandidatNenner="13" DivisorkandidatGanze="317128" DivisorkandidatRest="4" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="5.039936" SitzeUngerundetZaehler="1030667" SitzeUngerundetNenner="204500" SitzeUngerundetGanze="5" SitzeUngerundetRest="8167" SitzeGerundet="5" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="14" Gesamt="2" GesamtVgl="2" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="1" Prozent="50.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="1.896421" SitzeUngerundetZaehler="193909" SitzeUngerundetNenner="102250" SitzeUngerundetGanze="1" SitzeUngerundetRest="91659" SitzeGerundetEnde="2" VerteilungVorab="false" Sitze="2" Listenstimmen="775636">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="1.870388" SitzeUngerundetZaehler="24820352" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="1" SitzeUngerundetRest="11550189" SitzeGerundet="2" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="2.5" Divisorkandidat="310254.400000" DivisorkandidatZaehler="1551272" DivisorkandidatNenner="5" DivisorkandidatGanze="310254" DivisorkandidatRest="2" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="3.5" Divisorkandidat="221610.285714" DivisorkandidatZaehler="1551272" DivisorkandidatNenner="7" DivisorkandidatGanze="221610" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="1.882612" SitzeUngerundetZaehler="193909" SitzeUngerundetNenner="103000" SitzeUngerundetGanze="1" SitzeUngerundetRest="90909" SitzeGerundet="2" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="2.5" Divisorkandidat="310254.400000" DivisorkandidatZaehler="1551272" DivisorkandidatNenner="5" DivisorkandidatGanze="310254" DivisorkandidatRest="2" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="3.5" Divisorkandidat="221610.285714" DivisorkandidatZaehler="1551272" DivisorkandidatNenner="7" DivisorkandidatGanze="221610" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="1.891795" SitzeUngerundetZaehler="193909" SitzeUngerundetNenner="102500" SitzeUngerundetGanze="1" SitzeUngerundetRest="91409" SitzeGerundet="2" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="2.5" Divisorkandidat="310254.400000" DivisorkandidatZaehler="1551272" DivisorkandidatNenner="5" DivisorkandidatGanze="310254" DivisorkandidatRest="2" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="3.5" Divisorkandidat="221610.285714" DivisorkandidatZaehler="1551272" DivisorkandidatNenner="7" DivisorkandidatGanze="221610" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="1.896421" SitzeUngerundetZaehler="193909" SitzeUngerundetNenner="102250" SitzeUngerundetGanze="1" SitzeUngerundetRest="91659" SitzeGerundet="2" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="8" Gesamt="3" GesamtVgl="2" DifferenzGesamt="1" ListeErschoepft="0">
+            <Frauen Gesamt="1" Prozent="33.333333" GesamtVgl="1" ProzentVgl="50.000000"/>
+            <SainteLague SitzeUngerundetEnde="2.597645" SitzeUngerundetZaehler="1062437" SitzeUngerundetNenner="409000" SitzeUngerundetGanze="2" SitzeUngerundetRest="244437" SitzeGerundetEnde="3" VerteilungVorab="false" Sitze="3" Listenstimmen="1062437">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="2.561987" SitzeUngerundetZaehler="33997984" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="2" SitzeUngerundetRest="7457658" SitzeGerundet="3" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="3.5" Divisorkandidat="303553.428571" DivisorkandidatZaehler="2124874" DivisorkandidatNenner="7" DivisorkandidatGanze="303553" DivisorkandidatRest="3" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="4.5" Divisorkandidat="236097.111111" DivisorkandidatZaehler="2124874" DivisorkandidatNenner="9" DivisorkandidatGanze="236097" DivisorkandidatRest="1" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="2.578731" SitzeUngerundetZaehler="1062437" SitzeUngerundetNenner="412000" SitzeUngerundetGanze="2" SitzeUngerundetRest="238437" SitzeGerundet="3" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="3.5" Divisorkandidat="303553.428571" DivisorkandidatZaehler="2124874" DivisorkandidatNenner="7" DivisorkandidatGanze="303553" DivisorkandidatRest="3" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="4.5" Divisorkandidat="236097.111111" DivisorkandidatZaehler="2124874" DivisorkandidatNenner="9" DivisorkandidatGanze="236097" DivisorkandidatRest="1" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="2.591310" SitzeUngerundetZaehler="1062437" SitzeUngerundetNenner="410000" SitzeUngerundetGanze="2" SitzeUngerundetRest="242437" SitzeGerundet="3" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="3.5" Divisorkandidat="303553.428571" DivisorkandidatZaehler="2124874" DivisorkandidatNenner="7" DivisorkandidatGanze="303553" DivisorkandidatRest="3" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="4.5" Divisorkandidat="236097.111111" DivisorkandidatZaehler="2124874" DivisorkandidatNenner="9" DivisorkandidatGanze="236097" DivisorkandidatRest="1" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="2.597645" SitzeUngerundetZaehler="1062437" SitzeUngerundetNenner="409000" SitzeUngerundetGanze="2" SitzeUngerundetRest="244437" SitzeGerundet="3" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="10" Gesamt="1" GesamtVgl="1" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="1.395543" SitzeUngerundetZaehler="570777" SitzeUngerundetNenner="409000" SitzeUngerundetGanze="1" SitzeUngerundetRest="161777" SitzeGerundetEnde="1" VerteilungVorab="false" Sitze="1" Listenstimmen="570777">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="1.376386" SitzeUngerundetZaehler="18264864" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="1" SitzeUngerundetRest="4994701" SitzeGerundet="1" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="1.5" Divisorkandidat="380518.000000" DivisorkandidatZaehler="380518" DivisorkandidatNenner="1" DivisorkandidatGanze="380518" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="2.5" Divisorkandidat="228310.800000" DivisorkandidatZaehler="1141554" DivisorkandidatNenner="5" DivisorkandidatGanze="228310" DivisorkandidatRest="4" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="1.385381" SitzeUngerundetZaehler="570777" SitzeUngerundetNenner="412000" SitzeUngerundetGanze="1" SitzeUngerundetRest="158777" SitzeGerundet="1" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="1.5" Divisorkandidat="380518.000000" DivisorkandidatZaehler="380518" DivisorkandidatNenner="1" DivisorkandidatGanze="380518" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="2.5" Divisorkandidat="228310.800000" DivisorkandidatZaehler="1141554" DivisorkandidatNenner="5" DivisorkandidatGanze="228310" DivisorkandidatRest="4" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="1.392139" SitzeUngerundetZaehler="570777" SitzeUngerundetNenner="410000" SitzeUngerundetGanze="1" SitzeUngerundetRest="160777" SitzeGerundet="1" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="1.5" Divisorkandidat="380518.000000" DivisorkandidatZaehler="380518" DivisorkandidatNenner="1" DivisorkandidatGanze="380518" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="2.5" Divisorkandidat="228310.800000" DivisorkandidatZaehler="1141554" DivisorkandidatNenner="5" DivisorkandidatGanze="228310" DivisorkandidatRest="4" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="1.395543" SitzeUngerundetZaehler="570777" SitzeUngerundetNenner="409000" SitzeUngerundetGanze="1" SitzeUngerundetRest="161777" SitzeGerundet="1" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="13" Gesamt="1" GesamtVgl="1" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="1" Prozent="100.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.630746" SitzeUngerundetZaehler="10319" SitzeUngerundetNenner="16360" SitzeUngerundetGanze="0" SitzeUngerundetRest="10319" SitzeGerundetEnde="1" VerteilungVorab="false" Sitze="1" Listenstimmen="257975">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="0.622087" SitzeUngerundetZaehler="8255200" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="0" SitzeUngerundetRest="8255200" SitzeGerundet="1" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="1.5" Divisorkandidat="171983.333333" DivisorkandidatZaehler="515950" DivisorkandidatNenner="3" DivisorkandidatGanze="171983" DivisorkandidatRest="1" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="2.5" Divisorkandidat="103190.000000" DivisorkandidatZaehler="103190" DivisorkandidatNenner="1" DivisorkandidatGanze="103190" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="0.626153" SitzeUngerundetZaehler="10319" SitzeUngerundetNenner="16480" SitzeUngerundetGanze="0" SitzeUngerundetRest="10319" SitzeGerundet="1" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="1.5" Divisorkandidat="171983.333333" DivisorkandidatZaehler="515950" DivisorkandidatNenner="3" DivisorkandidatGanze="171983" DivisorkandidatRest="1" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="2.5" Divisorkandidat="103190.000000" DivisorkandidatZaehler="103190" DivisorkandidatNenner="1" DivisorkandidatGanze="103190" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="0.629207" SitzeUngerundetZaehler="10319" SitzeUngerundetNenner="16400" SitzeUngerundetGanze="0" SitzeUngerundetRest="10319" SitzeGerundet="1" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="1.5" Divisorkandidat="171983.333333" DivisorkandidatZaehler="515950" DivisorkandidatNenner="3" DivisorkandidatGanze="171983" DivisorkandidatRest="1" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="2.5" Divisorkandidat="103190.000000" DivisorkandidatZaehler="103190" DivisorkandidatNenner="1" DivisorkandidatGanze="103190" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="0.630746" SitzeUngerundetZaehler="10319" SitzeUngerundetNenner="16360" SitzeUngerundetGanze="0" SitzeUngerundetRest="10319" SitzeGerundet="1" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="12" Gesamt="1" GesamtVgl="1" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.596650" SitzeUngerundetZaehler="24403" SitzeUngerundetNenner="40900" SitzeUngerundetGanze="0" SitzeUngerundetRest="24403" SitzeGerundetEnde="1" VerteilungVorab="false" Sitze="1" Listenstimmen="244030">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="0.588460" SitzeUngerundetZaehler="7808960" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="0" SitzeUngerundetRest="7808960" SitzeGerundet="1" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="1.5" Divisorkandidat="162686.666667" DivisorkandidatZaehler="488060" DivisorkandidatNenner="3" DivisorkandidatGanze="162686" DivisorkandidatRest="2" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="2.5" Divisorkandidat="97612.000000" DivisorkandidatZaehler="97612" DivisorkandidatNenner="1" DivisorkandidatGanze="97612" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="0.592306" SitzeUngerundetZaehler="24403" SitzeUngerundetNenner="41200" SitzeUngerundetGanze="0" SitzeUngerundetRest="24403" SitzeGerundet="1" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="1.5" Divisorkandidat="162686.666667" DivisorkandidatZaehler="488060" DivisorkandidatNenner="3" DivisorkandidatGanze="162686" DivisorkandidatRest="2" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="2.5" Divisorkandidat="97612.000000" DivisorkandidatZaehler="97612" DivisorkandidatNenner="1" DivisorkandidatGanze="97612" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="0.595195" SitzeUngerundetZaehler="24403" SitzeUngerundetNenner="41000" SitzeUngerundetGanze="0" SitzeUngerundetRest="24403" SitzeGerundet="1" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="1.5" Divisorkandidat="162686.666667" DivisorkandidatZaehler="488060" DivisorkandidatNenner="3" DivisorkandidatGanze="162686" DivisorkandidatRest="2" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="2.5" Divisorkandidat="97612.000000" DivisorkandidatZaehler="97612" DivisorkandidatNenner="1" DivisorkandidatGanze="97612" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="0.596650" SitzeUngerundetZaehler="24403" SitzeUngerundetNenner="40900" SitzeUngerundetGanze="0" SitzeUngerundetRest="24403" SitzeGerundet="1" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="44" Gesamt="3" GesamtVgl="1" DifferenzGesamt="2" ListeErschoepft="0">
+            <Frauen Gesamt="1" Prozent="33.333333" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="2.502888" SitzeUngerundetZaehler="1023681" SitzeUngerundetNenner="409000" SitzeUngerundetGanze="2" SitzeUngerundetRest="205681" SitzeGerundetEnde="3" VerteilungVorab="false" Sitze="3" Listenstimmen="1023681">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="2.468530" SitzeUngerundetZaehler="32757792" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="2" SitzeUngerundetRest="6217466" SitzeGerundet="2" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="2.5" Divisorkandidat="409472.400000" DivisorkandidatZaehler="2047362" DivisorkandidatNenner="5" DivisorkandidatGanze="409472" DivisorkandidatRest="2" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="3.5" Divisorkandidat="292480.285714" DivisorkandidatZaehler="2047362" DivisorkandidatNenner="7" DivisorkandidatGanze="292480" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="2.484663" SitzeUngerundetZaehler="1023681" SitzeUngerundetNenner="412000" SitzeUngerundetGanze="2" SitzeUngerundetRest="199681" SitzeGerundet="2" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="2.5" Divisorkandidat="409472.400000" DivisorkandidatZaehler="2047362" DivisorkandidatNenner="5" DivisorkandidatGanze="409472" DivisorkandidatRest="2" MinMax="min"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="3.5" Divisorkandidat="292480.285714" DivisorkandidatZaehler="2047362" DivisorkandidatNenner="7" DivisorkandidatGanze="292480" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="2.496783" SitzeUngerundetZaehler="1023681" SitzeUngerundetNenner="410000" SitzeUngerundetGanze="2" SitzeUngerundetRest="203681" SitzeGerundet="2" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="2.5" Divisorkandidat="409472.400000" DivisorkandidatZaehler="2047362" DivisorkandidatNenner="5" DivisorkandidatGanze="409472" DivisorkandidatRest="2" MinMax="max"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="3.5" Divisorkandidat="292480.285714" DivisorkandidatZaehler="2047362" DivisorkandidatNenner="7" DivisorkandidatGanze="292480" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="2.502888" SitzeUngerundetZaehler="1023681" SitzeUngerundetNenner="409000" SitzeUngerundetGanze="2" SitzeUngerundetRest="205681" SitzeGerundet="3" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="9" Gesamt="0" GesamtVgl="1" DifferenzGesamt="-1" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.456438" SitzeUngerundetZaehler="186683" SitzeUngerundetNenner="409000" SitzeUngerundetGanze="0" SitzeUngerundetRest="186683" SitzeGerundetEnde="0" VerteilungVorab="false" Sitze="0" Listenstimmen="186683">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="0.450172" SitzeUngerundetZaehler="5973856" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="0" SitzeUngerundetRest="5973856" SitzeGerundet="0" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="373366.000000" DivisorkandidatZaehler="373366" DivisorkandidatNenner="1" DivisorkandidatGanze="373366" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="124455.333333" DivisorkandidatZaehler="373366" DivisorkandidatNenner="3" DivisorkandidatGanze="124455" DivisorkandidatRest="1" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="0.453114" SitzeUngerundetZaehler="186683" SitzeUngerundetNenner="412000" SitzeUngerundetGanze="0" SitzeUngerundetRest="186683" SitzeGerundet="0" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="373366.000000" DivisorkandidatZaehler="373366" DivisorkandidatNenner="1" DivisorkandidatGanze="373366" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="124455.333333" DivisorkandidatZaehler="373366" DivisorkandidatNenner="3" DivisorkandidatGanze="124455" DivisorkandidatRest="1" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="0.455324" SitzeUngerundetZaehler="186683" SitzeUngerundetNenner="410000" SitzeUngerundetGanze="0" SitzeUngerundetRest="186683" SitzeGerundet="0" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="373366.000000" DivisorkandidatZaehler="373366" DivisorkandidatNenner="1" DivisorkandidatGanze="373366" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="124455.333333" DivisorkandidatZaehler="373366" DivisorkandidatNenner="3" DivisorkandidatGanze="124455" DivisorkandidatRest="1" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="0.456438" SitzeUngerundetZaehler="186683" SitzeUngerundetNenner="409000" SitzeUngerundetGanze="0" SitzeUngerundetRest="186683" SitzeGerundet="0" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="51" Gesamt="0" GesamtVgl="0" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.290056" SitzeUngerundetZaehler="118633" SitzeUngerundetNenner="409000" SitzeUngerundetGanze="0" SitzeUngerundetRest="118633" SitzeGerundetEnde="0" VerteilungVorab="false" Sitze="0" Listenstimmen="118633">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="0.286075" SitzeUngerundetZaehler="3796256" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="0" SitzeUngerundetRest="3796256" SitzeGerundet="0" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="237266.000000" DivisorkandidatZaehler="237266" DivisorkandidatNenner="1" DivisorkandidatGanze="237266" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="79088.666667" DivisorkandidatZaehler="237266" DivisorkandidatNenner="3" DivisorkandidatGanze="79088" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="0.287944" SitzeUngerundetZaehler="118633" SitzeUngerundetNenner="412000" SitzeUngerundetGanze="0" SitzeUngerundetRest="118633" SitzeGerundet="0" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="237266.000000" DivisorkandidatZaehler="237266" DivisorkandidatNenner="1" DivisorkandidatGanze="237266" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="79088.666667" DivisorkandidatZaehler="237266" DivisorkandidatNenner="3" DivisorkandidatGanze="79088" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="0.289349" SitzeUngerundetZaehler="118633" SitzeUngerundetNenner="410000" SitzeUngerundetGanze="0" SitzeUngerundetRest="118633" SitzeGerundet="0" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="237266.000000" DivisorkandidatZaehler="237266" DivisorkandidatNenner="1" DivisorkandidatGanze="237266" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="79088.666667" DivisorkandidatZaehler="237266" DivisorkandidatNenner="3" DivisorkandidatGanze="79088" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="0.290056" SitzeUngerundetZaehler="118633" SitzeUngerundetNenner="409000" SitzeUngerundetGanze="0" SitzeUngerundetRest="118633" SitzeGerundet="0" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="11" Gesamt="0" GesamtVgl="0" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.100166" SitzeUngerundetZaehler="5121" SitzeUngerundetNenner="51125" SitzeUngerundetGanze="0" SitzeUngerundetRest="5121" SitzeGerundetEnde="0" VerteilungVorab="false" Sitze="0" Listenstimmen="40968">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="0.098791" SitzeUngerundetZaehler="1310976" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="0" SitzeUngerundetRest="1310976" SitzeGerundet="0" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="81936.000000" DivisorkandidatZaehler="81936" DivisorkandidatNenner="1" DivisorkandidatGanze="81936" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="27312.000000" DivisorkandidatZaehler="27312" DivisorkandidatNenner="1" DivisorkandidatGanze="27312" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="0.099437" SitzeUngerundetZaehler="5121" SitzeUngerundetNenner="51500" SitzeUngerundetGanze="0" SitzeUngerundetRest="5121" SitzeGerundet="0" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="81936.000000" DivisorkandidatZaehler="81936" DivisorkandidatNenner="1" DivisorkandidatGanze="81936" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="27312.000000" DivisorkandidatZaehler="27312" DivisorkandidatNenner="1" DivisorkandidatGanze="27312" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="0.099922" SitzeUngerundetZaehler="5121" SitzeUngerundetNenner="51250" SitzeUngerundetGanze="0" SitzeUngerundetRest="5121" SitzeGerundet="0" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="81936.000000" DivisorkandidatZaehler="81936" DivisorkandidatNenner="1" DivisorkandidatGanze="81936" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="27312.000000" DivisorkandidatZaehler="27312" DivisorkandidatNenner="1" DivisorkandidatGanze="27312" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="0.100166" SitzeUngerundetZaehler="5121" SitzeUngerundetNenner="51125" SitzeUngerundetGanze="0" SitzeUngerundetRest="5121" SitzeGerundet="0" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="32" Gesamt="0" GesamtVgl="0" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.424186" SitzeUngerundetZaehler="43373" SitzeUngerundetNenner="102250" SitzeUngerundetGanze="0" SitzeUngerundetRest="43373" SitzeGerundetEnde="0" VerteilungVorab="false" Sitze="0" Listenstimmen="173492">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="0.418363" SitzeUngerundetZaehler="5551744" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="0" SitzeUngerundetRest="5551744" SitzeGerundet="0" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="346984.000000" DivisorkandidatZaehler="346984" DivisorkandidatNenner="1" DivisorkandidatGanze="346984" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="115661.333333" DivisorkandidatZaehler="346984" DivisorkandidatNenner="3" DivisorkandidatGanze="115661" DivisorkandidatRest="1" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="0.421097" SitzeUngerundetZaehler="43373" SitzeUngerundetNenner="103000" SitzeUngerundetGanze="0" SitzeUngerundetRest="43373" SitzeGerundet="0" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="346984.000000" DivisorkandidatZaehler="346984" DivisorkandidatNenner="1" DivisorkandidatGanze="346984" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="115661.333333" DivisorkandidatZaehler="346984" DivisorkandidatNenner="3" DivisorkandidatGanze="115661" DivisorkandidatRest="1" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="0.423151" SitzeUngerundetZaehler="43373" SitzeUngerundetNenner="102500" SitzeUngerundetGanze="0" SitzeUngerundetRest="43373" SitzeGerundet="0" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="346984.000000" DivisorkandidatZaehler="346984" DivisorkandidatNenner="1" DivisorkandidatGanze="346984" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="115661.333333" DivisorkandidatZaehler="346984" DivisorkandidatNenner="3" DivisorkandidatGanze="115661" DivisorkandidatRest="1" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="0.424186" SitzeUngerundetZaehler="43373" SitzeUngerundetNenner="102250" SitzeUngerundetGanze="0" SitzeUngerundetRest="43373" SitzeGerundet="0" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="41" Gesamt="0" GesamtVgl="0" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.045985" SitzeUngerundetZaehler="2351" SitzeUngerundetNenner="51125" SitzeUngerundetGanze="0" SitzeUngerundetRest="2351" SitzeGerundetEnde="0" VerteilungVorab="false" Sitze="0" Listenstimmen="18808">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="0.045354" SitzeUngerundetZaehler="601856" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="0" SitzeUngerundetRest="601856" SitzeGerundet="0" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="37616.000000" DivisorkandidatZaehler="37616" DivisorkandidatNenner="1" DivisorkandidatGanze="37616" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="12538.666667" DivisorkandidatZaehler="37616" DivisorkandidatNenner="3" DivisorkandidatGanze="12538" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="0.045650" SitzeUngerundetZaehler="2351" SitzeUngerundetNenner="51500" SitzeUngerundetGanze="0" SitzeUngerundetRest="2351" SitzeGerundet="0" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="37616.000000" DivisorkandidatZaehler="37616" DivisorkandidatNenner="1" DivisorkandidatGanze="37616" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="12538.666667" DivisorkandidatZaehler="37616" DivisorkandidatNenner="3" DivisorkandidatGanze="12538" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="0.045873" SitzeUngerundetZaehler="2351" SitzeUngerundetNenner="51250" SitzeUngerundetGanze="0" SitzeUngerundetRest="2351" SitzeGerundet="0" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="37616.000000" DivisorkandidatZaehler="37616" DivisorkandidatNenner="1" DivisorkandidatGanze="37616" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="12538.666667" DivisorkandidatZaehler="37616" DivisorkandidatNenner="3" DivisorkandidatGanze="12538" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="0.045985" SitzeUngerundetZaehler="2351" SitzeUngerundetNenner="51125" SitzeUngerundetGanze="0" SitzeUngerundetRest="2351" SitzeGerundet="0" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="54" Gesamt="0" GesamtVgl="0" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.076073" SitzeUngerundetZaehler="15557" SitzeUngerundetNenner="204500" SitzeUngerundetGanze="0" SitzeUngerundetRest="15557" SitzeGerundetEnde="0" VerteilungVorab="false" Sitze="0" Listenstimmen="31114">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="0.075029" SitzeUngerundetZaehler="995648" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="0" SitzeUngerundetRest="995648" SitzeGerundet="0" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="62228.000000" DivisorkandidatZaehler="62228" DivisorkandidatNenner="1" DivisorkandidatGanze="62228" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="20742.666667" DivisorkandidatZaehler="62228" DivisorkandidatNenner="3" DivisorkandidatGanze="20742" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="0.075519" SitzeUngerundetZaehler="15557" SitzeUngerundetNenner="206000" SitzeUngerundetGanze="0" SitzeUngerundetRest="15557" SitzeGerundet="0" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="62228.000000" DivisorkandidatZaehler="62228" DivisorkandidatNenner="1" DivisorkandidatGanze="62228" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="20742.666667" DivisorkandidatZaehler="62228" DivisorkandidatNenner="3" DivisorkandidatGanze="20742" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="0.075888" SitzeUngerundetZaehler="15557" SitzeUngerundetNenner="205000" SitzeUngerundetGanze="0" SitzeUngerundetRest="15557" SitzeGerundet="0" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="62228.000000" DivisorkandidatZaehler="62228" DivisorkandidatNenner="1" DivisorkandidatGanze="62228" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="20742.666667" DivisorkandidatZaehler="62228" DivisorkandidatNenner="3" DivisorkandidatGanze="20742" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="0.076073" SitzeUngerundetZaehler="15557" SitzeUngerundetNenner="204500" SitzeUngerundetGanze="0" SitzeUngerundetRest="15557" SitzeGerundet="0" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="58" Gesamt="0" GesamtVgl="0" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.183601" SitzeUngerundetZaehler="75093" SitzeUngerundetNenner="409000" SitzeUngerundetGanze="0" SitzeUngerundetRest="75093" SitzeGerundetEnde="0" VerteilungVorab="false" Sitze="0" Listenstimmen="75093">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="0.181081" SitzeUngerundetZaehler="2402976" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="0" SitzeUngerundetRest="2402976" SitzeGerundet="0" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="150186.000000" DivisorkandidatZaehler="150186" DivisorkandidatNenner="1" DivisorkandidatGanze="150186" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="50062.000000" DivisorkandidatZaehler="50062" DivisorkandidatNenner="1" DivisorkandidatGanze="50062" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="0.182265" SitzeUngerundetZaehler="75093" SitzeUngerundetNenner="412000" SitzeUngerundetGanze="0" SitzeUngerundetRest="75093" SitzeGerundet="0" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="150186.000000" DivisorkandidatZaehler="150186" DivisorkandidatNenner="1" DivisorkandidatGanze="150186" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="50062.000000" DivisorkandidatZaehler="50062" DivisorkandidatNenner="1" DivisorkandidatGanze="50062" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="0.183154" SitzeUngerundetZaehler="75093" SitzeUngerundetNenner="410000" SitzeUngerundetGanze="0" SitzeUngerundetRest="75093" SitzeGerundet="0" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="150186.000000" DivisorkandidatZaehler="150186" DivisorkandidatNenner="1" DivisorkandidatGanze="150186" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="50062.000000" DivisorkandidatZaehler="50062" DivisorkandidatNenner="1" DivisorkandidatGanze="50062" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="0.183601" SitzeUngerundetZaehler="75093" SitzeUngerundetNenner="409000" SitzeUngerundetGanze="0" SitzeUngerundetRest="75093" SitzeGerundet="0" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="45" Gesamt="0" GesamtVgl="0" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.201095" SitzeUngerundetZaehler="10281" SitzeUngerundetNenner="51125" SitzeUngerundetGanze="0" SitzeUngerundetRest="10281" SitzeGerundetEnde="0" VerteilungVorab="false" Sitze="0" Listenstimmen="82248">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="0.198335" SitzeUngerundetZaehler="2631936" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="0" SitzeUngerundetRest="2631936" SitzeGerundet="0" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="164496.000000" DivisorkandidatZaehler="164496" DivisorkandidatNenner="1" DivisorkandidatGanze="164496" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="54832.000000" DivisorkandidatZaehler="54832" DivisorkandidatNenner="1" DivisorkandidatGanze="54832" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="0.199631" SitzeUngerundetZaehler="10281" SitzeUngerundetNenner="51500" SitzeUngerundetGanze="0" SitzeUngerundetRest="10281" SitzeGerundet="0" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="164496.000000" DivisorkandidatZaehler="164496" DivisorkandidatNenner="1" DivisorkandidatGanze="164496" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="54832.000000" DivisorkandidatZaehler="54832" DivisorkandidatNenner="1" DivisorkandidatGanze="54832" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="0.200605" SitzeUngerundetZaehler="10281" SitzeUngerundetNenner="51250" SitzeUngerundetGanze="0" SitzeUngerundetRest="10281" SitzeGerundet="0" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="164496.000000" DivisorkandidatZaehler="164496" DivisorkandidatNenner="1" DivisorkandidatGanze="164496" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="54832.000000" DivisorkandidatZaehler="54832" DivisorkandidatNenner="1" DivisorkandidatGanze="54832" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="0.201095" SitzeUngerundetZaehler="10281" SitzeUngerundetNenner="51125" SitzeUngerundetGanze="0" SitzeUngerundetRest="10281" SitzeGerundet="0" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="46" Gesamt="0" GesamtVgl="0" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.132455" SitzeUngerundetZaehler="27087" SitzeUngerundetNenner="204500" SitzeUngerundetGanze="0" SitzeUngerundetRest="27087" SitzeGerundetEnde="0" VerteilungVorab="false" Sitze="0" Listenstimmen="54174">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="0.130637" SitzeUngerundetZaehler="1733568" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="0" SitzeUngerundetRest="1733568" SitzeGerundet="0" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="108348.000000" DivisorkandidatZaehler="108348" DivisorkandidatNenner="1" DivisorkandidatGanze="108348" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="36116.000000" DivisorkandidatZaehler="36116" DivisorkandidatNenner="1" DivisorkandidatGanze="36116" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="0.131490" SitzeUngerundetZaehler="27087" SitzeUngerundetNenner="206000" SitzeUngerundetGanze="0" SitzeUngerundetRest="27087" SitzeGerundet="0" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="108348.000000" DivisorkandidatZaehler="108348" DivisorkandidatNenner="1" DivisorkandidatGanze="108348" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="36116.000000" DivisorkandidatZaehler="36116" DivisorkandidatNenner="1" DivisorkandidatGanze="36116" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="0.132132" SitzeUngerundetZaehler="27087" SitzeUngerundetNenner="205000" SitzeUngerundetGanze="0" SitzeUngerundetRest="27087" SitzeGerundet="0" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="108348.000000" DivisorkandidatZaehler="108348" DivisorkandidatNenner="1" DivisorkandidatGanze="108348" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="36116.000000" DivisorkandidatZaehler="36116" DivisorkandidatNenner="1" DivisorkandidatGanze="36116" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="0.132455" SitzeUngerundetZaehler="27087" SitzeUngerundetNenner="204500" SitzeUngerundetGanze="0" SitzeUngerundetRest="27087" SitzeGerundet="0" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="22" Gesamt="0" GesamtVgl="0" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.036555" SitzeUngerundetZaehler="14951" SitzeUngerundetNenner="409000" SitzeUngerundetGanze="0" SitzeUngerundetRest="14951" SitzeGerundetEnde="0" VerteilungVorab="false" Sitze="0" Listenstimmen="14951">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="0.036053" SitzeUngerundetZaehler="478432" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="0" SitzeUngerundetRest="478432" SitzeGerundet="0" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="29902.000000" DivisorkandidatZaehler="29902" DivisorkandidatNenner="1" DivisorkandidatGanze="29902" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="9967.333333" DivisorkandidatZaehler="29902" DivisorkandidatNenner="3" DivisorkandidatGanze="9967" DivisorkandidatRest="1" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="0.036289" SitzeUngerundetZaehler="14951" SitzeUngerundetNenner="412000" SitzeUngerundetGanze="0" SitzeUngerundetRest="14951" SitzeGerundet="0" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="29902.000000" DivisorkandidatZaehler="29902" DivisorkandidatNenner="1" DivisorkandidatGanze="29902" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="9967.333333" DivisorkandidatZaehler="29902" DivisorkandidatNenner="3" DivisorkandidatGanze="9967" DivisorkandidatRest="1" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="0.036466" SitzeUngerundetZaehler="14951" SitzeUngerundetNenner="410000" SitzeUngerundetGanze="0" SitzeUngerundetRest="14951" SitzeGerundet="0" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="29902.000000" DivisorkandidatZaehler="29902" DivisorkandidatNenner="1" DivisorkandidatGanze="29902" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="9967.333333" DivisorkandidatZaehler="29902" DivisorkandidatNenner="3" DivisorkandidatGanze="9967" DivisorkandidatRest="1" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="0.036555" SitzeUngerundetZaehler="14951" SitzeUngerundetNenner="409000" SitzeUngerundetGanze="0" SitzeUngerundetRest="14951" SitzeGerundet="0" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="23" Gesamt="0" GesamtVgl="0" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.033132" SitzeUngerundetZaehler="13551" SitzeUngerundetNenner="409000" SitzeUngerundetGanze="0" SitzeUngerundetRest="13551" SitzeGerundetEnde="0" VerteilungVorab="false" Sitze="0" Listenstimmen="13551">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="0.032677" SitzeUngerundetZaehler="433632" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="0" SitzeUngerundetRest="433632" SitzeGerundet="0" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="27102.000000" DivisorkandidatZaehler="27102" DivisorkandidatNenner="1" DivisorkandidatGanze="27102" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="9034.000000" DivisorkandidatZaehler="9034" DivisorkandidatNenner="1" DivisorkandidatGanze="9034" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="0.032891" SitzeUngerundetZaehler="13551" SitzeUngerundetNenner="412000" SitzeUngerundetGanze="0" SitzeUngerundetRest="13551" SitzeGerundet="0" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="27102.000000" DivisorkandidatZaehler="27102" DivisorkandidatNenner="1" DivisorkandidatGanze="27102" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="9034.000000" DivisorkandidatZaehler="9034" DivisorkandidatNenner="1" DivisorkandidatGanze="9034" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="0.033051" SitzeUngerundetZaehler="13551" SitzeUngerundetNenner="410000" SitzeUngerundetGanze="0" SitzeUngerundetRest="13551" SitzeGerundet="0" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="27102.000000" DivisorkandidatZaehler="27102" DivisorkandidatNenner="1" DivisorkandidatGanze="27102" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="9034.000000" DivisorkandidatZaehler="9034" DivisorkandidatNenner="1" DivisorkandidatGanze="9034" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="0.033132" SitzeUngerundetZaehler="13551" SitzeUngerundetNenner="409000" SitzeUngerundetGanze="0" SitzeUngerundetRest="13551" SitzeGerundet="0" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="25" Gesamt="0" GesamtVgl="0" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.014489" SitzeUngerundetZaehler="2963" SitzeUngerundetNenner="204500" SitzeUngerundetGanze="0" SitzeUngerundetRest="2963" SitzeGerundetEnde="0" VerteilungVorab="false" Sitze="0" Listenstimmen="5926">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="0.014290" SitzeUngerundetZaehler="189632" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="0" SitzeUngerundetRest="189632" SitzeGerundet="0" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="11852.000000" DivisorkandidatZaehler="11852" DivisorkandidatNenner="1" DivisorkandidatGanze="11852" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="3950.666667" DivisorkandidatZaehler="11852" DivisorkandidatNenner="3" DivisorkandidatGanze="3950" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="0.014383" SitzeUngerundetZaehler="2963" SitzeUngerundetNenner="206000" SitzeUngerundetGanze="0" SitzeUngerundetRest="2963" SitzeGerundet="0" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="11852.000000" DivisorkandidatZaehler="11852" DivisorkandidatNenner="1" DivisorkandidatGanze="11852" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="3950.666667" DivisorkandidatZaehler="11852" DivisorkandidatNenner="3" DivisorkandidatGanze="3950" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="0.014454" SitzeUngerundetZaehler="2963" SitzeUngerundetNenner="205000" SitzeUngerundetGanze="0" SitzeUngerundetRest="2963" SitzeGerundet="0" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="11852.000000" DivisorkandidatZaehler="11852" DivisorkandidatNenner="1" DivisorkandidatGanze="11852" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="3950.666667" DivisorkandidatZaehler="11852" DivisorkandidatNenner="3" DivisorkandidatGanze="3950" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="0.014489" SitzeUngerundetZaehler="2963" SitzeUngerundetNenner="204500" SitzeUngerundetGanze="0" SitzeUngerundetRest="2963" SitzeGerundet="0" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="76" Gesamt="0" GesamtVgl="0" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.064795" SitzeUngerundetZaehler="26501" SitzeUngerundetNenner="409000" SitzeUngerundetGanze="0" SitzeUngerundetRest="26501" SitzeGerundetEnde="0" VerteilungVorab="false" Sitze="0" Listenstimmen="26501">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="0.063905" SitzeUngerundetZaehler="848032" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="0" SitzeUngerundetRest="848032" SitzeGerundet="0" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="53002.000000" DivisorkandidatZaehler="53002" DivisorkandidatNenner="1" DivisorkandidatGanze="53002" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="17667.333333" DivisorkandidatZaehler="53002" DivisorkandidatNenner="3" DivisorkandidatGanze="17667" DivisorkandidatRest="1" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="0.064323" SitzeUngerundetZaehler="26501" SitzeUngerundetNenner="412000" SitzeUngerundetGanze="0" SitzeUngerundetRest="26501" SitzeGerundet="0" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="53002.000000" DivisorkandidatZaehler="53002" DivisorkandidatNenner="1" DivisorkandidatGanze="53002" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="17667.333333" DivisorkandidatZaehler="53002" DivisorkandidatNenner="3" DivisorkandidatGanze="17667" DivisorkandidatRest="1" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="0.064637" SitzeUngerundetZaehler="26501" SitzeUngerundetNenner="410000" SitzeUngerundetGanze="0" SitzeUngerundetRest="26501" SitzeGerundet="0" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="53002.000000" DivisorkandidatZaehler="53002" DivisorkandidatNenner="1" DivisorkandidatGanze="53002" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="17667.333333" DivisorkandidatZaehler="53002" DivisorkandidatNenner="3" DivisorkandidatGanze="17667" DivisorkandidatRest="1" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="0.064795" SitzeUngerundetZaehler="26501" SitzeUngerundetNenner="409000" SitzeUngerundetGanze="0" SitzeUngerundetRest="26501" SitzeGerundet="0" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="63" Gesamt="0" GesamtVgl="0" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.243222" SitzeUngerundetZaehler="49739" SitzeUngerundetNenner="204500" SitzeUngerundetGanze="0" SitzeUngerundetRest="49739" SitzeGerundetEnde="0" VerteilungVorab="false" Sitze="0" Listenstimmen="99478">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="0.239884" SitzeUngerundetZaehler="3183296" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="0" SitzeUngerundetRest="3183296" SitzeGerundet="0" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="198956.000000" DivisorkandidatZaehler="198956" DivisorkandidatNenner="1" DivisorkandidatGanze="198956" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="66318.666667" DivisorkandidatZaehler="198956" DivisorkandidatNenner="3" DivisorkandidatGanze="66318" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="0.241451" SitzeUngerundetZaehler="49739" SitzeUngerundetNenner="206000" SitzeUngerundetGanze="0" SitzeUngerundetRest="49739" SitzeGerundet="0" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="198956.000000" DivisorkandidatZaehler="198956" DivisorkandidatNenner="1" DivisorkandidatGanze="198956" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="66318.666667" DivisorkandidatZaehler="198956" DivisorkandidatNenner="3" DivisorkandidatGanze="66318" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="0.242629" SitzeUngerundetZaehler="49739" SitzeUngerundetNenner="205000" SitzeUngerundetGanze="0" SitzeUngerundetRest="49739" SitzeGerundet="0" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="198956.000000" DivisorkandidatZaehler="198956" DivisorkandidatNenner="1" DivisorkandidatGanze="198956" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="66318.666667" DivisorkandidatZaehler="198956" DivisorkandidatNenner="3" DivisorkandidatGanze="66318" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="0.243222" SitzeUngerundetZaehler="49739" SitzeUngerundetNenner="204500" SitzeUngerundetGanze="0" SitzeUngerundetRest="49739" SitzeGerundet="0" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="72" Gesamt="0" GesamtVgl="0" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.399198" SitzeUngerundetZaehler="20409" SitzeUngerundetNenner="51125" SitzeUngerundetGanze="0" SitzeUngerundetRest="20409" SitzeGerundetEnde="0" VerteilungVorab="false" Sitze="0" Listenstimmen="163272">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="0.393718" SitzeUngerundetZaehler="5224704" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="0" SitzeUngerundetRest="5224704" SitzeGerundet="0" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="326544.000000" DivisorkandidatZaehler="326544" DivisorkandidatNenner="1" DivisorkandidatGanze="326544" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="108848.000000" DivisorkandidatZaehler="108848" DivisorkandidatNenner="1" DivisorkandidatGanze="108848" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="0.396291" SitzeUngerundetZaehler="20409" SitzeUngerundetNenner="51500" SitzeUngerundetGanze="0" SitzeUngerundetRest="20409" SitzeGerundet="0" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="326544.000000" DivisorkandidatZaehler="326544" DivisorkandidatNenner="1" DivisorkandidatGanze="326544" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="108848.000000" DivisorkandidatZaehler="108848" DivisorkandidatNenner="1" DivisorkandidatGanze="108848" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="0.398224" SitzeUngerundetZaehler="20409" SitzeUngerundetNenner="51250" SitzeUngerundetGanze="0" SitzeUngerundetRest="20409" SitzeGerundet="0" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="326544.000000" DivisorkandidatZaehler="326544" DivisorkandidatNenner="1" DivisorkandidatGanze="326544" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="108848.000000" DivisorkandidatZaehler="108848" DivisorkandidatNenner="1" DivisorkandidatGanze="108848" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="0.399198" SitzeUngerundetZaehler="20409" SitzeUngerundetNenner="51125" SitzeUngerundetGanze="0" SitzeUngerundetRest="20409" SitzeGerundet="0" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="64" Gesamt="6" GesamtVgl="0" DifferenzGesamt="6" ListeErschoepft="0">
+            <Frauen Gesamt="1" Prozent="16.666667" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="6.006015" SitzeUngerundetZaehler="122823" SitzeUngerundetNenner="20450" SitzeUngerundetGanze="6" SitzeUngerundetRest="123" SitzeGerundetEnde="6" VerteilungVorab="false" Sitze="6" Listenstimmen="2456460">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="5.923569" SitzeUngerundetZaehler="78606720" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="5" SitzeUngerundetRest="12255905" SitzeGerundet="6" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="6.5" Divisorkandidat="377916.923077" DivisorkandidatZaehler="4912920" DivisorkandidatNenner="13" DivisorkandidatGanze="377916" DivisorkandidatRest="12" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="7.5" Divisorkandidat="327528.000000" DivisorkandidatZaehler="327528" DivisorkandidatNenner="1" DivisorkandidatGanze="327528" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="5.962282" SitzeUngerundetZaehler="122823" SitzeUngerundetNenner="20600" SitzeUngerundetGanze="5" SitzeUngerundetRest="19823" SitzeGerundet="6" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="6.5" Divisorkandidat="377916.923077" DivisorkandidatZaehler="4912920" DivisorkandidatNenner="13" DivisorkandidatGanze="377916" DivisorkandidatRest="12" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="7.5" Divisorkandidat="327528.000000" DivisorkandidatZaehler="327528" DivisorkandidatNenner="1" DivisorkandidatGanze="327528" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="5.991366" SitzeUngerundetZaehler="122823" SitzeUngerundetNenner="20500" SitzeUngerundetGanze="5" SitzeUngerundetRest="20323" SitzeGerundet="6" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="6.5" Divisorkandidat="377916.923077" DivisorkandidatZaehler="4912920" DivisorkandidatNenner="13" DivisorkandidatGanze="377916" DivisorkandidatRest="12" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="7.5" Divisorkandidat="327528.000000" DivisorkandidatZaehler="327528" DivisorkandidatNenner="1" DivisorkandidatGanze="327528" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="6.006015" SitzeUngerundetZaehler="122823" SitzeUngerundetNenner="20450" SitzeUngerundetGanze="6" SitzeUngerundetRest="123" SitzeGerundet="6" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="65" Gesamt="0" GesamtVgl="0" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.363071" SitzeUngerundetZaehler="18562" SitzeUngerundetNenner="51125" SitzeUngerundetGanze="0" SitzeUngerundetRest="18562" SitzeGerundetEnde="0" VerteilungVorab="false" Sitze="0" Listenstimmen="148496">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="0.358087" SitzeUngerundetZaehler="4751872" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="0" SitzeUngerundetRest="4751872" SitzeGerundet="0" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="296992.000000" DivisorkandidatZaehler="296992" DivisorkandidatNenner="1" DivisorkandidatGanze="296992" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="98997.333333" DivisorkandidatZaehler="296992" DivisorkandidatNenner="3" DivisorkandidatGanze="98997" DivisorkandidatRest="1" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="0.360427" SitzeUngerundetZaehler="9281" SitzeUngerundetNenner="25750" SitzeUngerundetGanze="0" SitzeUngerundetRest="9281" SitzeGerundet="0" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="296992.000000" DivisorkandidatZaehler="296992" DivisorkandidatNenner="1" DivisorkandidatGanze="296992" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="98997.333333" DivisorkandidatZaehler="296992" DivisorkandidatNenner="3" DivisorkandidatGanze="98997" DivisorkandidatRest="1" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="0.362185" SitzeUngerundetZaehler="9281" SitzeUngerundetNenner="25625" SitzeUngerundetGanze="0" SitzeUngerundetRest="9281" SitzeGerundet="0" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="296992.000000" DivisorkandidatZaehler="296992" DivisorkandidatNenner="1" DivisorkandidatGanze="296992" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="98997.333333" DivisorkandidatZaehler="296992" DivisorkandidatNenner="3" DivisorkandidatGanze="98997" DivisorkandidatRest="1" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="0.363071" SitzeUngerundetZaehler="18562" SitzeUngerundetNenner="51125" SitzeUngerundetGanze="0" SitzeUngerundetRest="18562" SitzeGerundet="0" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="66" Gesamt="0" GesamtVgl="0" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.076795" SitzeUngerundetZaehler="31409" SitzeUngerundetNenner="409000" SitzeUngerundetGanze="0" SitzeUngerundetRest="31409" SitzeGerundetEnde="0" VerteilungVorab="false" Sitze="0" Listenstimmen="31409">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="0.075740" SitzeUngerundetZaehler="1005088" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="0" SitzeUngerundetRest="1005088" SitzeGerundet="0" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="62818.000000" DivisorkandidatZaehler="62818" DivisorkandidatNenner="1" DivisorkandidatGanze="62818" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="20939.333333" DivisorkandidatZaehler="62818" DivisorkandidatNenner="3" DivisorkandidatGanze="20939" DivisorkandidatRest="1" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="0.076235" SitzeUngerundetZaehler="31409" SitzeUngerundetNenner="412000" SitzeUngerundetGanze="0" SitzeUngerundetRest="31409" SitzeGerundet="0" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="62818.000000" DivisorkandidatZaehler="62818" DivisorkandidatNenner="1" DivisorkandidatGanze="62818" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="20939.333333" DivisorkandidatZaehler="62818" DivisorkandidatNenner="3" DivisorkandidatGanze="20939" DivisorkandidatRest="1" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="0.076607" SitzeUngerundetZaehler="31409" SitzeUngerundetNenner="410000" SitzeUngerundetGanze="0" SitzeUngerundetRest="31409" SitzeGerundet="0" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="62818.000000" DivisorkandidatZaehler="62818" DivisorkandidatNenner="1" DivisorkandidatGanze="62818" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="20939.333333" DivisorkandidatZaehler="62818" DivisorkandidatNenner="3" DivisorkandidatGanze="20939" DivisorkandidatRest="1" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="0.076795" SitzeUngerundetZaehler="31409" SitzeUngerundetNenner="409000" SitzeUngerundetGanze="0" SitzeUngerundetRest="31409" SitzeGerundet="0" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="74" Gesamt="0" GesamtVgl="0" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.255222" SitzeUngerundetZaehler="52193" SitzeUngerundetNenner="204500" SitzeUngerundetGanze="0" SitzeUngerundetRest="52193" SitzeGerundetEnde="0" VerteilungVorab="false" Sitze="0" Listenstimmen="104386">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="0.251719" SitzeUngerundetZaehler="3340352" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="0" SitzeUngerundetRest="3340352" SitzeGerundet="0" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="208772.000000" DivisorkandidatZaehler="208772" DivisorkandidatNenner="1" DivisorkandidatGanze="208772" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="69590.666667" DivisorkandidatZaehler="208772" DivisorkandidatNenner="3" DivisorkandidatGanze="69590" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="0.253364" SitzeUngerundetZaehler="52193" SitzeUngerundetNenner="206000" SitzeUngerundetGanze="0" SitzeUngerundetRest="52193" SitzeGerundet="0" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="208772.000000" DivisorkandidatZaehler="208772" DivisorkandidatNenner="1" DivisorkandidatGanze="208772" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="69590.666667" DivisorkandidatZaehler="208772" DivisorkandidatNenner="3" DivisorkandidatGanze="69590" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="0.254600" SitzeUngerundetZaehler="1273" SitzeUngerundetNenner="5000" SitzeUngerundetGanze="0" SitzeUngerundetRest="1273" SitzeGerundet="0" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="208772.000000" DivisorkandidatZaehler="208772" DivisorkandidatNenner="1" DivisorkandidatGanze="208772" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="69590.666667" DivisorkandidatZaehler="208772" DivisorkandidatNenner="3" DivisorkandidatGanze="69590" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="0.255222" SitzeUngerundetZaehler="52193" SitzeUngerundetNenner="204500" SitzeUngerundetGanze="0" SitzeUngerundetRest="52193" SitzeGerundet="0" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="78" Gesamt="0" GesamtVgl="0" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.071017" SitzeUngerundetZaehler="14523" SitzeUngerundetNenner="204500" SitzeUngerundetGanze="0" SitzeUngerundetRest="14523" SitzeGerundetEnde="0" VerteilungVorab="false" Sitze="0" Listenstimmen="29046">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="0.070042" SitzeUngerundetZaehler="929472" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="0" SitzeUngerundetRest="929472" SitzeGerundet="0" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="58092.000000" DivisorkandidatZaehler="58092" DivisorkandidatNenner="1" DivisorkandidatGanze="58092" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="19364.000000" DivisorkandidatZaehler="19364" DivisorkandidatNenner="1" DivisorkandidatGanze="19364" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="0.070500" SitzeUngerundetZaehler="141" SitzeUngerundetNenner="2000" SitzeUngerundetGanze="0" SitzeUngerundetRest="141" SitzeGerundet="0" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="58092.000000" DivisorkandidatZaehler="58092" DivisorkandidatNenner="1" DivisorkandidatGanze="58092" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="19364.000000" DivisorkandidatZaehler="19364" DivisorkandidatNenner="1" DivisorkandidatGanze="19364" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="0.070844" SitzeUngerundetZaehler="14523" SitzeUngerundetNenner="205000" SitzeUngerundetGanze="0" SitzeUngerundetRest="14523" SitzeGerundet="0" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="58092.000000" DivisorkandidatZaehler="58092" DivisorkandidatNenner="1" DivisorkandidatGanze="58092" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="19364.000000" DivisorkandidatZaehler="19364" DivisorkandidatNenner="1" DivisorkandidatGanze="19364" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="0.071017" SitzeUngerundetZaehler="14523" SitzeUngerundetNenner="204500" SitzeUngerundetGanze="0" SitzeUngerundetRest="14523" SitzeGerundet="0" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="67" Gesamt="1" GesamtVgl="0" DifferenzGesamt="1" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.557819" SitzeUngerundetZaehler="57037" SitzeUngerundetNenner="102250" SitzeUngerundetGanze="0" SitzeUngerundetRest="57037" SitzeGerundetEnde="1" VerteilungVorab="false" Sitze="1" Listenstimmen="228148">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="0.550162" SitzeUngerundetZaehler="7300736" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="0" SitzeUngerundetRest="7300736" SitzeGerundet="1" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="1.5" Divisorkandidat="152098.666667" DivisorkandidatZaehler="456296" DivisorkandidatNenner="3" DivisorkandidatGanze="152098" DivisorkandidatRest="2" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="2.5" Divisorkandidat="91259.200000" DivisorkandidatZaehler="456296" DivisorkandidatNenner="5" DivisorkandidatGanze="91259" DivisorkandidatRest="1" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="0.553757" SitzeUngerundetZaehler="57037" SitzeUngerundetNenner="103000" SitzeUngerundetGanze="0" SitzeUngerundetRest="57037" SitzeGerundet="1" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="1.5" Divisorkandidat="152098.666667" DivisorkandidatZaehler="456296" DivisorkandidatNenner="3" DivisorkandidatGanze="152098" DivisorkandidatRest="2" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="2.5" Divisorkandidat="91259.200000" DivisorkandidatZaehler="456296" DivisorkandidatNenner="5" DivisorkandidatGanze="91259" DivisorkandidatRest="1" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="0.556459" SitzeUngerundetZaehler="57037" SitzeUngerundetNenner="102500" SitzeUngerundetGanze="0" SitzeUngerundetRest="57037" SitzeGerundet="1" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="1.5" Divisorkandidat="152098.666667" DivisorkandidatZaehler="456296" DivisorkandidatNenner="3" DivisorkandidatGanze="152098" DivisorkandidatRest="2" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="2.5" Divisorkandidat="91259.200000" DivisorkandidatZaehler="456296" DivisorkandidatNenner="5" DivisorkandidatGanze="91259" DivisorkandidatRest="1" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="0.557819" SitzeUngerundetZaehler="57037" SitzeUngerundetNenner="102250" SitzeUngerundetGanze="0" SitzeUngerundetRest="57037" SitzeGerundet="1" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+        <SitzeGruppe Gruppe="77" Gesamt="0" GesamtVgl="0" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.135494" SitzeUngerundetZaehler="55417" SitzeUngerundetNenner="409000" SitzeUngerundetGanze="0" SitzeUngerundetRest="55417" SitzeGerundetEnde="0" VerteilungVorab="false" Sitze="0" Listenstimmen="55417">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="414692.593750" DivisorZaehler="39810489" DivisorNenner="96" DivisorGanze="414692" DivisorRest="57" SitzeUngerundet="0.133634" SitzeUngerundetZaehler="1773344" SitzeUngerundetNenner="13270163" SitzeUngerundetGanze="0" SitzeUngerundetRest="1773344" SitzeGerundet="0" SummeSitzeGerundet="93"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="110834.000000" DivisorkandidatZaehler="110834" DivisorkandidatNenner="1" DivisorkandidatGanze="110834" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="36944.666667" DivisorkandidatZaehler="110834" DivisorkandidatNenner="3" DivisorkandidatGanze="36944" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="false">
+                    <Division Divisor="412000.000000" DivisorZaehler="412000" DivisorNenner="1" DivisorGanze="412000" DivisorRest="0" SitzeUngerundet="0.134507" SitzeUngerundetZaehler="55417" SitzeUngerundetNenner="412000" SitzeUngerundetGanze="0" SitzeUngerundetRest="55417" SitzeGerundet="0" SummeSitzeGerundet="94"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="110834.000000" DivisorkandidatZaehler="110834" DivisorkandidatNenner="1" DivisorkandidatGanze="110834" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="36944.666667" DivisorkandidatZaehler="110834" DivisorkandidatNenner="3" DivisorkandidatGanze="36944" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="3" IstDivisorGerundet="false">
+                    <Division Divisor="410000.000000" DivisorZaehler="410000" DivisorNenner="1" DivisorGanze="410000" DivisorRest="0" SitzeUngerundet="0.135163" SitzeUngerundetZaehler="55417" SitzeUngerundetNenner="410000" SitzeUngerundetGanze="0" SitzeUngerundetRest="55417" SitzeGerundet="0" SummeSitzeGerundet="95"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="110834.000000" DivisorkandidatZaehler="110834" DivisorkandidatNenner="1" DivisorkandidatGanze="110834" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="1.5" SitzeVeraendert="1.5" Divisorkandidat="36944.666667" DivisorkandidatZaehler="110834" DivisorkandidatNenner="3" DivisorkandidatGanze="36944" DivisorkandidatRest="2" MinMax="kein"/>
+                </Rechengang>
+                <Rechengang Index="4" IstDivisorGerundet="false">
+                    <Division Divisor="409000.000000" DivisorZaehler="409000" DivisorNenner="1" DivisorGanze="409000" DivisorRest="0" SitzeUngerundet="0.135494" SitzeUngerundetZaehler="55417" SitzeUngerundetNenner="409000" SitzeUngerundetGanze="0" SitzeUngerundetRest="55417" SitzeGerundet="0" SummeSitzeGerundet="96"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+    </Gebiet>
+    <Gebiet Gebietsart="LAND" Gebietsnummer="1" SitzeGesamt="1">
+        <SitzeGruppe Gruppe="1" Gesamt="1" GesamtVgl="1" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="1.120103" SitzeUngerundetZaehler="448041" SitzeUngerundetNenner="400000" SitzeUngerundetGanze="1" SitzeUngerundetRest="48041" SitzeGerundetEnde="1" VerteilungVorab="false" Sitze="1" Listenstimmen="448041">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="410245.043478" DivisorZaehler="9435636" DivisorNenner="23" DivisorGanze="410245" DivisorRest="1" SitzeUngerundet="1.092130" SitzeUngerundetZaehler="3434981" SitzeUngerundetNenner="3145212" SitzeUngerundetGanze="1" SitzeUngerundetRest="289769" SitzeGerundet="1" SummeSitzeGerundet="23"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="true">
+                    <Division Divisor="400000.000000" DivisorZaehler="400000" DivisorNenner="1" DivisorGanze="400000" DivisorRest="0" SitzeUngerundet="1.120103" SitzeUngerundetZaehler="448041" SitzeUngerundetNenner="400000" SitzeUngerundetGanze="1" SitzeUngerundetRest="48041" SitzeGerundet="1" SummeSitzeGerundet="23"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="1.5" Divisorkandidat="298694.000000" DivisorkandidatZaehler="298694" DivisorkandidatNenner="1" DivisorkandidatGanze="298694" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="-0.5" SitzeVeraendert="0.5" Divisorkandidat="896082.000000" DivisorkandidatZaehler="896082" DivisorkandidatNenner="1" DivisorkandidatGanze="896082" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+    </Gebiet>
+    <Gebiet Gebietsart="LAND" Gebietsnummer="2" SitzeGesamt="0">
+        <SitzeGruppe Gruppe="1" Gesamt="0" GesamtVgl="0" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.399943" SitzeUngerundetZaehler="159977" SitzeUngerundetNenner="400000" SitzeUngerundetGanze="0" SitzeUngerundetRest="159977" SitzeGerundetEnde="0" VerteilungVorab="false" Sitze="0" Listenstimmen="159977">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="410245.043478" DivisorZaehler="9435636" DivisorNenner="23" DivisorGanze="410245" DivisorRest="1" SitzeUngerundet="0.389955" SitzeUngerundetZaehler="3679471" SitzeUngerundetNenner="9435636" SitzeUngerundetGanze="0" SitzeUngerundetRest="3679471" SitzeGerundet="0" SummeSitzeGerundet="23"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="true">
+                    <Division Divisor="400000.000000" DivisorZaehler="400000" DivisorNenner="1" DivisorGanze="400000" DivisorRest="0" SitzeUngerundet="0.399943" SitzeUngerundetZaehler="159977" SitzeUngerundetNenner="400000" SitzeUngerundetGanze="0" SitzeUngerundetRest="159977" SitzeGerundet="0" SummeSitzeGerundet="23"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="319954.000000" DivisorkandidatZaehler="319954" DivisorkandidatNenner="1" DivisorkandidatGanze="319954" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+    </Gebiet>
+    <Gebiet Gebietsart="LAND" Gebietsnummer="3" SitzeGesamt="3">
+        <SitzeGruppe Gruppe="1" Gesamt="3" GesamtVgl="3" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="1" Prozent="33.333333" GesamtVgl="1" ProzentVgl="33.333333"/>
+            <SainteLague SitzeUngerundetEnde="3.100568" SitzeUngerundetZaehler="1240227" SitzeUngerundetNenner="400000" SitzeUngerundetGanze="3" SitzeUngerundetRest="40227" SitzeGerundetEnde="3" VerteilungVorab="false" Sitze="3" Listenstimmen="1240227">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="410245.043478" DivisorZaehler="9435636" DivisorNenner="23" DivisorGanze="410245" DivisorRest="1" SitzeUngerundet="3.023137" SitzeUngerundetZaehler="3169469" SitzeUngerundetNenner="1048404" SitzeUngerundetGanze="3" SitzeUngerundetRest="24257" SitzeGerundet="3" SummeSitzeGerundet="23"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="true">
+                    <Division Divisor="400000.000000" DivisorZaehler="400000" DivisorNenner="1" DivisorGanze="400000" DivisorRest="0" SitzeUngerundet="3.100568" SitzeUngerundetZaehler="1240227" SitzeUngerundetNenner="400000" SitzeUngerundetGanze="3" SitzeUngerundetRest="40227" SitzeGerundet="3" SummeSitzeGerundet="23"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="3.5" Divisorkandidat="354350.571429" DivisorkandidatZaehler="2480454" DivisorkandidatNenner="7" DivisorkandidatGanze="354350" DivisorkandidatRest="4" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="-0.5" SitzeVeraendert="2.5" Divisorkandidat="496090.800000" DivisorkandidatZaehler="2480454" DivisorkandidatNenner="5" DivisorkandidatGanze="496090" DivisorkandidatRest="4" MinMax="kein"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+    </Gebiet>
+    <Gebiet Gebietsart="LAND" Gebietsnummer="4" SitzeGesamt="0">
+        <SitzeGruppe Gruppe="1" Gesamt="0" GesamtVgl="0" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.129558" SitzeUngerundetZaehler="51823" SitzeUngerundetNenner="400000" SitzeUngerundetGanze="0" SitzeUngerundetRest="51823" SitzeGerundetEnde="0" VerteilungVorab="false" Sitze="0" Listenstimmen="51823">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="410245.043478" DivisorZaehler="9435636" DivisorNenner="23" DivisorGanze="410245" DivisorRest="1" SitzeUngerundet="0.126322" SitzeUngerundetZaehler="1191929" SitzeUngerundetNenner="9435636" SitzeUngerundetGanze="0" SitzeUngerundetRest="1191929" SitzeGerundet="0" SummeSitzeGerundet="23"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="true">
+                    <Division Divisor="400000.000000" DivisorZaehler="400000" DivisorNenner="1" DivisorGanze="400000" DivisorRest="0" SitzeUngerundet="0.129558" SitzeUngerundetZaehler="51823" SitzeUngerundetNenner="400000" SitzeUngerundetGanze="0" SitzeUngerundetRest="51823" SitzeGerundet="0" SummeSitzeGerundet="23"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="103646.000000" DivisorkandidatZaehler="103646" DivisorkandidatNenner="1" DivisorkandidatGanze="103646" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+    </Gebiet>
+    <Gebiet Gebietsart="LAND" Gebietsnummer="5" SitzeGesamt="6">
+        <SitzeGruppe Gruppe="1" Gesamt="6" GesamtVgl="6" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="2" Prozent="33.333333" GesamtVgl="1" ProzentVgl="16.666667"/>
+            <SainteLague SitzeUngerundetEnde="6.496398" SitzeUngerundetZaehler="2598559" SitzeUngerundetNenner="400000" SitzeUngerundetGanze="6" SitzeUngerundetRest="198559" SitzeGerundetEnde="6" VerteilungVorab="false" Sitze="6" Listenstimmen="2598559">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="410245.043478" DivisorZaehler="9435636" DivisorNenner="23" DivisorGanze="410245" DivisorRest="1" SitzeUngerundet="6.334163" SitzeUngerundetZaehler="59766857" SitzeUngerundetNenner="9435636" SitzeUngerundetGanze="6" SitzeUngerundetRest="3153041" SitzeGerundet="6" SummeSitzeGerundet="23"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="true">
+                    <Division Divisor="400000.000000" DivisorZaehler="400000" DivisorNenner="1" DivisorGanze="400000" DivisorRest="0" SitzeUngerundet="6.496398" SitzeUngerundetZaehler="2598559" SitzeUngerundetNenner="400000" SitzeUngerundetGanze="6" SitzeUngerundetRest="198559" SitzeGerundet="6" SummeSitzeGerundet="23"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="6.5" Divisorkandidat="399778.307692" DivisorkandidatZaehler="5197118" DivisorkandidatNenner="13" DivisorkandidatGanze="399778" DivisorkandidatRest="4" MinMax="min"/>
+                    <Divisorkandidat Korrektur="-0.5" SitzeVeraendert="5.5" Divisorkandidat="472465.272727" DivisorkandidatZaehler="5197118" DivisorkandidatNenner="11" DivisorkandidatGanze="472465" DivisorkandidatRest="3" MinMax="kein"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+    </Gebiet>
+    <Gebiet Gebietsart="LAND" Gebietsnummer="6" SitzeGesamt="2">
+        <SitzeGruppe Gruppe="1" Gesamt="2" GesamtVgl="2" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="2.086663" SitzeUngerundetZaehler="166933" SitzeUngerundetNenner="80000" SitzeUngerundetGanze="2" SitzeUngerundetRest="6933" SitzeGerundetEnde="2" VerteilungVorab="false" Sitze="2" Listenstimmen="834665">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="410245.043478" DivisorZaehler="9435636" DivisorNenner="23" DivisorGanze="410245" DivisorRest="1" SitzeUngerundet="2.034552" SitzeUngerundetZaehler="19197295" SitzeUngerundetNenner="9435636" SitzeUngerundetGanze="2" SitzeUngerundetRest="326023" SitzeGerundet="2" SummeSitzeGerundet="23"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="true">
+                    <Division Divisor="400000.000000" DivisorZaehler="400000" DivisorNenner="1" DivisorGanze="400000" DivisorRest="0" SitzeUngerundet="2.086663" SitzeUngerundetZaehler="166933" SitzeUngerundetNenner="80000" SitzeUngerundetGanze="2" SitzeUngerundetRest="6933" SitzeGerundet="2" SummeSitzeGerundet="23"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="2.5" Divisorkandidat="333866.000000" DivisorkandidatZaehler="333866" DivisorkandidatNenner="1" DivisorkandidatGanze="333866" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="-0.5" SitzeVeraendert="1.5" Divisorkandidat="556443.333333" DivisorkandidatZaehler="1669330" DivisorkandidatNenner="3" DivisorkandidatGanze="556443" DivisorkandidatRest="1" MinMax="kein"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+    </Gebiet>
+    <Gebiet Gebietsart="LAND" Gebietsnummer="7" SitzeGesamt="2">
+        <SitzeGruppe Gruppe="1" Gesamt="2" GesamtVgl="2" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="1" Prozent="50.000000" GesamtVgl="1" ProzentVgl="50.000000"/>
+            <SainteLague SitzeUngerundetEnde="1.557223" SitzeUngerundetZaehler="622889" SitzeUngerundetNenner="400000" SitzeUngerundetGanze="1" SitzeUngerundetRest="222889" SitzeGerundetEnde="2" VerteilungVorab="false" Sitze="2" Listenstimmen="622889">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="410245.043478" DivisorZaehler="9435636" DivisorNenner="23" DivisorGanze="410245" DivisorRest="1" SitzeUngerundet="1.518334" SitzeUngerundetZaehler="14326447" SitzeUngerundetNenner="9435636" SitzeUngerundetGanze="1" SitzeUngerundetRest="4890811" SitzeGerundet="2" SummeSitzeGerundet="23"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="true">
+                    <Division Divisor="400000.000000" DivisorZaehler="400000" DivisorNenner="1" DivisorGanze="400000" DivisorRest="0" SitzeUngerundet="1.557223" SitzeUngerundetZaehler="622889" SitzeUngerundetNenner="400000" SitzeUngerundetGanze="1" SitzeUngerundetRest="222889" SitzeGerundet="2" SummeSitzeGerundet="23"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="2.5" Divisorkandidat="249155.600000" DivisorkandidatZaehler="1245778" DivisorkandidatNenner="5" DivisorkandidatGanze="249155" DivisorkandidatRest="3" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="-0.5" SitzeVeraendert="1.5" Divisorkandidat="415259.333333" DivisorkandidatZaehler="1245778" DivisorkandidatNenner="3" DivisorkandidatGanze="415259" DivisorkandidatRest="1" MinMax="max"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+    </Gebiet>
+    <Gebiet Gebietsart="LAND" Gebietsnummer="8" SitzeGesamt="4">
+        <SitzeGruppe Gruppe="1" Gesamt="4" GesamtVgl="4" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="1" Prozent="25.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="4.113695" SitzeUngerundetZaehler="822739" SitzeUngerundetNenner="200000" SitzeUngerundetGanze="4" SitzeUngerundetRest="22739" SitzeGerundetEnde="4" VerteilungVorab="false" Sitze="4" Listenstimmen="1645478">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="410245.043478" DivisorZaehler="9435636" DivisorNenner="23" DivisorGanze="410245" DivisorRest="1" SitzeUngerundet="4.010964" SitzeUngerundetZaehler="18922997" SitzeUngerundetNenner="4717818" SitzeUngerundetGanze="4" SitzeUngerundetRest="51725" SitzeGerundet="4" SummeSitzeGerundet="23"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="true">
+                    <Division Divisor="400000.000000" DivisorZaehler="400000" DivisorNenner="1" DivisorGanze="400000" DivisorRest="0" SitzeUngerundet="4.113695" SitzeUngerundetZaehler="822739" SitzeUngerundetNenner="200000" SitzeUngerundetGanze="4" SitzeUngerundetRest="22739" SitzeGerundet="4" SummeSitzeGerundet="23"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="4.5" Divisorkandidat="365661.777778" DivisorkandidatZaehler="3290956" DivisorkandidatNenner="9" DivisorkandidatGanze="365661" DivisorkandidatRest="7" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="-0.5" SitzeVeraendert="3.5" Divisorkandidat="470136.571429" DivisorkandidatZaehler="3290956" DivisorkandidatNenner="7" DivisorkandidatGanze="470136" DivisorkandidatRest="4" MinMax="kein"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+    </Gebiet>
+    <Gebiet Gebietsart="LAND" Gebietsnummer="9" SitzeGesamt="6">
+        <SitzeGruppe Gruppe="6" Gesamt="6" GesamtVgl="6" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="2" Prozent="33.333333" GesamtVgl="3" ProzentVgl="50.000000"/>
+        </SitzeGruppe>
+    </Gebiet>
+    <Gebiet Gebietsart="LAND" Gebietsnummer="10" SitzeGesamt="0">
+        <SitzeGruppe Gruppe="1" Gesamt="0" GesamtVgl="0" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.368805" SitzeUngerundetZaehler="73761" SitzeUngerundetNenner="200000" SitzeUngerundetGanze="0" SitzeUngerundetRest="73761" SitzeGerundetEnde="0" VerteilungVorab="false" Sitze="0" Listenstimmen="147522">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="410245.043478" DivisorZaehler="9435636" DivisorNenner="23" DivisorGanze="410245" DivisorRest="1" SitzeUngerundet="0.359595" SitzeUngerundetZaehler="565501" SitzeUngerundetNenner="1572606" SitzeUngerundetGanze="0" SitzeUngerundetRest="565501" SitzeGerundet="0" SummeSitzeGerundet="23"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="true">
+                    <Division Divisor="400000.000000" DivisorZaehler="400000" DivisorNenner="1" DivisorGanze="400000" DivisorRest="0" SitzeUngerundet="0.368805" SitzeUngerundetZaehler="73761" SitzeUngerundetNenner="200000" SitzeUngerundetGanze="0" SitzeUngerundetRest="73761" SitzeGerundet="0" SummeSitzeGerundet="23"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="295044.000000" DivisorkandidatZaehler="295044" DivisorkandidatNenner="1" DivisorkandidatGanze="295044" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+    </Gebiet>
+    <Gebiet Gebietsart="LAND" Gebietsnummer="11" SitzeGesamt="1">
+        <SitzeGruppe Gruppe="1" Gesamt="1" GesamtVgl="1" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="1" Prozent="100.000000" GesamtVgl="1" ProzentVgl="100.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.679290" SitzeUngerundetZaehler="67929" SitzeUngerundetNenner="100000" SitzeUngerundetGanze="0" SitzeUngerundetRest="67929" SitzeGerundetEnde="1" VerteilungVorab="false" Sitze="1" Listenstimmen="271716">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="410245.043478" DivisorZaehler="9435636" DivisorNenner="23" DivisorGanze="410245" DivisorRest="1" SitzeUngerundet="0.662326" SitzeUngerundetZaehler="520789" SitzeUngerundetNenner="786303" SitzeUngerundetGanze="0" SitzeUngerundetRest="520789" SitzeGerundet="1" SummeSitzeGerundet="23"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="true">
+                    <Division Divisor="400000.000000" DivisorZaehler="400000" DivisorNenner="1" DivisorGanze="400000" DivisorRest="0" SitzeUngerundet="0.679290" SitzeUngerundetZaehler="67929" SitzeUngerundetNenner="100000" SitzeUngerundetGanze="0" SitzeUngerundetRest="67929" SitzeGerundet="1" SummeSitzeGerundet="23"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="1.5" Divisorkandidat="181144.000000" DivisorkandidatZaehler="181144" DivisorkandidatNenner="1" DivisorkandidatGanze="181144" DivisorkandidatRest="0" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="-0.5" SitzeVeraendert="0.5" Divisorkandidat="543432.000000" DivisorkandidatZaehler="543432" DivisorkandidatNenner="1" DivisorkandidatGanze="543432" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+    </Gebiet>
+    <Gebiet Gebietsart="LAND" Gebietsnummer="12" SitzeGesamt="1">
+        <SitzeGruppe Gruppe="1" Gesamt="1" GesamtVgl="1" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.634843" SitzeUngerundetZaehler="253937" SitzeUngerundetNenner="400000" SitzeUngerundetGanze="0" SitzeUngerundetRest="253937" SitzeGerundetEnde="1" VerteilungVorab="false" Sitze="1" Listenstimmen="253937">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="410245.043478" DivisorZaehler="9435636" DivisorNenner="23" DivisorGanze="410245" DivisorRest="1" SitzeUngerundet="0.618989" SitzeUngerundetZaehler="5840551" SitzeUngerundetNenner="9435636" SitzeUngerundetGanze="0" SitzeUngerundetRest="5840551" SitzeGerundet="1" SummeSitzeGerundet="23"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="true">
+                    <Division Divisor="400000.000000" DivisorZaehler="400000" DivisorNenner="1" DivisorGanze="400000" DivisorRest="0" SitzeUngerundet="0.634843" SitzeUngerundetZaehler="253937" SitzeUngerundetNenner="400000" SitzeUngerundetGanze="0" SitzeUngerundetRest="253937" SitzeGerundet="1" SummeSitzeGerundet="23"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="1.5" Divisorkandidat="169291.333333" DivisorkandidatZaehler="507874" DivisorkandidatNenner="3" DivisorkandidatGanze="169291" DivisorkandidatRest="1" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="-0.5" SitzeVeraendert="0.5" Divisorkandidat="507874.000000" DivisorkandidatZaehler="507874" DivisorkandidatNenner="1" DivisorkandidatGanze="507874" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+    </Gebiet>
+    <Gebiet Gebietsart="LAND" Gebietsnummer="13" SitzeGesamt="0">
+        <SitzeGruppe Gruppe="1" Gesamt="0" GesamtVgl="0" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.459578" SitzeUngerundetZaehler="183831" SitzeUngerundetNenner="400000" SitzeUngerundetGanze="0" SitzeUngerundetRest="183831" SitzeGerundetEnde="0" VerteilungVorab="false" Sitze="0" Listenstimmen="183831">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="410245.043478" DivisorZaehler="9435636" DivisorNenner="23" DivisorGanze="410245" DivisorRest="1" SitzeUngerundet="0.448100" SitzeUngerundetZaehler="1409371" SitzeUngerundetNenner="3145212" SitzeUngerundetGanze="0" SitzeUngerundetRest="1409371" SitzeGerundet="0" SummeSitzeGerundet="23"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="true">
+                    <Division Divisor="400000.000000" DivisorZaehler="400000" DivisorNenner="1" DivisorGanze="400000" DivisorRest="0" SitzeUngerundet="0.459578" SitzeUngerundetZaehler="183831" SitzeUngerundetNenner="400000" SitzeUngerundetGanze="0" SitzeUngerundetRest="183831" SitzeGerundet="0" SummeSitzeGerundet="23"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="0.5" Divisorkandidat="367662.000000" DivisorkandidatZaehler="367662" DivisorkandidatNenner="1" DivisorkandidatGanze="367662" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+    </Gebiet>
+    <Gebiet Gebietsart="LAND" Gebietsnummer="14" SitzeGesamt="1">
+        <SitzeGruppe Gruppe="1" Gesamt="1" GesamtVgl="1" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="0" Prozent="0.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="1.220000" SitzeUngerundetZaehler="61" SitzeUngerundetNenner="50" SitzeUngerundetGanze="1" SitzeUngerundetRest="11" SitzeGerundetEnde="1" VerteilungVorab="false" Sitze="1" Listenstimmen="488000">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="410245.043478" DivisorZaehler="9435636" DivisorNenner="23" DivisorGanze="410245" DivisorRest="1" SitzeUngerundet="1.189533" SitzeUngerundetZaehler="2806000" SitzeUngerundetNenner="2358909" SitzeUngerundetGanze="1" SitzeUngerundetRest="447091" SitzeGerundet="1" SummeSitzeGerundet="23"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="true">
+                    <Division Divisor="400000.000000" DivisorZaehler="400000" DivisorNenner="1" DivisorGanze="400000" DivisorRest="0" SitzeUngerundet="1.220000" SitzeUngerundetZaehler="61" SitzeUngerundetNenner="50" SitzeUngerundetGanze="1" SitzeUngerundetRest="11" SitzeGerundet="1" SummeSitzeGerundet="23"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="1.5" Divisorkandidat="325333.333333" DivisorkandidatZaehler="976000" DivisorkandidatNenner="3" DivisorkandidatGanze="325333" DivisorkandidatRest="1" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="-0.5" SitzeVeraendert="0.5" Divisorkandidat="976000.000000" DivisorkandidatZaehler="976000" DivisorkandidatNenner="1" DivisorkandidatGanze="976000" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+    </Gebiet>
+    <Gebiet Gebietsart="LAND" Gebietsnummer="15" SitzeGesamt="1">
+        <SitzeGruppe Gruppe="1" Gesamt="1" GesamtVgl="1" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="1" Prozent="100.000000" GesamtVgl="0" ProzentVgl="0.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.619138" SitzeUngerundetZaehler="49531" SitzeUngerundetNenner="80000" SitzeUngerundetGanze="0" SitzeUngerundetRest="49531" SitzeGerundetEnde="1" VerteilungVorab="false" Sitze="1" Listenstimmen="247655">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="410245.043478" DivisorZaehler="9435636" DivisorNenner="23" DivisorGanze="410245" DivisorRest="1" SitzeUngerundet="0.603676" SitzeUngerundetZaehler="5696065" SitzeUngerundetNenner="9435636" SitzeUngerundetGanze="0" SitzeUngerundetRest="5696065" SitzeGerundet="1" SummeSitzeGerundet="23"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="true">
+                    <Division Divisor="400000.000000" DivisorZaehler="400000" DivisorNenner="1" DivisorGanze="400000" DivisorRest="0" SitzeUngerundet="0.619138" SitzeUngerundetZaehler="49531" SitzeUngerundetNenner="80000" SitzeUngerundetGanze="0" SitzeUngerundetRest="49531" SitzeGerundet="1" SummeSitzeGerundet="23"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="1.5" Divisorkandidat="165103.333333" DivisorkandidatZaehler="495310" DivisorkandidatNenner="3" DivisorkandidatGanze="165103" DivisorkandidatRest="1" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="-0.5" SitzeVeraendert="0.5" Divisorkandidat="495310.000000" DivisorkandidatZaehler="495310" DivisorkandidatNenner="1" DivisorkandidatGanze="495310" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+    </Gebiet>
+    <Gebiet Gebietsart="LAND" Gebietsnummer="16" SitzeGesamt="1">
+        <SitzeGruppe Gruppe="1" Gesamt="1" GesamtVgl="1" DifferenzGesamt="0" ListeErschoepft="0">
+            <Frauen Gesamt="1" Prozent="100.000000" GesamtVgl="1" ProzentVgl="100.000000"/>
+            <SainteLague SitzeUngerundetEnde="0.603290" SitzeUngerundetZaehler="60329" SitzeUngerundetNenner="100000" SitzeUngerundetGanze="0" SitzeUngerundetRest="60329" SitzeGerundetEnde="1" VerteilungVorab="false" Sitze="1" Listenstimmen="241316">
+                <Rechengang Index="1" IstDivisorGerundet="false">
+                    <Division Divisor="410245.043478" DivisorZaehler="9435636" DivisorNenner="23" DivisorGanze="410245" DivisorRest="1" SitzeUngerundet="0.588224" SitzeUngerundetZaehler="1387567" SitzeUngerundetNenner="2358909" SitzeUngerundetGanze="0" SitzeUngerundetRest="1387567" SitzeGerundet="1" SummeSitzeGerundet="23"/>
+                </Rechengang>
+                <Rechengang Index="2" IstDivisorGerundet="true">
+                    <Division Divisor="400000.000000" DivisorZaehler="400000" DivisorNenner="1" DivisorGanze="400000" DivisorRest="0" SitzeUngerundet="0.603290" SitzeUngerundetZaehler="60329" SitzeUngerundetNenner="100000" SitzeUngerundetGanze="0" SitzeUngerundetRest="60329" SitzeGerundet="1" SummeSitzeGerundet="23"/>
+                    <Divisorkandidat Korrektur="0.5" SitzeVeraendert="1.5" Divisorkandidat="160877.333333" DivisorkandidatZaehler="482632" DivisorkandidatNenner="3" DivisorkandidatGanze="160877" DivisorkandidatRest="1" MinMax="kein"/>
+                    <Divisorkandidat Korrektur="-0.5" SitzeVeraendert="0.5" Divisorkandidat="482632.000000" DivisorkandidatZaehler="482632" DivisorkandidatNenner="1" DivisorkandidatGanze="482632" DivisorkandidatRest="0" MinMax="kein"/>
+                </Rechengang>
+            </SainteLague>
+        </SitzeGruppe>
+    </Gebiet>
+    <Berechnungsparameter VerteilungVorab="false" SitzeGesamt="96" ListenstimmenGesamt="39810489">
+        <SainteLagueStartParameter DivisorAnfang="414692.59375"/>
+        <SainteLagueEndParameter DivisorEnde="409000" SummeSitzeGerundetEnde="96"/>
+    </Berechnungsparameter>
+</Sitzverteilung>

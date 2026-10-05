@@ -1,0 +1,423 @@
+﻿# (c) Die Bundeswahlleiterin, Wiesbaden 2024;;;;;
+# Datenlizenz Deutschland – Namensnennung – Version 2.0 (https://www.govdata.de/dl-de/by-2-0);;;;;
+# ;;;;;
+# Kreisnummern und -namen bei der Wahl zum 10. Europäischen Parlament aus der Bundesrepublik Deutschland;;;;;
+# ;;;;;
+Gebietsart;Gebietsnummer;GebietText;Kuerzel;UegGebietsart;UegGebietsnummer;Auspraegung
+BUND;99;Bundesgebiet;Bund;;;
+LAND;01;Schleswig-Holstein;SH;BUND;99;
+LAND;02;Hamburg;HH;BUND;99;
+LAND;03;Niedersachsen;NI;BUND;99;
+LAND;04;Bremen;HB;BUND;99;
+LAND;05;Nordrhein-Westfalen;NW;BUND;99;
+LAND;06;Hessen;HE;BUND;99;
+LAND;07;Rheinland-Pfalz;RP;BUND;99;
+LAND;08;Baden-Württemberg;BW;BUND;99;
+LAND;09;Bayern;BY;BUND;99;
+LAND;10;Saarland;SL;BUND;99;
+LAND;11;Berlin;BE;BUND;99;
+LAND;12;Brandenburg;BB;BUND;99;
+LAND;13;Mecklenburg-Vorpommern;MV;BUND;99;
+LAND;14;Sachsen;SN;BUND;99;
+LAND;15;Sachsen-Anhalt;ST;BUND;99;
+LAND;16;Thüringen;TH;BUND;99;
+KREIS;01001;Flensburg, Stadt;;LAND;01;Kreisfreie Stadt
+KREIS;01002;Kiel, Landeshauptstadt;;LAND;01;Kreisfreie Stadt
+KREIS;01003;Lübeck, Hansestadt;;LAND;01;Kreisfreie Stadt
+KREIS;01004;Neumünster, Stadt;;LAND;01;Kreisfreie Stadt
+KREIS;01051;Dithmarschen;;LAND;01;Kreis
+KREIS;01053;Herzogtum Lauenburg;;LAND;01;Kreis
+KREIS;01054;Nordfriesland;;LAND;01;Kreis
+KREIS;01055;Ostholstein;;LAND;01;Kreis
+KREIS;01056;Pinneberg;;LAND;01;Kreis
+KREIS;01057;Plön;;LAND;01;Kreis
+KREIS;01058;Rendsburg-Eckernförde;;LAND;01;Kreis
+KREIS;01059;Schleswig-Flensburg;;LAND;01;Kreis
+KREIS;01060;Segeberg;;LAND;01;Kreis
+KREIS;01061;Steinburg;;LAND;01;Kreis
+KREIS;01062;Stormarn;;LAND;01;Kreis
+KREIS;02000;Hamburg, Freie und Hansestadt;;LAND;02;Kreisfreie Stadt
+KREIS;03101;Braunschweig, Stadt;;LAND;03;Kreisfreie Stadt
+KREIS;03102;Salzgitter, Stadt;;LAND;03;Kreisfreie Stadt
+KREIS;03103;Wolfsburg, Stadt;;LAND;03;Kreisfreie Stadt
+KREIS;03151;Gifhorn;;LAND;03;Landkreis
+KREIS;03153;Goslar;;LAND;03;Landkreis
+KREIS;03154;Helmstedt;;LAND;03;Landkreis
+KREIS;03155;Northeim;;LAND;03;Landkreis
+KREIS;03157;Peine;;LAND;03;Landkreis
+KREIS;03158;Wolfenbüttel;;LAND;03;Landkreis
+KREIS;03159;Göttingen;;LAND;03;Landkreis
+KREIS;03241;Region Hannover;;LAND;03;Landkreis
+KREIS;03251;Diepholz;;LAND;03;Landkreis
+KREIS;03252;Hameln-Pyrmont;;LAND;03;Landkreis
+KREIS;03254;Hildesheim;;LAND;03;Landkreis
+KREIS;03255;Holzminden;;LAND;03;Landkreis
+KREIS;03256;Nienburg (Weser);;LAND;03;Landkreis
+KREIS;03257;Schaumburg;;LAND;03;Landkreis
+KREIS;03351;Celle;;LAND;03;Landkreis
+KREIS;03352;Cuxhaven;;LAND;03;Landkreis
+KREIS;03353;Harburg;;LAND;03;Landkreis
+KREIS;03354;Lüchow-Dannenberg;;LAND;03;Landkreis
+KREIS;03355;Lüneburg;;LAND;03;Landkreis
+KREIS;03356;Osterholz;;LAND;03;Landkreis
+KREIS;03357;Rotenburg (Wümme);;LAND;03;Landkreis
+KREIS;03358;Heidekreis;;LAND;03;Landkreis
+KREIS;03359;Stade;;LAND;03;Landkreis
+KREIS;03360;Uelzen;;LAND;03;Landkreis
+KREIS;03361;Verden;;LAND;03;Landkreis
+KREIS;03401;Delmenhorst, Stadt;;LAND;03;Kreisfreie Stadt
+KREIS;03402;Emden, Stadt;;LAND;03;Kreisfreie Stadt
+KREIS;03403;Oldenburg (Oldenburg), Stadt;;LAND;03;Kreisfreie Stadt
+KREIS;03404;Osnabrück, Stadt;;LAND;03;Kreisfreie Stadt
+KREIS;03405;Wilhelmshaven, Stadt;;LAND;03;Kreisfreie Stadt
+KREIS;03451;Ammerland;;LAND;03;Landkreis
+KREIS;03452;Aurich;;LAND;03;Landkreis
+KREIS;03453;Cloppenburg;;LAND;03;Landkreis
+KREIS;03454;Emsland;;LAND;03;Landkreis
+KREIS;03455;Friesland;;LAND;03;Landkreis
+KREIS;03456;Grafschaft Bentheim;;LAND;03;Landkreis
+KREIS;03457;Leer;;LAND;03;Landkreis
+KREIS;03458;Oldenburg;;LAND;03;Landkreis
+KREIS;03459;Osnabrück;;LAND;03;Landkreis
+KREIS;03460;Vechta;;LAND;03;Landkreis
+KREIS;03461;Wesermarsch;;LAND;03;Landkreis
+KREIS;03462;Wittmund;;LAND;03;Landkreis
+KREIS;04011;Bremen, Stadt;;LAND;04;Kreisfreie Stadt
+KREIS;04012;Bremerhaven, Stadt;;LAND;04;Kreisfreie Stadt
+KREIS;05111;Düsseldorf, Stadt;;LAND;05;Kreisfreie Stadt
+KREIS;05112;Duisburg, Stadt;;LAND;05;Kreisfreie Stadt
+KREIS;05113;Essen, Stadt;;LAND;05;Kreisfreie Stadt
+KREIS;05114;Krefeld, Stadt;;LAND;05;Kreisfreie Stadt
+KREIS;05116;Mönchengladbach, Stadt;;LAND;05;Kreisfreie Stadt
+KREIS;05117;Mülheim an der Ruhr, Stadt;;LAND;05;Kreisfreie Stadt
+KREIS;05119;Oberhausen, Stadt;;LAND;05;Kreisfreie Stadt
+KREIS;05120;Remscheid, Stadt;;LAND;05;Kreisfreie Stadt
+KREIS;05122;Solingen, Klingenstadt;;LAND;05;Kreisfreie Stadt
+KREIS;05124;Wuppertal, Stadt;;LAND;05;Kreisfreie Stadt
+KREIS;05154;Kleve;;LAND;05;Kreis
+KREIS;05158;Mettmann;;LAND;05;Kreis
+KREIS;05162;Rhein-Kreis Neuss;;LAND;05;Kreis
+KREIS;05166;Viersen;;LAND;05;Kreis
+KREIS;05170;Wesel;;LAND;05;Kreis
+KREIS;05314;Bonn, Stadt;;LAND;05;Kreisfreie Stadt
+KREIS;05315;Köln, Stadt;;LAND;05;Kreisfreie Stadt
+KREIS;05316;Leverkusen, Stadt;;LAND;05;Kreisfreie Stadt
+KREIS;05334;Städteregion Aachen;;LAND;05;Kreis
+KREIS;05358;Düren;;LAND;05;Kreis
+KREIS;05362;Rhein-Erft-Kreis;;LAND;05;Kreis
+KREIS;05366;Euskirchen;;LAND;05;Kreis
+KREIS;05370;Heinsberg;;LAND;05;Kreis
+KREIS;05374;Oberbergischer Kreis;;LAND;05;Kreis
+KREIS;05378;Rheinisch-Bergischer Kreis;;LAND;05;Kreis
+KREIS;05382;Rhein-Sieg-Kreis;;LAND;05;Kreis
+KREIS;05512;Bottrop, Stadt;;LAND;05;Kreisfreie Stadt
+KREIS;05513;Gelsenkirchen, Stadt;;LAND;05;Kreisfreie Stadt
+KREIS;05515;Münster, Stadt;;LAND;05;Kreisfreie Stadt
+KREIS;05554;Borken;;LAND;05;Kreis
+KREIS;05558;Coesfeld;;LAND;05;Kreis
+KREIS;05562;Recklinghausen;;LAND;05;Kreis
+KREIS;05566;Steinfurt;;LAND;05;Kreis
+KREIS;05570;Warendorf;;LAND;05;Kreis
+KREIS;05711;Bielefeld, Stadt;;LAND;05;Kreisfreie Stadt
+KREIS;05754;Gütersloh;;LAND;05;Kreis
+KREIS;05758;Herford;;LAND;05;Kreis
+KREIS;05762;Höxter;;LAND;05;Kreis
+KREIS;05766;Lippe;;LAND;05;Kreis
+KREIS;05770;Minden-Lübbecke;;LAND;05;Kreis
+KREIS;05774;Paderborn;;LAND;05;Kreis
+KREIS;05911;Bochum, Stadt;;LAND;05;Kreisfreie Stadt
+KREIS;05913;Dortmund, Stadt;;LAND;05;Kreisfreie Stadt
+KREIS;05914;Hagen, Stadt der FernUniversität;;LAND;05;Kreisfreie Stadt
+KREIS;05915;Hamm, Stadt;;LAND;05;Kreisfreie Stadt
+KREIS;05916;Herne, Stadt;;LAND;05;Kreisfreie Stadt
+KREIS;05954;Ennepe-Ruhr-Kreis;;LAND;05;Kreis
+KREIS;05958;Hochsauerlandkreis;;LAND;05;Kreis
+KREIS;05962;Märkischer Kreis;;LAND;05;Kreis
+KREIS;05966;Olpe;;LAND;05;Kreis
+KREIS;05970;Siegen-Wittgenstein;;LAND;05;Kreis
+KREIS;05974;Soest;;LAND;05;Kreis
+KREIS;05978;Unna;;LAND;05;Kreis
+KREIS;06411;Darmstadt, Wissenschaftsstadt;;LAND;06;Kreisfreie Stadt
+KREIS;06412;Frankfurt am Main, Stadt;;LAND;06;Kreisfreie Stadt
+KREIS;06413;Offenbach am Main, Stadt;;LAND;06;Kreisfreie Stadt
+KREIS;06414;Wiesbaden, Landeshauptstadt;;LAND;06;Kreisfreie Stadt
+KREIS;06431;Bergstraße;;LAND;06;Landkreis
+KREIS;06432;Darmstadt-Dieburg;;LAND;06;Landkreis
+KREIS;06433;Groß-Gerau;;LAND;06;Landkreis
+KREIS;06434;Hochtaunuskreis;;LAND;06;Landkreis
+KREIS;06435;Main-Kinzig-Kreis;;LAND;06;Landkreis
+KREIS;06436;Main-Taunus-Kreis;;LAND;06;Landkreis
+KREIS;06437;Odenwaldkreis;;LAND;06;Landkreis
+KREIS;06438;Offenbach;;LAND;06;Landkreis
+KREIS;06439;Rheingau-Taunus-Kreis;;LAND;06;Landkreis
+KREIS;06440;Wetteraukreis;;LAND;06;Landkreis
+KREIS;06531;Gießen;;LAND;06;Landkreis
+KREIS;06532;Lahn-Dill-Kreis;;LAND;06;Landkreis
+KREIS;06533;Limburg-Weilburg;;LAND;06;Landkreis
+KREIS;06534;Marburg-Biedenkopf;;LAND;06;Landkreis
+KREIS;06535;Vogelsbergkreis;;LAND;06;Landkreis
+KREIS;06611;Kassel, documenta-Stadt;;LAND;06;Kreisfreie Stadt
+KREIS;06631;Fulda;;LAND;06;Landkreis
+KREIS;06632;Hersfeld-Rotenburg;;LAND;06;Landkreis
+KREIS;06633;Kassel;;LAND;06;Landkreis
+KREIS;06634;Schwalm-Eder-Kreis;;LAND;06;Landkreis
+KREIS;06635;Waldeck-Frankenberg;;LAND;06;Landkreis
+KREIS;06636;Werra-Meißner-Kreis;;LAND;06;Landkreis
+KREIS;07111;Koblenz, kreisfreie Stadt;;LAND;07;Kreisfreie Stadt
+KREIS;07131;Ahrweiler;;LAND;07;Landkreis
+KREIS;07132;Altenkirchen (Westerwald);;LAND;07;Landkreis
+KREIS;07133;Bad Kreuznach;;LAND;07;Landkreis
+KREIS;07134;Birkenfeld;;LAND;07;Landkreis
+KREIS;07135;Cochem-Zell;;LAND;07;Landkreis
+KREIS;07137;Mayen-Koblenz;;LAND;07;Landkreis
+KREIS;07138;Neuwied;;LAND;07;Landkreis
+KREIS;07140;Rhein-Hunsrück-Kreis;;LAND;07;Landkreis
+KREIS;07141;Rhein-Lahn-Kreis;;LAND;07;Landkreis
+KREIS;07143;Westerwaldkreis;;LAND;07;Landkreis
+KREIS;07211;Trier, kreisfreie Stadt;;LAND;07;Kreisfreie Stadt
+KREIS;07231;Bernkastel-Wittlich;;LAND;07;Landkreis
+KREIS;07232;Eifelkreis Bitburg-Prüm;;LAND;07;Landkreis
+KREIS;07233;Vulkaneifel;;LAND;07;Landkreis
+KREIS;07235;Trier-Saarburg;;LAND;07;Landkreis
+KREIS;07311;Frankenthal (Pfalz), kreisfreie Stadt;;LAND;07;Kreisfreie Stadt
+KREIS;07312;Kaiserslautern, kreisfreie Stadt;;LAND;07;Kreisfreie Stadt
+KREIS;07313;Landau in der Pfalz, kreisfreie Stadt;;LAND;07;Kreisfreie Stadt
+KREIS;07314;Ludwigshafen am Rhein, kreisfreie Stadt;;LAND;07;Kreisfreie Stadt
+KREIS;07315;Mainz, kreisfreie Stadt;;LAND;07;Kreisfreie Stadt
+KREIS;07316;Neustadt an der Weinstraße, kreisfreie Stadt;;LAND;07;Kreisfreie Stadt
+KREIS;07317;Pirmasens, kreisfreie Stadt;;LAND;07;Kreisfreie Stadt
+KREIS;07318;Speyer, kreisfreie Stadt;;LAND;07;Kreisfreie Stadt
+KREIS;07319;Worms, kreisfreie Stadt;;LAND;07;Kreisfreie Stadt
+KREIS;07320;Zweibrücken, kreisfreie Stadt;;LAND;07;Kreisfreie Stadt
+KREIS;07331;Alzey-Worms;;LAND;07;Landkreis
+KREIS;07332;Bad Dürkheim;;LAND;07;Landkreis
+KREIS;07333;Donnersbergkreis;;LAND;07;Landkreis
+KREIS;07334;Germersheim;;LAND;07;Landkreis
+KREIS;07335;Kaiserslautern;;LAND;07;Landkreis
+KREIS;07336;Kusel;;LAND;07;Landkreis
+KREIS;07337;Südliche Weinstraße;;LAND;07;Landkreis
+KREIS;07338;Rhein-Pfalz-Kreis;;LAND;07;Landkreis
+KREIS;07339;Mainz-Bingen;;LAND;07;Landkreis
+KREIS;07340;Südwestpfalz;;LAND;07;Landkreis
+KREIS;08111;Stuttgart, Stadtkreis;;LAND;08;Stadtkreis
+KREIS;08115;Böblingen;;LAND;08;Landkreis
+KREIS;08116;Esslingen;;LAND;08;Landkreis
+KREIS;08117;Göppingen;;LAND;08;Landkreis
+KREIS;08118;Ludwigsburg;;LAND;08;Landkreis
+KREIS;08119;Rems-Murr-Kreis;;LAND;08;Landkreis
+KREIS;08121;Heilbronn, Stadtkreis;;LAND;08;Stadtkreis
+KREIS;08125;Heilbronn;;LAND;08;Landkreis
+KREIS;08126;Hohenlohekreis;;LAND;08;Landkreis
+KREIS;08127;Schwäbisch Hall;;LAND;08;Landkreis
+KREIS;08128;Main-Tauber-Kreis;;LAND;08;Landkreis
+KREIS;08135;Heidenheim;;LAND;08;Landkreis
+KREIS;08136;Ostalbkreis;;LAND;08;Landkreis
+KREIS;08211;Baden-Baden, Stadtkreis;;LAND;08;Stadtkreis
+KREIS;08212;Karlsruhe, Stadtkreis;;LAND;08;Stadtkreis
+KREIS;08215;Karlsruhe;;LAND;08;Landkreis
+KREIS;08216;Rastatt;;LAND;08;Landkreis
+KREIS;08221;Heidelberg, Stadtkreis;;LAND;08;Stadtkreis
+KREIS;08222;Mannheim, Stadtkreis;;LAND;08;Stadtkreis
+KREIS;08225;Neckar-Odenwald-Kreis;;LAND;08;Landkreis
+KREIS;08226;Rhein-Neckar-Kreis;;LAND;08;Landkreis
+KREIS;08231;Pforzheim, Stadtkreis;;LAND;08;Stadtkreis
+KREIS;08235;Calw;;LAND;08;Landkreis
+KREIS;08236;Enzkreis;;LAND;08;Landkreis
+KREIS;08237;Freudenstadt;;LAND;08;Landkreis
+KREIS;08311;Freiburg im Breisgau, Stadtkreis;;LAND;08;Stadtkreis
+KREIS;08315;Breisgau-Hochschwarzwald;;LAND;08;Landkreis
+KREIS;08316;Emmendingen;;LAND;08;Landkreis
+KREIS;08317;Ortenaukreis;;LAND;08;Landkreis
+KREIS;08325;Rottweil;;LAND;08;Landkreis
+KREIS;08326;Schwarzwald-Baar-Kreis;;LAND;08;Landkreis
+KREIS;08327;Tuttlingen;;LAND;08;Landkreis
+KREIS;08335;Konstanz;;LAND;08;Landkreis
+KREIS;08336;Lörrach;;LAND;08;Landkreis
+KREIS;08337;Waldshut;;LAND;08;Landkreis
+KREIS;08415;Reutlingen;;LAND;08;Landkreis
+KREIS;08416;Tübingen;;LAND;08;Landkreis
+KREIS;08417;Zollernalbkreis;;LAND;08;Landkreis
+KREIS;08421;Ulm, Stadtkreis;;LAND;08;Stadtkreis
+KREIS;08425;Alb-Donau-Kreis;;LAND;08;Landkreis
+KREIS;08426;Biberach;;LAND;08;Landkreis
+KREIS;08435;Bodenseekreis;;LAND;08;Landkreis
+KREIS;08436;Ravensburg;;LAND;08;Landkreis
+KREIS;08437;Sigmaringen;;LAND;08;Landkreis
+KREIS;09161;Ingolstadt, kreisfreie Stadt;;LAND;09;Kreisfreie Stadt
+KREIS;09162;München, Landeshauptstadt;;LAND;09;Kreisfreie Stadt
+KREIS;09163;Rosenheim, kreisfreie Stadt;;LAND;09;Kreisfreie Stadt
+KREIS;09171;Altötting;;LAND;09;Landkreis
+KREIS;09172;Berchtesgadener Land;;LAND;09;Landkreis
+KREIS;09173;Bad Tölz-Wolfratshausen;;LAND;09;Landkreis
+KREIS;09174;Dachau;;LAND;09;Landkreis
+KREIS;09175;Ebersberg;;LAND;09;Landkreis
+KREIS;09176;Eichstätt;;LAND;09;Landkreis
+KREIS;09177;Erding;;LAND;09;Landkreis
+KREIS;09178;Freising;;LAND;09;Landkreis
+KREIS;09179;Fürstenfeldbruck;;LAND;09;Landkreis
+KREIS;09180;Garmisch-Partenkirchen;;LAND;09;Landkreis
+KREIS;09181;Landsberg am Lech;;LAND;09;Landkreis
+KREIS;09182;Miesbach;;LAND;09;Landkreis
+KREIS;09183;Mühldorf a.Inn;;LAND;09;Landkreis
+KREIS;09184;München;;LAND;09;Landkreis
+KREIS;09185;Neuburg-Schrobenhausen;;LAND;09;Landkreis
+KREIS;09186;Pfaffenhofen a.d.Ilm;;LAND;09;Landkreis
+KREIS;09187;Rosenheim;;LAND;09;Landkreis
+KREIS;09188;Starnberg;;LAND;09;Landkreis
+KREIS;09189;Traunstein;;LAND;09;Landkreis
+KREIS;09190;Weilheim-Schongau;;LAND;09;Landkreis
+KREIS;09261;Landshut, kreisfreie Stadt;;LAND;09;Kreisfreie Stadt
+KREIS;09262;Passau, kreisfreie Stadt;;LAND;09;Kreisfreie Stadt
+KREIS;09263;Straubing, kreisfreie Stadt;;LAND;09;Kreisfreie Stadt
+KREIS;09271;Deggendorf;;LAND;09;Landkreis
+KREIS;09272;Freyung-Grafenau;;LAND;09;Landkreis
+KREIS;09273;Kelheim;;LAND;09;Landkreis
+KREIS;09274;Landshut;;LAND;09;Landkreis
+KREIS;09275;Passau;;LAND;09;Landkreis
+KREIS;09276;Regen;;LAND;09;Landkreis
+KREIS;09277;Rottal-Inn;;LAND;09;Landkreis
+KREIS;09278;Straubing-Bogen;;LAND;09;Landkreis
+KREIS;09279;Dingolfing-Landau;;LAND;09;Landkreis
+KREIS;09361;Amberg, kreisfreie Stadt;;LAND;09;Kreisfreie Stadt
+KREIS;09362;Regensburg, kreisfreie Stadt;;LAND;09;Kreisfreie Stadt
+KREIS;09363;Weiden i.d.OPf., kreisfreie Stadt;;LAND;09;Kreisfreie Stadt
+KREIS;09371;Amberg-Sulzbach;;LAND;09;Landkreis
+KREIS;09372;Cham;;LAND;09;Landkreis
+KREIS;09373;Neumarkt i.d.OPf.;;LAND;09;Landkreis
+KREIS;09374;Neustadt a.d.Waldnaab;;LAND;09;Landkreis
+KREIS;09375;Regensburg;;LAND;09;Landkreis
+KREIS;09376;Schwandorf;;LAND;09;Landkreis
+KREIS;09377;Tirschenreuth;;LAND;09;Landkreis
+KREIS;09461;Bamberg, kreisfreie Stadt;;LAND;09;Kreisfreie Stadt
+KREIS;09462;Bayreuth, kreisfreie Stadt;;LAND;09;Kreisfreie Stadt
+KREIS;09463;Coburg, kreisfreie Stadt;;LAND;09;Kreisfreie Stadt
+KREIS;09464;Hof, kreisfreie Stadt;;LAND;09;Kreisfreie Stadt
+KREIS;09471;Bamberg;;LAND;09;Landkreis
+KREIS;09472;Bayreuth;;LAND;09;Landkreis
+KREIS;09473;Coburg;;LAND;09;Landkreis
+KREIS;09474;Forchheim;;LAND;09;Landkreis
+KREIS;09475;Hof;;LAND;09;Landkreis
+KREIS;09476;Kronach;;LAND;09;Landkreis
+KREIS;09477;Kulmbach;;LAND;09;Landkreis
+KREIS;09478;Lichtenfels;;LAND;09;Landkreis
+KREIS;09479;Wunsiedel i.Fichtelgebirge;;LAND;09;Landkreis
+KREIS;09561;Ansbach, kreisfreie Stadt;;LAND;09;Kreisfreie Stadt
+KREIS;09562;Erlangen, kreisfreie Stadt;;LAND;09;Kreisfreie Stadt
+KREIS;09563;Fürth, kreisfreie Stadt;;LAND;09;Kreisfreie Stadt
+KREIS;09564;Nürnberg, kreisfreie Stadt;;LAND;09;Kreisfreie Stadt
+KREIS;09565;Schwabach, kreisfreie Stadt;;LAND;09;Kreisfreie Stadt
+KREIS;09571;Ansbach;;LAND;09;Landkreis
+KREIS;09572;Erlangen-Höchstadt;;LAND;09;Landkreis
+KREIS;09573;Fürth;;LAND;09;Landkreis
+KREIS;09574;Nürnberger Land;;LAND;09;Landkreis
+KREIS;09575;Neustadt a.d.Aisch-Bad Windsheim;;LAND;09;Landkreis
+KREIS;09576;Roth;;LAND;09;Landkreis
+KREIS;09577;Weißenburg-Gunzenhausen;;LAND;09;Landkreis
+KREIS;09661;Aschaffenburg, kreisfreie Stadt;;LAND;09;Kreisfreie Stadt
+KREIS;09662;Schweinfurt, kreisfreie Stadt;;LAND;09;Kreisfreie Stadt
+KREIS;09663;Würzburg, kreisfreie Stadt;;LAND;09;Kreisfreie Stadt
+KREIS;09671;Aschaffenburg;;LAND;09;Landkreis
+KREIS;09672;Bad Kissingen;;LAND;09;Landkreis
+KREIS;09673;Rhön-Grabfeld;;LAND;09;Landkreis
+KREIS;09674;Haßberge;;LAND;09;Landkreis
+KREIS;09675;Kitzingen;;LAND;09;Landkreis
+KREIS;09676;Miltenberg;;LAND;09;Landkreis
+KREIS;09677;Main-Spessart;;LAND;09;Landkreis
+KREIS;09678;Schweinfurt;;LAND;09;Landkreis
+KREIS;09679;Würzburg;;LAND;09;Landkreis
+KREIS;09761;Augsburg, kreisfreie Stadt;;LAND;09;Kreisfreie Stadt
+KREIS;09762;Kaufbeuren, kreisfreie Stadt;;LAND;09;Kreisfreie Stadt
+KREIS;09763;Kempten (Allgäu), kreisfreie Stadt;;LAND;09;Kreisfreie Stadt
+KREIS;09764;Memmingen, kreisfreie Stadt;;LAND;09;Kreisfreie Stadt
+KREIS;09771;Aichach-Friedberg;;LAND;09;Landkreis
+KREIS;09772;Augsburg;;LAND;09;Landkreis
+KREIS;09773;Dillingen a.d.Donau;;LAND;09;Landkreis
+KREIS;09774;Günzburg;;LAND;09;Landkreis
+KREIS;09775;Neu-Ulm;;LAND;09;Landkreis
+KREIS;09776;Lindau (Bodensee);;LAND;09;Landkreis
+KREIS;09777;Ostallgäu;;LAND;09;Landkreis
+KREIS;09778;Unterallgäu;;LAND;09;Landkreis
+KREIS;09779;Donau-Ries;;LAND;09;Landkreis
+KREIS;09780;Oberallgäu;;LAND;09;Landkreis
+KREIS;10041;Regionalverband Saarbrücken;;LAND;10;Stadtverband
+KREIS;10042;Merzig-Wadern;;LAND;10;Landkreis
+KREIS;10043;Neunkirchen;;LAND;10;Landkreis
+KREIS;10044;Saarlouis;;LAND;10;Landkreis
+KREIS;10045;Saarpfalz-Kreis;;LAND;10;Landkreis
+KREIS;10046;St. Wendel;;LAND;10;Landkreis
+KREIS;11000;Berlin, Stadt;;LAND;11;Kreisfreie Stadt
+KREIS;12051;Brandenburg an der Havel, Stadt;;LAND;12;Kreisfreie Stadt
+KREIS;12052;Cottbus, Stadt;;LAND;12;Kreisfreie Stadt
+KREIS;12053;Frankfurt (Oder), Stadt;;LAND;12;Kreisfreie Stadt
+KREIS;12054;Potsdam, Stadt;;LAND;12;Kreisfreie Stadt
+KREIS;12060;Barnim;;LAND;12;Landkreis
+KREIS;12061;Dahme-Spreewald;;LAND;12;Landkreis
+KREIS;12062;Elbe-Elster;;LAND;12;Landkreis
+KREIS;12063;Havelland;;LAND;12;Landkreis
+KREIS;12064;Märkisch-Oderland;;LAND;12;Landkreis
+KREIS;12065;Oberhavel;;LAND;12;Landkreis
+KREIS;12066;Oberspreewald-Lausitz;;LAND;12;Landkreis
+KREIS;12067;Oder-Spree;;LAND;12;Landkreis
+KREIS;12068;Ostprignitz-Ruppin;;LAND;12;Landkreis
+KREIS;12069;Potsdam-Mittelmark;;LAND;12;Landkreis
+KREIS;12070;Prignitz;;LAND;12;Landkreis
+KREIS;12071;Spree-Neiße;;LAND;12;Landkreis
+KREIS;12072;Teltow-Fläming;;LAND;12;Landkreis
+KREIS;12073;Uckermark;;LAND;12;Landkreis
+KREIS;13003;Rostock;;LAND;13;Kreisfreie Stadt
+KREIS;13004;Schwerin;;LAND;13;Kreisfreie Stadt
+KREIS;13071;Mecklenburgische Seenplatte;;LAND;13;Landkreis
+KREIS;13072;Landkreis Rostock;;LAND;13;Landkreis
+KREIS;13073;Vorpommern-Rügen;;LAND;13;Landkreis
+KREIS;13074;Nordwestmecklenburg;;LAND;13;Landkreis
+KREIS;13075;Vorpommern-Greifswald;;LAND;13;Landkreis
+KREIS;13076;Ludwigslust-Parchim;;LAND;13;Landkreis
+KREIS;14511;Chemnitz, Stadt;;LAND;14;Kreisfreie Stadt
+KREIS;14521;Erzgebirgskreis;;LAND;14;Landkreis
+KREIS;14522;Mittelsachsen;;LAND;14;Landkreis
+KREIS;14523;Vogtlandkreis;;LAND;14;Landkreis
+KREIS;14524;Zwickau;;LAND;14;Landkreis
+KREIS;14612;Dresden, Stadt;;LAND;14;Kreisfreie Stadt
+KREIS;14625;Bautzen;;LAND;14;Landkreis
+KREIS;14626;Görlitz;;LAND;14;Landkreis
+KREIS;14627;Meißen;;LAND;14;Landkreis
+KREIS;14628;Sächsische Schweiz-Osterzgebirge;;LAND;14;Landkreis
+KREIS;14713;Leipzig, Stadt;;LAND;14;Kreisfreie Stadt
+KREIS;14729;Leipzig;;LAND;14;Landkreis
+KREIS;14730;Nordsachsen;;LAND;14;Landkreis
+KREIS;15001;Dessau-Roßlau, Stadt;;LAND;15;Kreisfreie Stadt
+KREIS;15002;Halle (Saale), Stadt;;LAND;15;Kreisfreie Stadt
+KREIS;15003;Magdeburg, Landeshauptstadt;;LAND;15;Kreisfreie Stadt
+KREIS;15081;Altmarkkreis Salzwedel;;LAND;15;Landkreis
+KREIS;15082;Anhalt-Bitterfeld;;LAND;15;Landkreis
+KREIS;15083;Börde;;LAND;15;Landkreis
+KREIS;15084;Burgenlandkreis;;LAND;15;Landkreis
+KREIS;15085;Harz;;LAND;15;Landkreis
+KREIS;15086;Jerichower Land;;LAND;15;Landkreis
+KREIS;15087;Mansfeld-Südharz;;LAND;15;Landkreis
+KREIS;15088;Saalekreis;;LAND;15;Landkreis
+KREIS;15089;Salzlandkreis;;LAND;15;Landkreis
+KREIS;15090;Stendal;;LAND;15;Landkreis
+KREIS;15091;Wittenberg;;LAND;15;Landkreis
+KREIS;16051;Erfurt, Stadt;;LAND;16;Kreisfreie Stadt
+KREIS;16052;Gera, Stadt;;LAND;16;Kreisfreie Stadt
+KREIS;16053;Jena, Stadt;;LAND;16;Kreisfreie Stadt
+KREIS;16054;Suhl, Stadt;;LAND;16;Kreisfreie Stadt
+KREIS;16055;Weimar, Stadt;;LAND;16;Kreisfreie Stadt
+KREIS;16061;Eichsfeld;;LAND;16;Landkreis
+KREIS;16062;Nordhausen;;LAND;16;Landkreis
+KREIS;16063;Wartburgkreis;;LAND;16;Landkreis
+KREIS;16064;Unstrut-Hainich-Kreis;;LAND;16;Landkreis
+KREIS;16065;Kyffhäuserkreis;;LAND;16;Landkreis
+KREIS;16066;Schmalkalden-Meiningen;;LAND;16;Landkreis
+KREIS;16067;Gotha;;LAND;16;Landkreis
+KREIS;16068;Sömmerda;;LAND;16;Landkreis
+KREIS;16069;Hildburghausen;;LAND;16;Landkreis
+KREIS;16070;Ilm-Kreis;;LAND;16;Landkreis
+KREIS;16071;Weimarer Land;;LAND;16;Landkreis
+KREIS;16072;Sonneberg;;LAND;16;Landkreis
+KREIS;16073;Saalfeld-Rudolstadt;;LAND;16;Landkreis
+KREIS;16074;Saale-Holzland-Kreis;;LAND;16;Landkreis
+KREIS;16075;Saale-Orla-Kreis;;LAND;16;Landkreis
+KREIS;16076;Greiz;;LAND;16;Landkreis
+KREIS;16077;Altenburger Land;;LAND;16;Landkreis

@@ -1,0 +1,501 @@
+{
+  "format": "wahldaten-index-v2",
+  "elections": [
+    {
+      "id": "de-mv-lt-2026",
+      "name": "Wahl zum Landtag von Mecklenburg-Vorpommern am 20. September 2026",
+      "shortname": "Landtagswahl MV 2026",
+      "type": "Landtag",
+      "location": "Mecklenburg-Vorpommern",
+      "year": 2026,
+      "country": "DE",
+      "heldOn": "2026-09-20",
+      "quality": "vorläufig",
+      "asOf": "2026-09-21T00:01:10",
+      "status": "übernommen",
+      "href": "/v1/de-mv-lt-2026/index.json",
+      "gebietssuche": {
+        "stand": "teilweise",
+        "wahlkreise": 36,
+        "mitAlternativdaten": 36,
+        "anteil": 100,
+        "wahlscheinEligible": {
+          "stand": "teilweise",
+          "vorhanden": 451,
+          "von": 1974
+        },
+        "wahlscheinVoters": {
+          "stand": "teilweise",
+          "vorhanden": 830,
+          "von": 1974
+        },
+        "note": "Gesucht in den Kreisen und kreisfreien Städten. 36 von 36 Wahlkreisen haben eine zweite Datei, die geprüft wurde, mit oder ohne Konflikt. Die Bekanntmachung des Kreiswahlleiters Nordwestmecklenburg vom 24.09.2026 ist geprüft; sie nennt die Wahlkreissumme, nicht die Bezirke. Die endgültige Landesdatei vom 29.09.2026, 12:11:18 Uhr, liegt für alle 36 Wahlkreise gesichert und ist nicht in die Stimmzeilen gerechnet. Die übernommene Zahl bleibt das vorläufige Ergebnis vom 21.09.2026, 00:01:10 Uhr."
+      }
+    },
+    {
+      "id": "de-be-agh-2026",
+      "name": "Wahl zum 20. Abgeordnetenhaus von Berlin am 20. September 2026",
+      "shortname": "Abgeordnetenhauswahl Berlin 2026",
+      "type": "Abgeordnetenhaus",
+      "location": "Berlin",
+      "year": 2026,
+      "country": "DE",
+      "heldOn": "2026-09-20",
+      "quality": "vorläufig",
+      "asOf": "2026-09-21T03:34:26",
+      "status": "übernommen",
+      "href": "/v1/de-be-agh-2026/index.json",
+      "gebietssuche": {
+        "stand": "nicht-gesucht",
+        "wahlkreise": 78,
+        "mitAlternativdaten": null,
+        "anteil": null,
+        "wahlscheinEligible": {
+          "stand": "vollstaendig",
+          "vorhanden": 4114,
+          "von": 4114
+        },
+        "wahlscheinVoters": {
+          "stand": "vollstaendig",
+          "vorhanden": 4114,
+          "von": 4114
+        },
+        "note": "Nach einer zweiten Zählliste der Bezirksämter wurde nicht gesucht. Die amtliche Datei des Landeswahlleiters bleibt die einzige Quelle."
+      }
+    },
+    {
+      "id": "de-st-lt-2026",
+      "name": "Wahl zum Landtag von Sachsen-Anhalt am 6. September 2026",
+      "shortname": "Landtagswahl ST 2026",
+      "type": "Landtag",
+      "location": "Sachsen-Anhalt",
+      "year": 2026,
+      "country": "DE",
+      "heldOn": "2026-09-06",
+      "quality": "endgültig",
+      "asOf": "2026-09-22",
+      "status": "übernommen",
+      "href": "/v1/de-st-lt-2026/index.json",
+      "gebietssuche": {
+        "stand": "nicht-gesucht",
+        "wahlkreise": 41,
+        "mitAlternativdaten": null,
+        "anteil": null,
+        "wahlscheinEligible": {
+          "stand": "nicht-geliefert",
+          "vorhanden": 0,
+          "von": 2661
+        },
+        "wahlscheinVoters": {
+          "stand": "nicht-geliefert",
+          "vorhanden": 0,
+          "von": 2661
+        },
+        "note": "Nach Dateien der Wahlkreise und Gemeinden neben der Landesveröffentlichung wurde nicht gesucht."
+      }
+    },
+    {
+      "id": "de-rp-lt-2026",
+      "name": "Wahl zum Landtag von Rheinland-Pfalz am 22. März 2026",
+      "shortname": "Landtagswahl RP 2026",
+      "type": "Landtag",
+      "location": "Rheinland-Pfalz",
+      "year": 2026,
+      "country": "DE",
+      "heldOn": "2026-03-22",
+      "quality": "endgültig",
+      "asOf": "2026-04-02",
+      "status": "übernommen",
+      "href": "/v1/de-rp-lt-2026/index.json",
+      "gebietssuche": {
+        "stand": "nicht-gesucht",
+        "wahlkreise": 52,
+        "mitAlternativdaten": null,
+        "anteil": null,
+        "wahlscheinEligible": {
+          "stand": "teilweise",
+          "vorhanden": 4692,
+          "von": 4751
+        },
+        "wahlscheinVoters": {
+          "stand": "teilweise",
+          "vorhanden": 4692,
+          "von": 4751
+        },
+        "note": "Nach Dateien der Wahlkreise und Gemeinden neben dem Landeswahlleiter wurde nicht gesucht. Die Summendateien derselben Veröffentlichung sind keine zweite Quelle. Wahlscheine stehen an 4.692 Wahlbezirken. 59 zusammengelegte Zeilen haben gar keine Zahlen."
+      }
+    },
+    {
+      "id": "de-bw-lt-2026",
+      "name": "Wahl zum Landtag von Baden-Württemberg am 8. März 2026",
+      "shortname": "Landtagswahl BW 2026",
+      "type": "Landtag",
+      "location": "Baden-Württemberg",
+      "year": 2026,
+      "country": "DE",
+      "heldOn": "2026-03-08",
+      "quality": "endgültig",
+      "asOf": "2026-03-27",
+      "status": "übernommen",
+      "href": "/v1/de-bw-lt-2026/index.json",
+      "gebietssuche": {
+        "stand": "nicht-gesucht",
+        "wahlkreise": 70,
+        "mitAlternativdaten": null,
+        "anteil": null,
+        "wahlscheinEligible": {
+          "stand": "vollstaendig",
+          "vorhanden": 11570,
+          "von": 11570
+        },
+        "wahlscheinVoters": {
+          "stand": "vollstaendig",
+          "vorhanden": 11570,
+          "von": 11570
+        },
+        "note": "Nach Dateien der Wahlkreise und Gemeinden neben der CSV des Statistischen Landesamts wurde nicht gesucht."
+      }
+    },
+    {
+      "id": "de-bt-2025",
+      "name": "Wahl zum 21. Deutschen Bundestag am 23. Februar 2025",
+      "shortname": "Bundestagswahl Deutschland 2025",
+      "type": "Bundestag",
+      "location": "Deutschland",
+      "year": 2025,
+      "country": "DE",
+      "heldOn": "2025-02-23",
+      "quality": "endgültig",
+      "asOf": "2025-03-14T10:50",
+      "status": "übernommen",
+      "href": "/v1/de-bt-2025/index.json",
+      "gebietssuche": {
+        "stand": "teilweise",
+        "wahlkreise": 299,
+        "mitAlternativdaten": 177,
+        "anteil": 59.2,
+        "wahlscheinEligible": {
+          "stand": "vollstaendig",
+          "vorhanden": 95111,
+          "von": 95111
+        },
+        "wahlscheinVoters": {
+          "stand": "vollstaendig",
+          "vorhanden": 95111,
+          "von": 95111
+        },
+        "note": "Geprüft wurden VoteManager über WABEO vom 27.02.2025, 13 AKDB-Dateien bayerischer Wahlkreise und alle 47 Wahlkreise des Landeswahlleiters Bayern. Schleswig-Holstein, Hamburg, Bremen, Berlin, Brandenburg, Hessen, Nordrhein-Westfalen, Rheinland-Pfalz und Thüringen: nach einer offenen Wahlbezirksdatei des Landes gesucht, keine erhalten. Wahlkreise ohne Treffer in den übrigen Ländern: nicht gesucht."
+      }
+    },
+    {
+      "id": "de-bb-lt-2024",
+      "name": "Wahl zum 8. Landtag von Brandenburg am 22. September 2024",
+      "shortname": "Landtagswahl Brandenburg 2024",
+      "type": "Landtag",
+      "location": "Brandenburg",
+      "year": 2024,
+      "country": "DE",
+      "heldOn": "2024-09-22",
+      "quality": "endgültig",
+      "asOf": null,
+      "status": "übernommen",
+      "href": "/v1/de-bb-lt-2024/index.json",
+      "gebietssuche": {
+        "stand": "nicht-gesucht",
+        "wahlkreise": 44,
+        "mitAlternativdaten": null,
+        "anteil": null,
+        "wahlscheinEligible": {
+          "stand": "nicht-geliefert",
+          "vorhanden": null,
+          "von": null
+        },
+        "wahlscheinVoters": {
+          "stand": "nicht-geliefert",
+          "vorhanden": null,
+          "von": null
+        },
+        "note": "Nach einer zweiten Quelle neben der Aggregatdatei wurde nicht gesucht. Die Wahlbezirksdatei derselben Stelle liegt bei und ist nicht zeilenweise übernommen."
+      }
+    },
+    {
+      "id": "de-sn-lt-2024",
+      "name": "Wahl zum Landtag von Sachsen am 1. September 2024",
+      "shortname": "Landtagswahl Sachsen 2024",
+      "type": "Landtag",
+      "location": "Sachsen",
+      "year": 2024,
+      "country": "DE",
+      "heldOn": "2024-09-01",
+      "quality": "endgültig",
+      "asOf": null,
+      "status": "übernommen",
+      "href": "/v1/de-sn-lt-2024/index.json",
+      "gebietssuche": {
+        "stand": "nicht-gesucht",
+        "wahlkreise": 60,
+        "mitAlternativdaten": null,
+        "anteil": null,
+        "wahlscheinEligible": {
+          "stand": "nicht-geliefert",
+          "vorhanden": null,
+          "von": null
+        },
+        "wahlscheinVoters": {
+          "stand": "nicht-geliefert",
+          "vorhanden": null,
+          "von": null
+        },
+        "note": "Nach einer zweiten Quelle neben der Landesveröffentlichung wurde nicht gesucht. Die Wahlbezirksmappe derselben Stelle liegt bei und ist nicht zeilenweise übernommen."
+      }
+    },
+    {
+      "id": "de-th-lt-2024",
+      "name": "Wahl zum Landtag von Thüringen am 1. September 2024",
+      "shortname": "Landtagswahl Thüringen 2024",
+      "type": "Landtag",
+      "location": "Thüringen",
+      "year": 2024,
+      "country": "DE",
+      "heldOn": "2024-09-01",
+      "quality": "endgültig",
+      "asOf": null,
+      "status": "übernommen",
+      "href": "/v1/de-th-lt-2024/index.json",
+      "gebietssuche": {
+        "stand": "nicht-gesucht",
+        "wahlkreise": 0,
+        "mitAlternativdaten": null,
+        "anteil": null,
+        "wahlscheinEligible": {
+          "stand": "nicht-geliefert",
+          "vorhanden": null,
+          "von": null
+        },
+        "wahlscheinVoters": {
+          "stand": "nicht-geliefert",
+          "vorhanden": null,
+          "von": null
+        },
+        "note": "Nach Wahlkreis-, Kreis- und Gemeindezeilen neben der Landesübersicht wurde nicht gesucht."
+      }
+    },
+    {
+      "id": "de-eu-2024",
+      "name": "10. Wahl zum Europäischen Parlament aus der Bundesrepublik Deutschland am 9. Juni 2024",
+      "shortname": "Europawahl Deutschland 2024",
+      "type": "Europawahl",
+      "location": "Deutschland",
+      "year": 2024,
+      "country": "DE",
+      "heldOn": "2024-06-09",
+      "quality": "endgültig",
+      "asOf": "2024-07-03T11:54",
+      "status": "übernommen",
+      "href": "/v1/de-eu-2024/index.json",
+      "gebietssuche": {
+        "stand": "nicht-gesucht",
+        "wahlkreise": 0,
+        "mitAlternativdaten": null,
+        "anteil": null,
+        "wahlscheinEligible": {
+          "stand": "vollstaendig",
+          "vorhanden": 91753,
+          "von": 91753
+        },
+        "wahlscheinVoters": {
+          "stand": "vollstaendig",
+          "vorhanden": 91753,
+          "von": 91753
+        },
+        "note": "Nach Daten der Kreise und Gemeinden neben der Bundeswahlleiterin wurde nicht gesucht. Wahlscheine stehen an allen Wahlbezirken der Wahlbezirksdatei. An Bund, Land und Kreis bleibt das Feld null."
+      }
+    },
+    {
+      "id": "de-by-lt-2023",
+      "name": "Wahl zum 19. Bayerischen Landtag am 8. Oktober 2023",
+      "shortname": "Landtagswahl Bayern 2023",
+      "type": "Landtag",
+      "location": "Bayern",
+      "year": 2023,
+      "country": "DE",
+      "heldOn": "2023-10-08",
+      "quality": "endgültig",
+      "asOf": "2023-10-24T13:00",
+      "status": "übernommen",
+      "href": "/v1/de-by-lt-2023/index.json",
+      "gebietssuche": {
+        "stand": "nicht-gesucht",
+        "wahlkreise": 7,
+        "mitAlternativdaten": null,
+        "anteil": null,
+        "wahlscheinEligible": {
+          "stand": "nicht-geliefert",
+          "vorhanden": null,
+          "von": null
+        },
+        "wahlscheinVoters": {
+          "stand": "nicht-geliefert",
+          "vorhanden": null,
+          "von": null
+        },
+        "note": "Nach Dateien der Stimmkreise und Gemeinden neben dem Landeswahlleiter wurde nicht gesucht. Die CSV desselben Stands ist keine zweite Quelle."
+      }
+    },
+    {
+      "id": "de-he-lt-2023",
+      "name": "Wahl zum 21. Hessischen Landtag am 8. Oktober 2023",
+      "shortname": "Landtagswahl Hessen 2023",
+      "type": "Landtag",
+      "location": "Hessen",
+      "year": 2023,
+      "country": "DE",
+      "heldOn": "2023-10-08",
+      "quality": "endgültig",
+      "asOf": "2023-10-27",
+      "status": "übernommen",
+      "href": "/v1/de-he-lt-2023/index.json",
+      "gebietssuche": {
+        "stand": "nicht-gesucht",
+        "wahlkreise": 0,
+        "mitAlternativdaten": null,
+        "anteil": null,
+        "wahlscheinEligible": {
+          "stand": "nicht-geliefert",
+          "vorhanden": null,
+          "von": null
+        },
+        "wahlscheinVoters": {
+          "stand": "nicht-geliefert",
+          "vorhanden": null,
+          "von": null
+        },
+        "note": "Nach Wahlkreisstimmen und nach der CSV aller Ebenen wurde nicht gesucht. Die CSV verlangt eine Anmeldung."
+      }
+    },
+    {
+      "id": "de-ni-lt-2022",
+      "name": "Wahl zum Landtag von Niedersachsen am 9. Oktober 2022",
+      "shortname": "Landtagswahl NI 2022",
+      "type": "Landtag",
+      "location": "Niedersachsen",
+      "year": 2022,
+      "country": "DE",
+      "heldOn": "2022-10-09",
+      "quality": "amtlich",
+      "asOf": null,
+      "status": "übernommen",
+      "href": "/v1/de-ni-lt-2022/index.json",
+      "gebietssuche": {
+        "stand": "nicht-gesucht",
+        "wahlkreise": 87,
+        "mitAlternativdaten": null,
+        "anteil": null,
+        "wahlscheinEligible": {
+          "stand": "nicht-geliefert",
+          "vorhanden": null,
+          "von": null
+        },
+        "wahlscheinVoters": {
+          "stand": "nicht-geliefert",
+          "vorhanden": null,
+          "von": null
+        },
+        "note": "Nach einer Landeszeile oder nach Wahlbezirken neben der Wahlkreis-CSV wurde nicht gesucht. Die Landeszeile ist die Summe der Wahlkreise."
+      }
+    },
+    {
+      "id": "de-nw-lt-2022",
+      "name": "Wahl zum Landtag von Nordrhein-Westfalen am 15. Mai 2022",
+      "shortname": "Landtagswahl NRW 2022",
+      "type": "Landtag",
+      "location": "Nordrhein-Westfalen",
+      "year": 2022,
+      "country": "DE",
+      "heldOn": "2022-05-15",
+      "quality": "endgültig",
+      "asOf": null,
+      "status": "übernommen",
+      "href": "/v1/de-nw-lt-2022/index.json",
+      "gebietssuche": {
+        "stand": "nicht-gesucht",
+        "wahlkreise": 128,
+        "mitAlternativdaten": null,
+        "anteil": null,
+        "wahlscheinEligible": {
+          "stand": "nicht-geliefert",
+          "vorhanden": null,
+          "von": null
+        },
+        "wahlscheinVoters": {
+          "stand": "nicht-geliefert",
+          "vorhanden": null,
+          "von": null
+        },
+        "note": "Nach Gemeinden und Wahlbezirken neben der Wahlkreisdatei wurde nicht gesucht."
+      }
+    },
+    {
+      "id": "de-sh-lt-2022",
+      "name": "Wahl zum Landtag von Schleswig-Holstein am 8. Mai 2022",
+      "shortname": "Landtagswahl SH 2022",
+      "type": "Landtag",
+      "location": "Schleswig-Holstein",
+      "year": 2022,
+      "country": "DE",
+      "heldOn": "2022-05-08",
+      "quality": "endgültig",
+      "asOf": null,
+      "status": "übernommen",
+      "href": "/v1/de-sh-lt-2022/index.json",
+      "gebietssuche": {
+        "stand": "nicht-gesucht",
+        "wahlkreise": 35,
+        "mitAlternativdaten": null,
+        "anteil": null,
+        "wahlscheinEligible": {
+          "stand": "vollstaendig",
+          "vorhanden": 2909,
+          "von": 2909
+        },
+        "wahlscheinVoters": {
+          "stand": "nicht-geliefert",
+          "vorhanden": 0,
+          "von": 2909
+        },
+        "note": "Nach einer zweiten Quelle neben Tab 79 wurde nicht gesucht. Tab 81 und 82 nennen nur sieben Parteien und sind nicht die Zahlenquelle."
+      }
+    },
+    {
+      "id": "de-sl-lt-2022",
+      "name": "Wahl zum Landtag des Saarlandes am 27. März 2022",
+      "shortname": "Landtagswahl Saarland 2022",
+      "type": "Landtag",
+      "location": "Saarland",
+      "year": 2022,
+      "country": "DE",
+      "heldOn": "2022-03-27",
+      "quality": "endgültig",
+      "asOf": null,
+      "status": "übernommen",
+      "href": "/v1/de-sl-lt-2022/index.json",
+      "gebietssuche": {
+        "stand": "nicht-gesucht",
+        "wahlkreise": 3,
+        "mitAlternativdaten": null,
+        "anteil": null,
+        "wahlscheinEligible": {
+          "stand": "nicht-geliefert",
+          "vorhanden": null,
+          "von": null
+        },
+        "wahlscheinVoters": {
+          "stand": "nicht-geliefert",
+          "vorhanden": null,
+          "von": null
+        },
+        "note": "Nach einer zweiten Quelle neben der CSV der Landeswahlleiterin wurde nicht gesucht."
+      }
+    }
+  ]
+}

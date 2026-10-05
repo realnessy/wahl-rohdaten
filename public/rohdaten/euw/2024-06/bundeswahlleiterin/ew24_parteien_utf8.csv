@@ -1,0 +1,45 @@
+﻿# (c) Die Bundeswahlleiterin, Wiesbaden 2024;;;;
+# ;;;;
+# Parteien und sonstige politische Vereinigungen bei der 10. Wahl zum Europäischen Parlament aus der Bundesrepublik Deutschland;;;;
+# ;;;;
+Gruppenschluessel;Gruppenart_XML;Gruppenart_CSV;Gruppenname_kurz;Gruppenname_lang
+100;SYSTEM_GRUPPE;System-Gruppe;Wahlberechtigte;Wahlberechtigte
+200;SYSTEM_GRUPPE;System-Gruppe;Wählende;Wählende
+300;SYSTEM_GRUPPE;System-Gruppe;Ungültige;Ungültige Stimmen
+400;SYSTEM_GRUPPE;System-Gruppe;Gültige;Gültige Stimmen
+1;PARTEI;Partei;CDU;Christlich Demokratische Union Deutschlands
+3;PARTEI;Partei;GRÜNE;BÜNDNIS 90/DIE GRÜNEN
+2;PARTEI;Partei;SPD;Sozialdemokratische Partei Deutschlands
+5;PARTEI;Partei;AfD;Alternative für Deutschland
+6;PARTEI;Partei;CSU;Christlich-Soziale Union in Bayern e.V.
+4;PARTEI;Partei;DIE LINKE;DIE LINKE
+7;PARTEI;Partei;FDP;Freie Demokratische Partei
+14;PARTEI;Partei;Die PARTEI;Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative
+8;PARTEI;Partei;FREIE WÄHLER;FREIE WÄHLER
+10;PARTEI;Partei;Tierschutzpartei;PARTEI MENSCH UMWELT TIERSCHUTZ
+13;PARTEI;Partei;ÖDP;Ökologisch-Demokratische Partei, Die Naturschutzpartei
+12;PARTEI;Partei;FAMILIE;Familien-Partei Deutschlands
+44;PARTEI;Partei;Volt;Volt Deutschland
+9;PARTEI;Partei;PIRATEN;Piratenpartei Deutschland
+51;PARTEI;Partei;MERA25;MERA25 - Gemeinsam für Europäische Unabhängigkeit
+11;PARTEI;Partei;HEIMAT;Die Heimat
+32;PARTEI;Partei;TIERSCHUTZ hier!;Aktion Partei für Tierschutz
+41;PARTEI;Partei;;Partei für schulmedizinische Verjüngungsforschung
+54;PARTEI;Partei;BIG;Bündnis für Innovation & Gerechtigkeit
+58;PARTEI;Partei;Bündnis C;Bündnis C - Christen für Deutschland
+45;PARTEI;Partei;PdH;Partei der Humanisten
+46;PARTEI;Partei;MENSCHLICHE WELT;Menschliche Welt, für das Wohl und Glücklichsein aller
+22;PARTEI;Partei;DKP;Deutsche Kommunistische Partei
+23;PARTEI;Partei;MLPD;Marxistisch-Leninistische Partei Deutschlands
+25;PARTEI;Partei;SGP;Sozialistische Gleichheitspartei, Vierte Internationale
+76;PARTEI;Partei;ABG;Aktion Bürger für Gerechtigkeit
+63;PARTEI;Partei;dieBasis;Basisdemokratische Partei Deutschland
+72;PARTEI;Partei;BÜNDNIS DEUTSCHLAND;BÜNDNIS DEUTSCHLAND
+64;PARTEI;Partei;BSW;Bündnis Sahra Wagenknecht - Vernunft und Gerechtigkeit
+65;PARTEI;Partei;DAVA;Demokratische Allianz für Vielfalt und Aufbruch
+66;PARTEI;Partei;KLIMALISTE;Klimaliste Deutschland
+74;PARTEI;Partei;LETZTE GENERATION;Parlament aufmischen – Stimme der Letzten Generation
+78;PARTEI;Partei;PDV;Partei der Vernunft
+67;PARTEI;Partei;PdF;Partei des Fortschritts
+77;PARTEI;Partei;V-Partei³;V-Partei³ - Partei für Veränderung, Vegetarier und Veganer
+28;UEBRIGE;System-Gruppe;Übrige;Übrige
