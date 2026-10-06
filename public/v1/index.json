@@ -66,7 +66,7 @@
     {
       "id": "de-st-lt-2026",
       "name": "Wahl zum Landtag von Sachsen-Anhalt am 6. September 2026",
-      "shortname": "Landtagswahl ST 2026",
+      "shortname": "Landtagswahl Sachsen-Anhalt 2026",
       "type": "Landtag",
       "location": "Sachsen-Anhalt",
       "year": 2026,
@@ -97,7 +97,7 @@
     {
       "id": "de-rp-lt-2026",
       "name": "Wahl zum Landtag von Rheinland-Pfalz am 22. März 2026",
-      "shortname": "Landtagswahl RP 2026",
+      "shortname": "Landtagswahl Rheinland-Pfalz 2026",
       "type": "Landtag",
       "location": "Rheinland-Pfalz",
       "year": 2026,
@@ -376,7 +376,7 @@
     {
       "id": "de-ni-lt-2022",
       "name": "Wahl zum Landtag von Niedersachsen am 9. Oktober 2022",
-      "shortname": "Landtagswahl NI 2022",
+      "shortname": "Landtagswahl Niedersachsen 2022",
       "type": "Landtag",
       "location": "Niedersachsen",
       "year": 2022,
