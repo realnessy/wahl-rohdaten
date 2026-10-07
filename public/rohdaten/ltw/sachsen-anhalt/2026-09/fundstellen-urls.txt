@@ -1,0 +1,22 @@
+Fundstellen, gesichert am 07.10.2026. Die amtliche Landesdatei bleibt die Zeile. Eine zweite Zahl steht nur daneben.
+
+Kreiswahlleitung über wahlergebnisse.kdo.de, amtliches Endergebnis, HTML gesichert:
+Wahlkreis 1 und 2, Altmarkkreis Salzwedel. Dazu die Bekanntmachung https://www.altmarkkreis-salzwedel.de/ResourceImage.aspx?raid=59188
+Wahlkreis 3 und 4, Landkreis Stendal. Die PDF-Bekanntmachung https://www.landkreis-stendal.de/de/datei/anzeigen/id/1284469,1037/6._bk_endg_ltiges_wahlergebnis_wk_3_4_.pdf antwortete am 07.10.2026 nicht.
+Wahlkreis 7, 8 und 9, Landkreis Börde. Dazu https://www.landkreis-boerde.de/fileadmin/Dateiverwaltung_Downloads/Bekanntmachungen/2026/2026-09-11_LTW__2026_Bekanntmachung_endgueltiges_Ergebnis_WK_7_8_und_9.pdf
+Wahlkreis 22, 23 und 28, Landkreis Anhalt-Bitterfeld, verlinkt von https://www.anhalt-bitterfeld.de/de/landtagswahl-2026.html
+Wahlkreis 24 und 25, Landkreis Wittenberg.
+Wahlkreis 30 und 31, Landkreis Mansfeld-Südharz. Wahlkreis 32 steht dort nicht.
+Wahlkreis 39, 40 und 41, Burgenlandkreis.
+
+Salzlandkreis, Wahlkreis 18 bis 21: https://wahlergebnisse.kdo.de/st/15089000/3/20260906/landtagswahl_kreis/index.html nennt Kein Eingang. Keine Zahl übernommen.
+
+Gesichert, nicht in die Vergleichszeile übernommen, weil der gelesene PDF-Text Zahlen nicht eindeutig trennt:
+Magdeburg, Amtsblatt 25.09.2026 Nr. 21, Wahlkreis 10 bis 13: https://www.magdeburg.de/loadDocument.phtml?FID=698.31291.1&Ext=PDF
+Dessau-Roßlau, Ergebnislisten Wahlkreis 26 und 27: https://verwaltung.dessau-rosslau.de/fileadmin/Verwaltungsportal_Dessau-Rosslau/Stadt_Buerger/Wahlen_und_Statistik/Wahlen/LTW_2026_Ergebnisse_endgueltig/LT2026_Ergebnislisten_WK26.pdf und LT2026_Ergebnislisten_WK27.pdf
+Halle, Amtsblatt 9. Oktober 2026 Nr. 21, Wahlkreis 35 bis 38: https://halle.de/fileadmin/Amtsblaetter/Amtsblaetter-2026/amtsblatt21_091026.pdf
+
+Ohne Ergebnisdatei in dieser Suche:
+Wahlkreis 5 und 6, Jerichower Land. Die Amtsblattadresse https://www.lkjl.de/de/datei/download/id/99054,1239/17_20_2026_vom_23.09.2026.pdf war am 07.10.2026 nicht erreichbar.
+Wahlkreis 14 bis 17, Landkreis Harz. Auf https://www.kreis-hz.de/de/bekanntmachungen.html lag keine Ergebnisbekanntmachung, nur Zulassungen.
+Wahlkreis 29, 32, 33 und 34, Saalekreis. Gefunden wurden Aufforderungen und die Landratswahl, keine Ergebniszahlen der Landtagswahl.
