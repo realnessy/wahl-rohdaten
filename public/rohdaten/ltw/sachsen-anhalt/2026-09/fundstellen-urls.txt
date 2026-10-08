@@ -20,3 +20,15 @@ Ohne Ergebnisdatei in dieser Suche:
 Wahlkreis 5 und 6, Jerichower Land. Die Amtsblattadresse https://www.lkjl.de/de/datei/download/id/99054,1239/17_20_2026_vom_23.09.2026.pdf war am 07.10.2026 nicht erreichbar.
 Wahlkreis 14 bis 17, Landkreis Harz. Auf https://www.kreis-hz.de/de/bekanntmachungen.html lag keine Ergebnisbekanntmachung, nur Zulassungen.
 Wahlkreis 29, 32, 33 und 34, Saalekreis. Gefunden wurden Aufforderungen und die Landratswahl, keine Ergebniszahlen der Landtagswahl.
+
+Nachsuche am 08.10.2026. Die amtliche Landeszeile bleibt. Eine zweite Zahl nur, wenn der Text sie eindeutig trennt.
+
+Wahlkreis 6 Burg, Amtsblatt Jerichower Land Nr. 17 vom 23.09.2026. Der gelesene Text trennt die Stimmen und die Summen gehen auf. Die Datei selbst war von hier nicht abrufbar, deshalb keine lokale Kopie.
+Wahlkreis 5 Genthin, dasselbe Amtsblatt. Der gelesene Text bricht in der Stimmenliste ab. Keine Zahl übernommen.
+Magdeburg, Wahlkreis 10 bis 13, Amtsblatt Nr. 21 vom 25.09.2026. Der Text trennt die Stimmen. Übernommen, die amtliche Zeile bleibt.
+Dessau-Roßlau, Wahlkreis 26 und 27, Ergebnislisten vom 25.09.2026. Der Text trennt die Stimmen. Übernommen, die amtliche Zeile bleibt.
+Halle, Wahlkreis 35 bis 38, https://wahlergebnisse.halle.de/LTW2026/ergebnisse_wahlkreis_35.html und die folgenden drei Seiten. Die Tabelle trennt die Stimmen. Das Amtsblatt vom 09.10.2026 nennt dieselben Summen, sein Text trennt einzelne Zahlen nicht sauber und wurde nicht abgetippt.
+Landkreis Harz, Kreisblatt 09/2026, gesichert. Der Text nennt 128.240 Wähler für die Wahlkreise 14 bis 17 zusammen und verweist auf die Landeswahlleiterin. Keine Tabelle je Wahlkreis, keine Zahl übernommen.
+Saalekreis, https://wahlen.saalekreis.de/de/landtagswahl-2026.html . Der Kreiswahlausschuss hat am 14.09.2026 die Wahlkreise 29, 32, 33 und 34 festgestellt. Die Seite verlinkt nur die Landeswahlleiterin. Keine eigene Tabelle.
+Salzlandkreis, Wahlkreis 18 bis 21, unverändert: die KDO-Seite nennt Kein Eingang.
+
