@@ -19,6 +19,8 @@
         "wahlkreise": 36,
         "mitAlternativdaten": 36,
         "anteil": 100,
+        "durchsucht": 36,
+        "durchsuchtAnteil": 100,
         "wahlscheinEligible": {
           "stand": "teilweise",
           "vorhanden": 451,
@@ -46,10 +48,12 @@
       "status": "übernommen",
       "href": "/v1/de-be-agh-2026/index.json",
       "gebietssuche": {
-        "stand": "nicht-gesucht",
+        "stand": "gesucht-leer",
         "wahlkreise": 78,
-        "mitAlternativdaten": null,
-        "anteil": null,
+        "mitAlternativdaten": 0,
+        "anteil": 0,
+        "durchsucht": 78,
+        "durchsuchtAnteil": 100,
         "wahlscheinEligible": {
           "stand": "vollstaendig",
           "vorhanden": 4114,
@@ -60,7 +64,7 @@
           "vorhanden": 4114,
           "von": 4114
         },
-        "note": "Nach einer zweiten Zählliste der Bezirksämter wurde nicht gesucht. Die amtliche Datei des Landeswahlleiters bleibt die einzige Quelle."
+        "note": "Am 08.10.2026 bei allen zwölf Bezirksämtern und beim Landeswahlleiter gesucht. Eine zweite Zählliste zur Abgeordnetenhauswahl lag nicht vor. Steglitz-Zehlendorf veröffentlicht Termine von Neuauszählungen am 23. und 24.09.2026, keine Stimmen. Die Bezirksverordnetenversammlung und die U16-Wahl sind andere Wahlen und wurden nicht übernommen. Presse und WABEO geben die Landesdatei wieder und sind keine zweite Quelle."
       }
     },
     {
@@ -77,10 +81,12 @@
       "status": "übernommen",
       "href": "/v1/de-st-lt-2026/index.json",
       "gebietssuche": {
-        "stand": "nicht-gesucht",
+        "stand": "teilweise",
         "wahlkreise": 41,
-        "mitAlternativdaten": null,
-        "anteil": null,
+        "mitAlternativdaten": 28,
+        "anteil": 68.3,
+        "durchsucht": 41,
+        "durchsuchtAnteil": 100,
         "wahlscheinEligible": {
           "stand": "nicht-geliefert",
           "vorhanden": 0,
@@ -91,7 +97,7 @@
           "vorhanden": 0,
           "von": 2661
         },
-        "note": "Nach Dateien der Wahlkreise und Gemeinden neben der Landesveröffentlichung wurde nicht gesucht."
+        "note": "Alle 41 Wahlkreise sind durchsucht, auch die Kreise und Gemeinden. 28 haben eine geprüfte zweite Datei. Die amtliche Zahl bleibt die der Landesdatei. In den übrigen 13 Wahlkreisen lag keine zweite Zahl, die sich eindeutig lesen ließ, oder die Kreiswahlleitung nennt keinen Eingang."
       }
     },
     {
@@ -108,10 +114,12 @@
       "status": "übernommen",
       "href": "/v1/de-rp-lt-2026/index.json",
       "gebietssuche": {
-        "stand": "nicht-gesucht",
+        "stand": "teilweise",
         "wahlkreise": 52,
-        "mitAlternativdaten": null,
-        "anteil": null,
+        "mitAlternativdaten": 29,
+        "anteil": 55.8,
+        "durchsucht": 52,
+        "durchsuchtAnteil": 100,
         "wahlscheinEligible": {
           "stand": "teilweise",
           "vorhanden": 4692,
@@ -122,7 +130,7 @@
           "vorhanden": 4692,
           "von": 4751
         },
-        "note": "Nach Dateien der Wahlkreise und Gemeinden neben dem Landeswahlleiter wurde nicht gesucht. Die Summendateien derselben Veröffentlichung sind keine zweite Quelle. Wahlscheine stehen an 4.692 Wahlbezirken. 59 zusammengelegte Zeilen haben gar keine Zahlen."
+        "note": "Alle 52 Wahlkreise sind durchsucht, auch die Kreise und Gemeinden. 29 haben eine geprüfte zweite Datei. Die amtliche Zahl bleibt die der Landesdatei. In den übrigen 23 Wahlkreisen lag keine zweite Zahl, die sich eindeutig lesen ließ."
       }
     },
     {
@@ -139,10 +147,12 @@
       "status": "übernommen",
       "href": "/v1/de-bw-lt-2026/index.json",
       "gebietssuche": {
-        "stand": "nicht-gesucht",
+        "stand": "teilweise",
         "wahlkreise": 70,
-        "mitAlternativdaten": null,
-        "anteil": null,
+        "mitAlternativdaten": 70,
+        "anteil": 100,
+        "durchsucht": 70,
+        "durchsuchtAnteil": 100,
         "wahlscheinEligible": {
           "stand": "vollstaendig",
           "vorhanden": 11570,
@@ -153,7 +163,7 @@
           "vorhanden": 11570,
           "von": 11570
         },
-        "note": "Nach Dateien der Wahlkreise und Gemeinden neben der CSV des Statistischen Landesamts wurde nicht gesucht."
+        "note": "Alle 70 Wahlkreise sind durchsucht, auch die Kreise und Gemeinden. 70 haben eine geprüfte zweite Datei. Die amtliche Zahl bleibt die der CSV des Statistischen Landesamts."
       }
     },
     {
@@ -174,6 +184,8 @@
         "wahlkreise": 299,
         "mitAlternativdaten": 177,
         "anteil": 59.2,
+        "durchsucht": 257,
+        "durchsuchtAnteil": 86,
         "wahlscheinEligible": {
           "stand": "vollstaendig",
           "vorhanden": 95111,
@@ -201,10 +213,12 @@
       "status": "übernommen",
       "href": "/v1/de-bb-lt-2024/index.json",
       "gebietssuche": {
-        "stand": "nicht-gesucht",
+        "stand": "teilweise",
         "wahlkreise": 44,
-        "mitAlternativdaten": null,
-        "anteil": null,
+        "mitAlternativdaten": 25,
+        "anteil": 56.8,
+        "durchsucht": 44,
+        "durchsuchtAnteil": 100,
         "wahlscheinEligible": {
           "stand": "nicht-geliefert",
           "vorhanden": null,
@@ -215,7 +229,7 @@
           "vorhanden": null,
           "von": null
         },
-        "note": "Nach einer zweiten Quelle neben der Aggregatdatei wurde nicht gesucht. Die Wahlbezirksdatei derselben Stelle liegt bei und ist nicht zeilenweise übernommen."
+        "note": "Alle 44 Wahlkreise sind durchsucht, auch die Kreise und Gemeinden. 25 haben eine geprüfte zweite Datei. Die amtliche Zahl bleibt die der Aggregatdatei. In den übrigen 19 Wahlkreisen lag keine zweite Zahl, die sich eindeutig lesen ließ. Parteien, die die Bekanntmachung nicht nennt, bleiben in der Vergleichszeile leer. Steht dort amtlich 0, ist das ein Konflikt, keine andere Stimme."
       }
     },
     {
@@ -232,10 +246,12 @@
       "status": "übernommen",
       "href": "/v1/de-sn-lt-2024/index.json",
       "gebietssuche": {
-        "stand": "nicht-gesucht",
+        "stand": "teilweise",
         "wahlkreise": 60,
-        "mitAlternativdaten": null,
-        "anteil": null,
+        "mitAlternativdaten": 8,
+        "anteil": 13.3,
+        "durchsucht": 60,
+        "durchsuchtAnteil": 100,
         "wahlscheinEligible": {
           "stand": "nicht-geliefert",
           "vorhanden": null,
@@ -246,7 +262,7 @@
           "vorhanden": null,
           "von": null
         },
-        "note": "Nach einer zweiten Quelle neben der Landesveröffentlichung wurde nicht gesucht. Die Wahlbezirksmappe derselben Stelle liegt bei und ist nicht zeilenweise übernommen."
+        "note": "Alle 60 Wahlkreise sind durchsucht, auch die Kreise und Gemeinden. 8 haben eine geprüfte zweite Datei. Die amtliche Zahl bleibt die der Landesdatei. In den übrigen 52 Wahlkreisen lag keine zweite Zahl, die sich eindeutig lesen ließ. Die Wahlbezirksmappe derselben Stelle ist nicht zeilenweise übernommen."
       }
     },
     {
@@ -263,10 +279,12 @@
       "status": "übernommen",
       "href": "/v1/de-th-lt-2024/index.json",
       "gebietssuche": {
-        "stand": "nicht-gesucht",
-        "wahlkreise": 0,
-        "mitAlternativdaten": null,
-        "anteil": null,
+        "stand": "teilweise",
+        "wahlkreise": 44,
+        "mitAlternativdaten": 33,
+        "anteil": 75,
+        "durchsucht": 44,
+        "durchsuchtAnteil": 100,
         "wahlscheinEligible": {
           "stand": "nicht-geliefert",
           "vorhanden": null,
@@ -277,7 +295,7 @@
           "vorhanden": null,
           "von": null
         },
-        "note": "Nach Wahlkreis-, Kreis- und Gemeindezeilen neben der Landesübersicht wurde nicht gesucht."
+        "note": "Alle 44 Wahlkreise sind durchsucht, auch die Landkreise, kreisfreien Städte und die dazu liegenden Gemeindeblätter. 33 haben eine geprüfte zweite Datei. Die amtliche Zahl bleibt die des Landesamts. In den übrigen 11 Wahlkreisen lag keine zweite Zahl, die sich eindeutig lesen ließ."
       }
     },
     {
@@ -298,6 +316,8 @@
         "wahlkreise": 0,
         "mitAlternativdaten": null,
         "anteil": null,
+        "durchsucht": null,
+        "durchsuchtAnteil": null,
         "wahlscheinEligible": {
           "stand": "vollstaendig",
           "vorhanden": 91753,
@@ -329,17 +349,19 @@
         "wahlkreise": 7,
         "mitAlternativdaten": null,
         "anteil": null,
+        "durchsucht": null,
+        "durchsuchtAnteil": null,
         "wahlscheinEligible": {
-          "stand": "nicht-geliefert",
-          "vorhanden": null,
-          "von": null
+          "stand": "vollstaendig",
+          "vorhanden": 18806,
+          "von": 18806
         },
         "wahlscheinVoters": {
-          "stand": "nicht-geliefert",
-          "vorhanden": null,
-          "von": null
+          "stand": "vollstaendig",
+          "vorhanden": 18806,
+          "von": 18806
         },
-        "note": "Nach Dateien der Stimmkreise und Gemeinden neben dem Landeswahlleiter wurde nicht gesucht. Die CSV desselben Stands ist keine zweite Quelle."
+        "note": "Nach Dateien der Stimmkreise und Gemeinden neben dem Landeswahlleiter wurde nicht gesucht. Die CSV desselben Stands ist keine zweite Quelle. Die Stimmbezirke stehen mit asrc aus der Datei des Landesamts für Statistik. Das ist nicht eine zweite Zählung der amtlichen Zeile."
       }
     },
     {
@@ -360,6 +382,8 @@
         "wahlkreise": 0,
         "mitAlternativdaten": null,
         "anteil": null,
+        "durchsucht": null,
+        "durchsuchtAnteil": null,
         "wahlscheinEligible": {
           "stand": "nicht-geliefert",
           "vorhanden": null,
@@ -391,6 +415,8 @@
         "wahlkreise": 87,
         "mitAlternativdaten": null,
         "anteil": null,
+        "durchsucht": null,
+        "durchsuchtAnteil": null,
         "wahlscheinEligible": {
           "stand": "nicht-geliefert",
           "vorhanden": null,
@@ -422,6 +448,8 @@
         "wahlkreise": 128,
         "mitAlternativdaten": null,
         "anteil": null,
+        "durchsucht": null,
+        "durchsuchtAnteil": null,
         "wahlscheinEligible": {
           "stand": "nicht-geliefert",
           "vorhanden": null,
@@ -453,6 +481,8 @@
         "wahlkreise": 35,
         "mitAlternativdaten": null,
         "anteil": null,
+        "durchsucht": null,
+        "durchsuchtAnteil": null,
         "wahlscheinEligible": {
           "stand": "vollstaendig",
           "vorhanden": 2909,
@@ -484,6 +514,8 @@
         "wahlkreise": 3,
         "mitAlternativdaten": null,
         "anteil": null,
+        "durchsucht": null,
+        "durchsuchtAnteil": null,
         "wahlscheinEligible": {
           "stand": "nicht-geliefert",
           "vorhanden": null,
