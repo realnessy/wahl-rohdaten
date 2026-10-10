@@ -473,7 +473,7 @@
           "vorhanden": null,
           "von": null
         },
-        "note": "Die Datei des Landeswahlleiters enthält das Land und 128 Wahlkreise. Eine offene Datei der Gemeinden oder Wahlbezirke lag nicht vor. Das Dashboard von IT.NRW nennt je Gemeinde Wahlberechtigte, Wähler und Briefanteile, keine Stimmen. Die Tabellen 14311 der Landesdatenbank lagen nicht als Datei vor. Nach zweiten Dateien der Wahlkreise wurde nicht gesucht.",
+        "note": "Die Datei des Landeswahlleiters enthält das Land und 128 Wahlkreise. Heft 4 von IT.NRW nennt Gemeinden und die Briefwahl als Anzahl, keine Wahlbezirke. Die Parteispalten lagen nicht Zahl für Zahl an der Landeszeile, deshalb wurde keine Gemeindezeile gespeichert. Der Regionalschlüssel dort ist sechsstellig und wird nicht aufgefüllt. Nach zweiten Dateien der Wahlkreise wurde nicht gesucht.",
         "gemeindenMitSchlussel": 0
       }
     },
