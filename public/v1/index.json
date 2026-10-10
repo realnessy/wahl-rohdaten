@@ -220,16 +220,16 @@
         "durchsucht": 44,
         "durchsuchtAnteil": 100,
         "wahlscheinEligible": {
-          "stand": "nicht-geliefert",
-          "vorhanden": null,
-          "von": null
+          "stand": "vollstaendig",
+          "vorhanden": 3925,
+          "von": 3925
         },
         "wahlscheinVoters": {
-          "stand": "nicht-geliefert",
-          "vorhanden": null,
-          "von": null
+          "stand": "vollstaendig",
+          "vorhanden": 3925,
+          "von": 3925
         },
-        "note": "Alle 44 Wahlkreise sind durchsucht, auch die Kreise und Gemeinden. 25 haben eine geprüfte zweite Datei. Die amtliche Zahl bleibt die der Aggregatdatei. In den übrigen 19 Wahlkreisen lag keine zweite Zahl, die sich eindeutig lesen ließ. Parteien, die die Bekanntmachung nicht nennt, bleiben in der Vergleichszeile leer. Steht dort amtlich 0, ist das ein Konflikt, keine andere Stimme."
+        "note": "Alle 44 Wahlkreise sind durchsucht, auch die Kreise und Gemeinden. 25 haben eine geprüfte zweite Datei. Die amtliche Zahl bleibt die der Aggregatdatei. In den übrigen 19 Wahlkreisen lag keine zweite Zahl, die sich eindeutig lesen ließ. Parteien, die die Bekanntmachung nicht nennt, bleiben in der Vergleichszeile leer. Steht dort amtlich 0, ist das ein Konflikt, keine andere Stimme. Die 3925 Wahlbezirke stehen in DL_BB_LT2024.xlsx derselben Stelle, ohne asrc. Urne und Brief der Summen stehen in calculated."
       }
     },
     {
