@@ -31,7 +31,8 @@
           "vorhanden": 830,
           "von": 1974
         },
-        "note": "Gesucht in den Kreisen und kreisfreien Städten. 36 von 36 Wahlkreisen haben eine zweite Datei, die geprüft wurde, mit oder ohne Konflikt. Die Bekanntmachung des Kreiswahlleiters Nordwestmecklenburg vom 24.09.2026 ist geprüft; sie nennt die Wahlkreissumme, nicht die Bezirke. Die endgültige Landesdatei vom 29.09.2026, 12:11:18 Uhr, liegt für alle 36 Wahlkreise gesichert und ist nicht in die Stimmzeilen gerechnet. Die übernommene Zahl bleibt das vorläufige Ergebnis vom 21.09.2026, 00:01:10 Uhr."
+        "note": "Gesucht in den Kreisen und kreisfreien Städten. 36 von 36 Wahlkreisen haben eine zweite Datei, die geprüft wurde, mit oder ohne Konflikt. Die Bekanntmachung des Kreiswahlleiters Nordwestmecklenburg vom 24.09.2026 ist geprüft; sie nennt die Wahlkreissumme, nicht die Bezirke. Die endgültige Landesdatei vom 29.09.2026, 12:11:18 Uhr, liegt für alle 36 Wahlkreise gesichert und ist nicht in die Stimmzeilen gerechnet. Die übernommene Zahl bleibt das vorläufige Ergebnis vom 21.09.2026, 00:01:10 Uhr.",
+        "gemeindenMitSchlussel": 799
       }
     },
     {
@@ -64,7 +65,8 @@
           "vorhanden": 4114,
           "von": 4114
         },
-        "note": "Am 08.10.2026 bei allen zwölf Bezirksämtern und beim Landeswahlleiter gesucht. Eine zweite Zählliste zur Abgeordnetenhauswahl lag nicht vor. Steglitz-Zehlendorf veröffentlicht Termine von Neuauszählungen am 23. und 24.09.2026, keine Stimmen. Die Bezirksverordnetenversammlung und die U16-Wahl sind andere Wahlen und wurden nicht übernommen. Presse und WABEO geben die Landesdatei wieder und sind keine zweite Quelle."
+        "note": "Am 08.10.2026 bei allen zwölf Bezirksämtern und beim Landeswahlleiter gesucht. Eine zweite Zählliste zur Abgeordnetenhauswahl lag nicht vor. Steglitz-Zehlendorf veröffentlicht Termine von Neuauszählungen am 23. und 24.09.2026, keine Stimmen. Die Bezirksverordnetenversammlung und die U16-Wahl sind andere Wahlen und wurden nicht übernommen. Presse und WABEO geben die Landesdatei wieder und sind keine zweite Quelle.",
+        "gemeindenMitSchlussel": 0
       }
     },
     {
@@ -97,7 +99,8 @@
           "vorhanden": 0,
           "von": 2661
         },
-        "note": "Alle 41 Wahlkreise sind durchsucht, auch die Kreise und Gemeinden. 28 haben eine geprüfte zweite Datei. Die amtliche Zahl bleibt die der Landesdatei. In den übrigen 13 Wahlkreisen lag keine zweite Zahl, die sich eindeutig lesen ließ, oder die Kreiswahlleitung nennt keinen Eingang."
+        "note": "Alle 41 Wahlkreise sind durchsucht, auch die Kreise und Gemeinden. 28 haben eine geprüfte zweite Datei. Die amtliche Zahl bleibt die der Landesdatei. In den übrigen 13 Wahlkreisen lag keine zweite Zahl, die sich eindeutig lesen ließ, oder die Kreiswahlleitung nennt keinen Eingang.",
+        "gemeindenMitSchlussel": 218
       }
     },
     {
@@ -130,7 +133,8 @@
           "vorhanden": 4692,
           "von": 4751
         },
-        "note": "Alle 52 Wahlkreise sind durchsucht, auch die Kreise und Gemeinden. 29 haben eine geprüfte zweite Datei. Die amtliche Zahl bleibt die der Landesdatei. In den übrigen 23 Wahlkreisen lag keine zweite Zahl, die sich eindeutig lesen ließ."
+        "note": "Alle 52 Wahlkreise sind durchsucht, auch die Kreise und Gemeinden. 29 haben eine geprüfte zweite Datei. Die amtliche Zahl bleibt die der Landesdatei. In den übrigen 23 Wahlkreisen lag keine zweite Zahl, die sich eindeutig lesen ließ.",
+        "gemeindenMitSchlussel": 2288
       }
     },
     {
@@ -163,7 +167,8 @@
           "vorhanden": 11570,
           "von": 11570
         },
-        "note": "Alle 70 Wahlkreise sind durchsucht, auch die Kreise und Gemeinden. 70 haben eine geprüfte zweite Datei. Die amtliche Zahl bleibt die der CSV des Statistischen Landesamts."
+        "note": "Alle 70 Wahlkreise sind durchsucht, auch die Kreise und Gemeinden. 70 haben eine geprüfte zweite Datei. Die amtliche Zahl bleibt die der CSV des Statistischen Landesamts.",
+        "gemeindenMitSchlussel": 1098
       }
     },
     {
@@ -196,7 +201,8 @@
           "vorhanden": 95111,
           "von": 95111
         },
-        "note": "Geprüft wurden VoteManager über WABEO vom 27.02.2025, 13 AKDB-Dateien bayerischer Wahlkreise und alle 47 Wahlkreise des Landeswahlleiters Bayern. Schleswig-Holstein, Hamburg, Bremen, Berlin, Brandenburg, Hessen, Nordrhein-Westfalen, Rheinland-Pfalz und Thüringen: nach einer offenen Wahlbezirksdatei des Landes gesucht, keine erhalten. Wahlkreise ohne Treffer in den übrigen Ländern: nicht gesucht."
+        "note": "Geprüft wurden VoteManager über WABEO vom 27.02.2025, 13 AKDB-Dateien bayerischer Wahlkreise und alle 47 Wahlkreise des Landeswahlleiters Bayern. Schleswig-Holstein, Hamburg, Bremen, Berlin, Brandenburg, Hessen, Nordrhein-Westfalen, Rheinland-Pfalz und Thüringen: nach einer offenen Wahlbezirksdatei des Landes gesucht, keine erhalten. Wahlkreise ohne Treffer in den übrigen Ländern: nicht gesucht.",
+        "gemeindenMitSchlussel": 0
       }
     },
     {
@@ -229,7 +235,8 @@
           "vorhanden": 3925,
           "von": 3925
         },
-        "note": "Alle 44 Wahlkreise sind durchsucht, auch die Kreise und Gemeinden. 25 haben eine geprüfte zweite Datei. Die amtliche Zahl bleibt die der Aggregatdatei. In den übrigen 19 Wahlkreisen lag keine zweite Zahl, die sich eindeutig lesen ließ. Parteien, die die Bekanntmachung nicht nennt, bleiben in der Vergleichszeile leer. Steht dort amtlich 0, ist das ein Konflikt, keine andere Stimme. Die 3925 Wahlbezirke stehen in DL_BB_LT2024.xlsx derselben Stelle, ohne asrc. Urne und Brief der Summen stehen in calculated."
+        "note": "Alle 44 Wahlkreise sind durchsucht, auch die Kreise und Gemeinden. 25 haben eine geprüfte zweite Datei. Die amtliche Zahl bleibt die der Aggregatdatei. In den übrigen 19 Wahlkreisen lag keine zweite Zahl, die sich eindeutig lesen ließ. Parteien, die die Bekanntmachung nicht nennt, bleiben in der Vergleichszeile leer. Steht dort amtlich 0, ist das ein Konflikt, keine andere Stimme. Die 3925 Wahlbezirke stehen in DL_BB_LT2024.xlsx derselben Stelle, ohne asrc. Urne und Brief der Summen stehen in calculated.",
+        "gemeindenMitSchlussel": 0
       }
     },
     {
@@ -253,16 +260,17 @@
         "durchsucht": 60,
         "durchsuchtAnteil": 100,
         "wahlscheinEligible": {
-          "stand": "nicht-geliefert",
-          "vorhanden": null,
-          "von": null
+          "stand": "teilweise",
+          "vorhanden": 3440,
+          "von": 4540
         },
         "wahlscheinVoters": {
-          "stand": "nicht-geliefert",
-          "vorhanden": null,
-          "von": null
+          "stand": "vollstaendig",
+          "vorhanden": 4540,
+          "von": 4540
         },
-        "note": "Alle 60 Wahlkreise sind durchsucht, auch die Kreise und Gemeinden. 8 haben eine geprüfte zweite Datei. Die amtliche Zahl bleibt die der Landesdatei. In den übrigen 52 Wahlkreisen lag keine zweite Zahl, die sich eindeutig lesen ließ. Die Wahlbezirksmappe derselben Stelle ist nicht zeilenweise übernommen."
+        "note": "Alle 60 Wahlkreise sind durchsucht, auch die Kreise und Gemeinden. 8 haben eine geprüfte zweite Datei. Die amtliche Zahl bleibt die der Landesdatei. In den übrigen 52 Wahlkreisen lag keine zweite Zahl, die sich eindeutig lesen ließ.",
+        "gemeindenMitSchlussel": 414
       }
     },
     {
@@ -275,7 +283,7 @@
       "country": "DE",
       "heldOn": "2024-09-01",
       "quality": "endgültig",
-      "asOf": null,
+      "asOf": "2024-09-12T13:55:37",
       "status": "übernommen",
       "href": "/v1/de-th-lt-2024/index.json",
       "gebietssuche": {
@@ -286,16 +294,17 @@
         "durchsucht": 44,
         "durchsuchtAnteil": 100,
         "wahlscheinEligible": {
-          "stand": "nicht-geliefert",
-          "vorhanden": null,
-          "von": null
+          "stand": "teilweise",
+          "vorhanden": 2510,
+          "von": 2998
         },
         "wahlscheinVoters": {
-          "stand": "nicht-geliefert",
-          "vorhanden": null,
-          "von": null
+          "stand": "teilweise",
+          "vorhanden": 830,
+          "von": 2998
         },
-        "note": "Alle 44 Wahlkreise sind durchsucht, auch die Landkreise, kreisfreien Städte und die dazu liegenden Gemeindeblätter. 33 haben eine geprüfte zweite Datei. Die amtliche Zahl bleibt die des Landesamts. In den übrigen 11 Wahlkreisen lag keine zweite Zahl, die sich eindeutig lesen ließ."
+        "note": "Alle 44 Wahlkreise sind durchsucht, auch die Landkreise, kreisfreien Städte und die dazu liegenden Gemeindeblätter. 33 haben eine geprüfte zweite Datei. Die amtliche Zahl bleibt die des Landesamts. In den übrigen 11 Wahlkreisen lag keine zweite Zahl, die sich eindeutig lesen ließ.",
+        "gemeindenMitSchlussel": 595
       }
     },
     {
@@ -328,7 +337,8 @@
           "vorhanden": 91753,
           "von": 91753
         },
-        "note": "Nach Daten der Kreise und Gemeinden neben der Bundeswahlleiterin wurde nicht gesucht. Wahlscheine stehen an allen Wahlbezirken der Wahlbezirksdatei. An Bund, Land und Kreis bleibt das Feld null."
+        "note": "Nach Daten der Kreise und Gemeinden neben der Bundeswahlleiterin wurde nicht gesucht. Wahlscheine stehen an allen Wahlbezirken der Wahlbezirksdatei. An Bund, Land und Kreis bleibt das Feld null.",
+        "gemeindenMitSchlussel": 0
       }
     },
     {
@@ -361,7 +371,8 @@
           "vorhanden": 18806,
           "von": 18806
         },
-        "note": "Nach Dateien der Stimmkreise und Gemeinden neben dem Landeswahlleiter wurde nicht gesucht. Die CSV desselben Stands ist keine zweite Quelle. Die Stimmbezirke stehen mit asrc aus der Datei des Landesamts für Statistik. Das ist nicht eine zweite Zählung der amtlichen Zeile."
+        "note": "Nach Dateien der Stimmkreise und Gemeinden neben dem Landeswahlleiter wurde nicht gesucht. Die CSV desselben Stands ist keine zweite Quelle. Die Stimmbezirke stehen mit asrc aus der Datei des Landesamts für Statistik. Das ist nicht eine zweite Zählung der amtlichen Zeile.",
+        "gemeindenMitSchlussel": 0
       }
     },
     {
@@ -374,27 +385,28 @@
       "country": "DE",
       "heldOn": "2023-10-08",
       "quality": "endgültig",
-      "asOf": "2023-10-27",
+      "asOf": "2023-10-27T11:40:14",
       "status": "übernommen",
       "href": "/v1/de-he-lt-2023/index.json",
       "gebietssuche": {
         "stand": "nicht-gesucht",
-        "wahlkreise": 0,
+        "wahlkreise": 55,
         "mitAlternativdaten": null,
         "anteil": null,
         "durchsucht": null,
         "durchsuchtAnteil": null,
         "wahlscheinEligible": {
-          "stand": "nicht-geliefert",
-          "vorhanden": null,
-          "von": null
+          "stand": "teilweise",
+          "vorhanden": 6889,
+          "von": 6954
         },
         "wahlscheinVoters": {
-          "stand": "nicht-geliefert",
-          "vorhanden": null,
-          "von": null
+          "stand": "teilweise",
+          "vorhanden": 6889,
+          "von": 6954
         },
-        "note": "Nach Wahlkreisstimmen und nach der CSV aller Ebenen wurde nicht gesucht. Die CSV verlangt eine Anmeldung."
+        "note": "Die CSV des Hessischen Statistischen Landesamts ist die Zahlenquelle, auch der Stimmbezirke. Nach einer zweiten Datei der Kreise wurde nicht gesucht.",
+        "gemeindenMitSchlussel": 417
       }
     },
     {
@@ -427,7 +439,8 @@
           "vorhanden": null,
           "von": null
         },
-        "note": "Nach einer Landeszeile oder nach Wahlbezirken neben der Wahlkreis-CSV wurde nicht gesucht. Die Landeszeile ist die Summe der Wahlkreise."
+        "note": "Die öffentliche CSV und die XML nennen die Wahlkreise, keine Wahlbezirke. Das Landesamt gibt die Wahlbezirksstatistik seit 1998 nur auf Anfrage an Wahl@statistik.niedersachsen.de heraus. Eine offene Datei lag nicht vor. Nach zweiten Dateien der Kreise wurde nicht gesucht.",
+        "gemeindenMitSchlussel": 0
       }
     },
     {
@@ -460,7 +473,8 @@
           "vorhanden": null,
           "von": null
         },
-        "note": "Nach Gemeinden und Wahlbezirken neben der Wahlkreisdatei wurde nicht gesucht."
+        "note": "Die Datei des Landeswahlleiters enthält das Land und 128 Wahlkreise. Eine offene Datei der Gemeinden oder Wahlbezirke lag nicht vor. Das Dashboard von IT.NRW nennt je Gemeinde Wahlberechtigte, Wähler und Briefanteile, keine Stimmen. Die Tabellen 14311 der Landesdatenbank lagen nicht als Datei vor. Nach zweiten Dateien der Wahlkreise wurde nicht gesucht.",
+        "gemeindenMitSchlussel": 0
       }
     },
     {
@@ -493,7 +507,8 @@
           "vorhanden": 0,
           "von": 2909
         },
-        "note": "Nach einer zweiten Quelle neben Tab 79 wurde nicht gesucht. Tab 81 und 82 nennen nur sieben Parteien und sind nicht die Zahlenquelle."
+        "note": "Nach einer zweiten Quelle neben Tab 79 wurde nicht gesucht. Tab 81 und 82 nennen nur sieben Parteien und sind nicht die Zahlenquelle.",
+        "gemeindenMitSchlussel": 1131
       }
     },
     {
@@ -526,7 +541,8 @@
           "vorhanden": null,
           "von": null
         },
-        "note": "Nach einer zweiten Quelle neben der CSV der Landeswahlleiterin wurde nicht gesucht."
+        "note": "Die CSV der Landeswahlleiterin enthält das Land, 3 Wahlkreise und 52 Gemeinden. Eine Datei der Wahlbezirke lag nicht vor. Nach einer zweiten Quelle neben dieser CSV wurde nicht gesucht.",
+        "gemeindenMitSchlussel": 0
       }
     }
   ]

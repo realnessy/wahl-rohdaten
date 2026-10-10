@@ -1,1 +1,1 @@
-{"format":"wahldaten-conflicts-v1","electionId":"de-rp-lt-2026","total":0,"maxAbs":0,"wahlkreise":[]}
+{"format":"wahldaten-conflicts-v1","electionId":"de-rp-lt-2026","total":1,"maxAbs":3,"wahlkreise":[{"id":"de-rp-lt-2026-wk-51","nr":51,"count":1,"maxAbs":3,"href":"/v1/de-rp-lt-2026/conflicts/wk-51.json"}]}
