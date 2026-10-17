@@ -4,6 +4,8 @@
 
 Kein Programmcode. Nur die Dateien der Wahlämter und die daraus gebauten JSON-Dateien.
 
+Der Zweig `main` enthält die fünf veröffentlichten Wahlen. Weitere Wahlen liegen auf dem Zweig `extra`.
+
 Abruf ausschließlich über jsDelivr:
 
 https://cdn.jsdelivr.net/gh/realnessy/wahl-rohdaten@main/public/v1/index.json
