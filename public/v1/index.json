@@ -11,7 +11,7 @@
       "country": "DE",
       "heldOn": "2026-09-20",
       "quality": "endgültig",
-      "asOf": "2026-09-29T12:11:18",
+      "asOf": "2026-09-30",
       "status": "übernommen",
       "href": "/v1/de-mv-lt-2026/index.json",
       "gebietssuche": {
@@ -31,7 +31,7 @@
           "vorhanden": 830,
           "von": 1974
         },
-        "note": "Gesucht in den Kreisen und kreisfreien Städten. 36 von 36 Wahlkreisen haben eine zweite Datei, die geprüft wurde, mit oder ohne Konflikt. Die Bekanntmachung des Kreiswahlleiters Nordwestmecklenburg vom 24.09.2026 ist geprüft; sie nennt die Wahlkreissumme, nicht die Bezirke. Die übernommene Zahl ist das endgültige Ergebnis vom 29.09.2026, 12:11:18 Uhr. Die vorläufige Fassung vom 21.09.2026, 00:01:10 Uhr, bleibt als Kopie liegen.",
+        "note": "Gesucht in den Kreisen und kreisfreien Städten. 36 von 36 Wahlkreisen haben eine zweite Datei, die geprüft wurde, mit oder ohne Konflikt. Die Bekanntmachung des Kreiswahlleiters Nordwestmecklenburg vom 24.09.2026 ist geprüft; sie nennt die Wahlkreissumme, nicht die Bezirke. Die übernommene Zahl ist das endgültige Ergebnis, festgestellt am 30.09.2026. Die vorläufige Fassung vom 21.09.2026, 00:01:10 Uhr, bleibt als Kopie liegen.",
         "gemeindenMitSchlussel": 799
       }
     },
@@ -45,7 +45,7 @@
       "country": "DE",
       "heldOn": "2026-09-20",
       "quality": "endgültig",
-      "asOf": "2026-10-12T12:29:41",
+      "asOf": "2026-10-12",
       "status": "übernommen",
       "href": "/v1/de-be-agh-2026/index.json",
       "gebietssuche": {
