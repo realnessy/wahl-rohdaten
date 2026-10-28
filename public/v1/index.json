@@ -33,6 +33,10 @@
         },
         "note": "Gesucht in den Kreisen und kreisfreien Städten. 36 von 36 Wahlkreisen haben eine zweite Datei, die geprüft wurde, mit oder ohne Konflikt. Die Bekanntmachung des Kreiswahlleiters Nordwestmecklenburg vom 24.09.2026 ist geprüft; sie nennt die Wahlkreissumme, nicht die Bezirke. Die übernommene Zahl ist das endgültige Ergebnis, festgestellt am 30.09.2026. Die vorläufige Fassung vom 21.09.2026, 00:01:10 Uhr, bleibt als Kopie liegen.",
         "gemeindenMitSchlussel": 799
+      },
+      "prozentHuerde": {
+        "prozent": 5,
+        "von": "zweit"
       }
     },
     {
@@ -67,6 +71,10 @@
         },
         "note": "Am 08.10.2026 bei allen zwölf Bezirksämtern und beim Landeswahlleiter gesucht. Eine zweite Zählliste zur Abgeordnetenhauswahl lag nicht vor. Steglitz-Zehlendorf veröffentlicht Termine von Neuauszählungen am 23. und 24.09.2026, keine Stimmen. Die Bezirksverordnetenversammlung und die U16-Wahl sind andere Wahlen und wurden nicht übernommen. Presse und WABEO geben die Landesdatei wieder und sind keine zweite Quelle.",
         "gemeindenMitSchlussel": 0
+      },
+      "prozentHuerde": {
+        "prozent": 5,
+        "von": "zweit"
       }
     },
     {
@@ -101,6 +109,10 @@
         },
         "note": "Alle 41 Wahlkreise sind durchsucht, auch die Kreise und Gemeinden. 28 haben eine geprüfte zweite Datei. Die amtliche Zahl bleibt die der Landesdatei. In den übrigen 13 Wahlkreisen lag keine zweite Zahl, die sich eindeutig lesen ließ, oder die Kreiswahlleitung nennt keinen Eingang.",
         "gemeindenMitSchlussel": 218
+      },
+      "prozentHuerde": {
+        "prozent": 5,
+        "von": "zweit"
       }
     },
     {
@@ -134,6 +146,11 @@
           "von": 95111
         },
         "note": "Geprüft wurden die Wahlbezirks- und Wahlkreisdateien der Länder, soweit sie absolute Stimmen trennen: Schleswig-Holstein und Hamburg beim Statistikamt Nord, Niedersachsen beim Landesamt für Statistik, Nordrhein-Westfalen bei der Landeswahlleiterin, Mecklenburg-Vorpommern beim Landeswahlleiter, Sachsen beim Statistischen Landesamt und bei der Stadt Dresden, Berlin und Brandenburg beim Amt für Statistik Berlin-Brandenburg, Baden-Württemberg auf der Wahlsonderseite, Bayern beim Landeswahlleiter und in 13 AKDB-Dateien, dazu VoteManager über WABEO vom 27.02.2025. Die Bundeszahl bleibt. Rheinland-Pfalz hat eine Wahlbezirksmappe, deren Schlüssel sich nicht sicher trennen lässt; daraus keine Zahl. Bremen ohne Datei, Hessen nur nach Anmeldung, Thüringen nur als HTML. Wahlscheine an einem Wahlkreis nur, wo die zweite Quelle das ganze Gebiet deckt."
+      },
+      "prozentHuerde": {
+        "prozent": 5,
+        "von": "zweit",
+        "ausnahme": "nationale Minderheiten"
       }
     },
     {
@@ -167,6 +184,10 @@
           "von": 91753
         },
         "note": "Es gibt keine Wahlkreise. wahlkreise, mitAlternativdaten und durchsucht bleiben 0. 194 Kreise haben eine zweite Datei mit absoluten Stimmen: Bayern 96, Nordrhein-Westfalen 53, Niedersachsen 45. Die Bundeszahl bleibt. Schleswig-Holstein ist gesichert, ohne Zahl. Die übrigen Länder sind hier nicht mit einer zweiten Datei belegt. Nicht jede Kreisseite ist geöffnet."
+      },
+      "prozentHuerde": {
+        "prozent": null,
+        "von": null
       }
     }
   ]
