@@ -1,0 +1,1 @@
+{"format":"wahldaten-summenkonflikte-v1","electionId":"de-bw-lt-2026","note":"Abweichungen zwischen der Summe der Wahlbezirke und der amtlichen Zeile. field nutzt party_id. Das ist nicht die zweite Quelle. Die steht unter conflicts/.","units":{"de-bw-lt-2026-land":[{"field":"erst.votes.Anderer Kreiswahlvorschlag","official":null,"calculated":5108}]}}
