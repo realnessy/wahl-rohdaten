@@ -4,6 +4,8 @@
 
 Kein Programmcode. Nur die Dateien der Wahlämter und die daraus gebauten JSON-Dateien.
 
+Der Zweig main enthält die fünf veröffentlichten Wahlen. Weitere Wahlen, die lediglich eingelesen aber nicht angemessen geprüft, getestet und gebietsweise mit Bundestagswahl abgeglichen wurden, liegen auf dem Zweig extra.
+
 Der Zweig `main` enthält die fünf veröffentlichten Wahlen. Weitere Wahlen liegen auf dem Zweig `extra`.
 
 Abruf ausschließlich über jsDelivr:
